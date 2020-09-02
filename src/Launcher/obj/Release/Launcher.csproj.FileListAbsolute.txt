@@ -1,0 +1,29 @@
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\Launcher\obj\Release\MainWindow.g.cs
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\Launcher\obj\Release\App.g.cs
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\Launcher\obj\Release\MainWindow.baml
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\Launcher\obj\Release\Launcher.Properties.Resources.resources
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\Launcher\obj\Release\Launcher.csproj.GenerateResource.cache
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\Launcher\obj\Release\Launcher.csproj.CoreCompileInputs.cache
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\Launcher\bin\Release\S4QuartzLauncher.exe.config
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\Launcher\bin\Release\S4QuartzLauncher.exe
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\Launcher\bin\Release\S4QuartzLauncher.pdb
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\Launcher\obj\Release\S4QuartzLauncher_MarkupCompile.cache
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\Launcher\obj\Release\S4QuartzLauncher_MarkupCompile.lref
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\Launcher\obj\Release\S4QuartzLauncher.g.resources
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\Launcher\obj\Release\S4QuartzLauncher.exe
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\Launcher\obj\Release\S4QuartzLauncher.pdb
+D:\Projects\violet 1332+ userinfo\Launcher\obj\Release\MainWindow.g.cs
+D:\Projects\violet 1332+ userinfo\Launcher\obj\Release\App.g.cs
+D:\Projects\violet 1332+ userinfo\Launcher\obj\Release\S4QuartzLauncher_MarkupCompile.cache
+D:\Projects\violet 1332+ userinfo\Launcher\obj\Release\S4QuartzLauncher_MarkupCompile.lref
+D:\Projects\violet 1332+ userinfo\Launcher\obj\Release\S4QuartzLauncher.exe
+D:\Projects\violet 1332+ userinfo\Launcher\obj\Release\S4QuartzLauncher.pdb
+D:\Projects\violet 1332+ userinfo\Launcher\bin\Release\S4QuartzLauncher.exe.config
+D:\Projects\violet 1332+ userinfo\Launcher\bin\Release\S4QuartzLauncher.exe
+D:\Projects\violet 1332+ userinfo\Launcher\bin\Release\S4QuartzLauncher.pdb
+D:\Projects\violet 1332+ userinfo\Launcher\obj\Release\MainWindow.baml
+D:\Projects\violet 1332+ userinfo\Launcher\obj\Release\S4QuartzLauncher.g.resources
+D:\Projects\violet 1332+ userinfo\Launcher\obj\Release\Launcher.Properties.Resources.resources
+D:\Projects\violet 1332+ userinfo\Launcher\obj\Release\Launcher.csproj.GenerateResource.cache
+D:\Projects\violet 1332+ userinfo\Launcher\obj\Release\Launcher.csproj.CoreCompileInputs.cache
+D:\Projects\violet 1332+ userinfo\Launcher\obj\Release\Launcher.csprojAssemblyReference.cache

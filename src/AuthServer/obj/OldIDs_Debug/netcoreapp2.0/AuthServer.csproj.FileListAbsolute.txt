@@ -1,0 +1,53 @@
+C:\Users\rober\Desktop\SourceCode\src\AuthServer\bin\OldIDs_Debug\netcoreapp2.0\miniLzo_x64.dll
+C:\Users\rober\Desktop\SourceCode\src\AuthServer\bin\OldIDs_Debug\netcoreapp2.0\miniLzo_x86.dll
+C:\Users\rober\Desktop\SourceCode\src\AuthServer\bin\OldIDs_Debug\netcoreapp2.0\liblzo.so
+C:\Users\rober\Desktop\SourceCode\src\AuthServer\bin\OldIDs_Debug\netcoreapp2.0\AuthServer.deps.json
+C:\Users\rober\Desktop\SourceCode\src\AuthServer\bin\OldIDs_Debug\netcoreapp2.0\AuthServer.runtimeconfig.json
+C:\Users\rober\Desktop\SourceCode\src\AuthServer\bin\OldIDs_Debug\netcoreapp2.0\AuthServer.runtimeconfig.dev.json
+C:\Users\rober\Desktop\SourceCode\src\AuthServer\bin\OldIDs_Debug\netcoreapp2.0\AuthServer.dll
+C:\Users\rober\Desktop\SourceCode\src\AuthServer\bin\OldIDs_Debug\netcoreapp2.0\AuthServer.pdb
+C:\Users\rober\Desktop\SourceCode\src\AuthServer\bin\OldIDs_Debug\netcoreapp2.0\AuthServer.ServiceModel.dll
+C:\Users\rober\Desktop\SourceCode\src\AuthServer\bin\OldIDs_Debug\netcoreapp2.0\NeoNetsphere.Database.dll
+C:\Users\rober\Desktop\SourceCode\src\AuthServer\bin\OldIDs_Debug\netcoreapp2.0\NeoNetsphere.dll
+C:\Users\rober\Desktop\SourceCode\src\AuthServer\bin\OldIDs_Debug\netcoreapp2.0\NeoNetsphere.Network.dll
+C:\Users\rober\Desktop\SourceCode\src\AuthServer\bin\OldIDs_Debug\netcoreapp2.0\ProudNetSrc.dll
+C:\Users\rober\Desktop\SourceCode\src\AuthServer\bin\OldIDs_Debug\netcoreapp2.0\SharpLzo.dll
+C:\Users\rober\Desktop\SourceCode\src\AuthServer\bin\OldIDs_Debug\netcoreapp2.0\AuthServer.ServiceModel.pdb
+C:\Users\rober\Desktop\SourceCode\src\AuthServer\bin\OldIDs_Debug\netcoreapp2.0\NeoNetsphere.Database.pdb
+C:\Users\rober\Desktop\SourceCode\src\AuthServer\bin\OldIDs_Debug\netcoreapp2.0\NeoNetsphere.Network.pdb
+C:\Users\rober\Desktop\SourceCode\src\AuthServer\bin\OldIDs_Debug\netcoreapp2.0\NeoNetsphere.pdb
+C:\Users\rober\Desktop\SourceCode\src\AuthServer\bin\OldIDs_Debug\netcoreapp2.0\ProudNetSrc.pdb
+C:\Users\rober\Desktop\SourceCode\src\AuthServer\obj\OldIDs_Debug\netcoreapp2.0\AuthServer.csprojAssemblyReference.cache
+C:\Users\rober\Desktop\SourceCode\src\AuthServer\obj\OldIDs_Debug\netcoreapp2.0\AuthServer.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\SourceCode\src\AuthServer\obj\OldIDs_Debug\netcoreapp2.0\AuthServer.AssemblyInfoInputs.cache
+C:\Users\rober\Desktop\SourceCode\src\AuthServer\obj\OldIDs_Debug\netcoreapp2.0\AuthServer.AssemblyInfo.cs
+C:\Users\rober\Desktop\SourceCode\src\AuthServer\obj\OldIDs_Debug\netcoreapp2.0\AuthServer.csproj.CopyComplete
+C:\Users\rober\Desktop\SourceCode\src\AuthServer\obj\OldIDs_Debug\netcoreapp2.0\AuthServer.dll
+C:\Users\rober\Desktop\SourceCode\src\AuthServer\obj\OldIDs_Debug\netcoreapp2.0\AuthServer.pdb
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer\obj\OldIDs_Debug\netcoreapp2.0\AuthServer.csprojAssemblyReference.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer\obj\OldIDs_Debug\netcoreapp2.0\AuthServer.AssemblyInfoInputs.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer\obj\OldIDs_Debug\netcoreapp2.0\AuthServer.AssemblyInfo.cs
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer\obj\OldIDs_Debug\netcoreapp2.0\AuthServer.csproj.CoreCompileInputs.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer\obj\OldIDs_Debug\netcoreapp2.0\AuthServer.dll
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer\obj\OldIDs_Debug\netcoreapp2.0\AuthServer.pdb
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer\bin\OldIDs_Debug\netcoreapp2.0\miniLzo_x64.dll
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer\bin\OldIDs_Debug\netcoreapp2.0\miniLzo_x86.dll
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer\bin\OldIDs_Debug\netcoreapp2.0\liblzo.so
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer\bin\OldIDs_Debug\netcoreapp2.0\AuthServer.deps.json
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer\bin\OldIDs_Debug\netcoreapp2.0\AuthServer.runtimeconfig.json
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer\bin\OldIDs_Debug\netcoreapp2.0\AuthServer.runtimeconfig.dev.json
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer\bin\OldIDs_Debug\netcoreapp2.0\AuthServer.dll
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer\bin\OldIDs_Debug\netcoreapp2.0\AuthServer.pdb
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer\bin\OldIDs_Debug\netcoreapp2.0\AuthServer.ServiceModel.dll
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer\bin\OldIDs_Debug\netcoreapp2.0\ProudNetSrc.dll
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer\bin\OldIDs_Debug\netcoreapp2.0\Violet.Database.dll
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer\bin\OldIDs_Debug\netcoreapp2.0\Violet.dll
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer\bin\OldIDs_Debug\netcoreapp2.0\Violet.Network.dll
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer\bin\OldIDs_Debug\netcoreapp2.0\AuthServer.ServiceModel.pdb
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer\bin\OldIDs_Debug\netcoreapp2.0\Violet.Database.pdb
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer\bin\OldIDs_Debug\netcoreapp2.0\Violet.pdb
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer\bin\OldIDs_Debug\netcoreapp2.0\ProudNetSrc.pdb
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer\obj\OldIDs_Debug\netcoreapp2.0\AuthServer.csproj.CopyComplete
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer\obj\OldIDs_Debug\netcoreapp2.0\AuthServer.genruntimeconfig.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer\bin\OldIDs_Debug\netcoreapp2.0\SharpLzo.dll
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer\bin\OldIDs_Debug\netcoreapp2.0\Violet.Network.pdb

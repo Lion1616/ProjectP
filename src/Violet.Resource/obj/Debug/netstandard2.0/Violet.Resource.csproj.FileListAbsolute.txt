@@ -1,0 +1,14 @@
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Violet.Resource\bin\Debug\netstandard2.0\miniLzo_x64.dll
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Violet.Resource\bin\Debug\netstandard2.0\miniLzo_x86.dll
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Violet.Resource\bin\Debug\netstandard2.0\liblzo.so
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Violet.Resource\bin\Debug\netstandard2.0\Violet.Resource.deps.json
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Violet.Resource\bin\Debug\netstandard2.0\Violet.Resource.dll
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Violet.Resource\bin\Debug\netstandard2.0\Violet.Resource.pdb
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Violet.Resource\bin\Debug\netstandard2.0\SharpLzo.dll
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Violet.Resource\obj\Debug\netstandard2.0\Violet.Resource.csprojAssemblyReference.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Violet.Resource\obj\Debug\netstandard2.0\Violet.Resource.AssemblyInfoInputs.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Violet.Resource\obj\Debug\netstandard2.0\Violet.Resource.AssemblyInfo.cs
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Violet.Resource\obj\Debug\netstandard2.0\Violet.Resource.csproj.CoreCompileInputs.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Violet.Resource\obj\Debug\netstandard2.0\Violet.Resource.csproj.CopyComplete
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Violet.Resource\obj\Debug\netstandard2.0\Violet.Resource.dll
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Violet.Resource\obj\Debug\netstandard2.0\Violet.Resource.pdb

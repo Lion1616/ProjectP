@@ -1,0 +1,8 @@
+C:\Users\rober\Desktop\SourceCode\src\NeoNetsphere\bin\OldIDs_Debug\netstandard2.0\NeoNetsphere.deps.json
+C:\Users\rober\Desktop\SourceCode\src\NeoNetsphere\bin\OldIDs_Debug\netstandard2.0\NeoNetsphere.dll
+C:\Users\rober\Desktop\SourceCode\src\NeoNetsphere\bin\OldIDs_Debug\netstandard2.0\NeoNetsphere.pdb
+C:\Users\rober\Desktop\SourceCode\src\NeoNetsphere\obj\OldIDs_Debug\netstandard2.0\NeoNetsphere.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\SourceCode\src\NeoNetsphere\obj\OldIDs_Debug\netstandard2.0\NeoNetsphere.AssemblyInfoInputs.cache
+C:\Users\rober\Desktop\SourceCode\src\NeoNetsphere\obj\OldIDs_Debug\netstandard2.0\NeoNetsphere.AssemblyInfo.cs
+C:\Users\rober\Desktop\SourceCode\src\NeoNetsphere\obj\OldIDs_Debug\netstandard2.0\NeoNetsphere.dll
+C:\Users\rober\Desktop\SourceCode\src\NeoNetsphere\obj\OldIDs_Debug\netstandard2.0\NeoNetsphere.pdb

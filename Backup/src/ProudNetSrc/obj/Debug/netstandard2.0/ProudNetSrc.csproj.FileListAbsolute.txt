@@ -1,0 +1,9 @@
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\Backup\src\ProudNetSrc\bin\Debug\netstandard2.0\ProudNetSrc.deps.json
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\Backup\src\ProudNetSrc\bin\Debug\netstandard2.0\ProudNetSrc.dll
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\Backup\src\ProudNetSrc\bin\Debug\netstandard2.0\ProudNetSrc.pdb
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\Backup\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.csprojAssemblyReference.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\Backup\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.AssemblyInfoInputs.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\Backup\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.AssemblyInfo.cs
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\Backup\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.csproj.CoreCompileInputs.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\Backup\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.dll
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\Backup\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.pdb

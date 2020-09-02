@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\violet 1332+ userinfo\\src\\NeoNetsphere.Database\\NeoNetsphere.Database.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\violet 1332+ userinfo\\src\\NeoNetsphere.Database\\NeoNetsphere.Database.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\violet 1332+ userinfo\\src\\NeoNetsphere.Database\\NeoNetsphere.Database.csproj",
+        "projectName": "NeoNetsphere.Database",
+        "projectPath": "D:\\Projects\\violet 1332+ userinfo\\src\\NeoNetsphere.Database\\NeoNetsphere.Database.csproj",
+        "packagesPath": "C:\\Users\\Lunar\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\violet 1332+ userinfo\\src\\NeoNetsphere.Database\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "D:\\Projects\\violet 1332+ userinfo\\NuGet.Config",
+          "C:\\Users\\Lunar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Projects\\violet 1332+ userinfo\\LocalPackages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[1.50.5, )"
+            },
+            "Dapper.FastCrud": {
+              "target": "Package",
+              "version": "[2.5.0.39, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

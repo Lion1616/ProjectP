@@ -1,0 +1,12 @@
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\Backup\src\AuthServer.ServiceModel\bin\OldIDs_Debug\netstandard2.0\AuthServer.ServiceModel.deps.json
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\Backup\src\AuthServer.ServiceModel\bin\OldIDs_Debug\netstandard2.0\AuthServer.ServiceModel.dll
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\Backup\src\AuthServer.ServiceModel\bin\OldIDs_Debug\netstandard2.0\AuthServer.ServiceModel.pdb
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\Backup\src\AuthServer.ServiceModel\bin\OldIDs_Debug\netstandard2.0\ProudNetSrc.dll
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\Backup\src\AuthServer.ServiceModel\bin\OldIDs_Debug\netstandard2.0\ProudNetSrc.pdb
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\Backup\src\AuthServer.ServiceModel\obj\OldIDs_Debug\netstandard2.0\AuthServer.ServiceModel.csprojAssemblyReference.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\Backup\src\AuthServer.ServiceModel\obj\OldIDs_Debug\netstandard2.0\AuthServer.ServiceModel.AssemblyInfoInputs.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\Backup\src\AuthServer.ServiceModel\obj\OldIDs_Debug\netstandard2.0\AuthServer.ServiceModel.AssemblyInfo.cs
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\Backup\src\AuthServer.ServiceModel\obj\OldIDs_Debug\netstandard2.0\AuthServer.ServiceModel.csproj.CoreCompileInputs.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\Backup\src\AuthServer.ServiceModel\obj\OldIDs_Debug\netstandard2.0\AuthServer.ServiceModel.csproj.CopyComplete
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\Backup\src\AuthServer.ServiceModel\obj\OldIDs_Debug\netstandard2.0\AuthServer.ServiceModel.dll
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\Backup\src\AuthServer.ServiceModel\obj\OldIDs_Debug\netstandard2.0\AuthServer.ServiceModel.pdb

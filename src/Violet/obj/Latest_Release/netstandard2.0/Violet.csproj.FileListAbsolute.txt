@@ -1,0 +1,50 @@
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\Violet.deps.json
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\Violet.dll
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\Violet.pdb
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\Violet.csproj.CoreCompileInputs.cache
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\Violet.AssemblyInfoInputs.cache
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\Violet.AssemblyInfo.cs
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\Violet.dll
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\Violet.pdb
+D:\Projects\Backup\violet 1332+ userinfo\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\Violet.deps.json
+D:\Projects\Backup\violet 1332+ userinfo\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\Violet.dll
+D:\Projects\Backup\violet 1332+ userinfo\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\Violet.pdb
+D:\Projects\Backup\violet 1332+ userinfo\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\Violet.csprojAssemblyReference.cache
+D:\Projects\Backup\violet 1332+ userinfo\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\Violet.csproj.CoreCompileInputs.cache
+D:\Projects\Backup\violet 1332+ userinfo\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\Violet.AssemblyInfoInputs.cache
+D:\Projects\Backup\violet 1332+ userinfo\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\Violet.AssemblyInfo.cs
+D:\Projects\Backup\violet 1332+ userinfo\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\Violet.dll
+D:\Projects\Backup\violet 1332+ userinfo\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\Violet.pdb
+C:\Users\Kora\Desktop\last try\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\Violet.deps.json
+C:\Users\Kora\Desktop\last try\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\Violet.dll
+C:\Users\Kora\Desktop\last try\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\Violet.pdb
+C:\Users\Kora\Desktop\last try\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\Violet.AssemblyInfoInputs.cache
+C:\Users\Kora\Desktop\last try\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\Violet.AssemblyInfo.cs
+C:\Users\Kora\Desktop\last try\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\Violet.dll
+C:\Users\Kora\Desktop\last try\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\Violet.pdb
+C:\Users\Kora\Desktop\last try\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\Violet.csprojAssemblyReference.cache
+C:\Users\Kora\Desktop\s4emu\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\Violet.deps.json
+C:\Users\Kora\Desktop\s4emu\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\Violet.dll
+C:\Users\Kora\Desktop\s4emu\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\Violet.pdb
+C:\Users\Kora\Desktop\s4emu\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\Violet.csprojAssemblyReference.cache
+C:\Users\Kora\Desktop\s4emu\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\Violet.AssemblyInfoInputs.cache
+C:\Users\Kora\Desktop\s4emu\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\Violet.AssemblyInfo.cs
+C:\Users\Kora\Desktop\s4emu\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\Violet.dll
+C:\Users\Kora\Desktop\s4emu\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\Violet.pdb
+C:\Users\Kora\Desktop\s4emu\src\Violet\bin\Latest_Release\netstandard2.0\Violet.deps.json
+C:\Users\Kora\Desktop\s4emu\src\Violet\bin\Latest_Release\netstandard2.0\Violet.dll
+C:\Users\Kora\Desktop\s4emu\src\Violet\bin\Latest_Release\netstandard2.0\Violet.pdb
+C:\Users\Kora\Desktop\s4emu\src\Violet\obj\Latest_Release\netstandard2.0\Violet.AssemblyInfoInputs.cache
+C:\Users\Kora\Desktop\s4emu\src\Violet\obj\Latest_Release\netstandard2.0\Violet.AssemblyInfo.cs
+C:\Users\Kora\Desktop\s4emu\src\Violet\obj\Latest_Release\netstandard2.0\Violet.dll
+C:\Users\Kora\Desktop\s4emu\src\Violet\obj\Latest_Release\netstandard2.0\Violet.pdb
+C:\Users\Kora\Desktop\s4emu\src\Violet\obj\Latest_Release\netstandard2.0\Violet.csprojAssemblyReference.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Violet\bin\Latest_Release\netstandard2.0\Violet.deps.json
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Violet\bin\Latest_Release\netstandard2.0\Violet.dll
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Violet\bin\Latest_Release\netstandard2.0\Violet.pdb
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Violet\obj\Latest_Release\netstandard2.0\Violet.csprojAssemblyReference.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Violet\obj\Latest_Release\netstandard2.0\Violet.AssemblyInfoInputs.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Violet\obj\Latest_Release\netstandard2.0\Violet.AssemblyInfo.cs
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Violet\obj\Latest_Release\netstandard2.0\Violet.csproj.CoreCompileInputs.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Violet\obj\Latest_Release\netstandard2.0\Violet.dll
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Violet\obj\Latest_Release\netstandard2.0\Violet.pdb

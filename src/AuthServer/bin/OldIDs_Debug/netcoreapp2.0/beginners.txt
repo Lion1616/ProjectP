@@ -1,0 +1,13 @@
+database:
+  {
+    engine: SQLite
+    auth:
+    {
+      filename: ..\..\..\..\db\auth.db
+      host: localhost
+      port: 3306
+      username: null
+      password: null
+      database: null
+    }
+  }

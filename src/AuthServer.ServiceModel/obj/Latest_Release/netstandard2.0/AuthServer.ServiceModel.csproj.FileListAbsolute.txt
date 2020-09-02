@@ -1,0 +1,118 @@
+D:\S4\SourceCode\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.deps.json
+D:\S4\SourceCode\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.dll
+D:\S4\SourceCode\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.pdb
+D:\S4\SourceCode\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\ProudNetSrc.dll
+D:\S4\SourceCode\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\ProudNetSrc.pdb
+D:\S4\SourceCode\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csprojAssemblyReference.cache
+D:\S4\SourceCode\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csproj.CoreCompileInputs.cache
+D:\S4\SourceCode\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfoInputs.cache
+D:\S4\SourceCode\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfo.cs
+D:\S4\SourceCode\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csproj.CopyComplete
+D:\S4\SourceCode\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.dll
+D:\S4\SourceCode\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.pdb
+C:\Users\rober\Desktop\SourceCode\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.deps.json
+C:\Users\rober\Desktop\SourceCode\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.dll
+C:\Users\rober\Desktop\SourceCode\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.pdb
+C:\Users\rober\Desktop\SourceCode\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\ProudNetSrc.dll
+C:\Users\rober\Desktop\SourceCode\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\ProudNetSrc.pdb
+C:\Users\rober\Desktop\SourceCode\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csprojAssemblyReference.cache
+C:\Users\rober\Desktop\SourceCode\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\SourceCode\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfoInputs.cache
+C:\Users\rober\Desktop\SourceCode\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfo.cs
+C:\Users\rober\Desktop\SourceCode\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csproj.CopyComplete
+C:\Users\rober\Desktop\SourceCode\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.dll
+C:\Users\rober\Desktop\SourceCode\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.pdb
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.deps.json
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.dll
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.pdb
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\ProudNetSrc.dll
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\ProudNetSrc.pdb
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csprojAssemblyReference.cache
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csproj.CoreCompileInputs.cache
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfoInputs.cache
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfo.cs
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csproj.CopyComplete
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.dll
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.pdb
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.deps.json
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.dll
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.pdb
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\ProudNetSrc.dll
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\ProudNetSrc.pdb
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csprojAssemblyReference.cache
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csproj.CoreCompileInputs.cache
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfoInputs.cache
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfo.cs
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csproj.CopyComplete
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.dll
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.pdb
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.deps.json
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.dll
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.pdb
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\ProudNetSrc.dll
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\ProudNetSrc.pdb
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csprojAssemblyReference.cache
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csproj.CoreCompileInputs.cache
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfoInputs.cache
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfo.cs
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csproj.CopyComplete
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.dll
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.pdb
+D:\Projects\violet 1332+ userinfo\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.deps.json
+D:\Projects\violet 1332+ userinfo\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.dll
+D:\Projects\violet 1332+ userinfo\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.pdb
+D:\Projects\violet 1332+ userinfo\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\ProudNetSrc.dll
+D:\Projects\violet 1332+ userinfo\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\ProudNetSrc.pdb
+D:\Projects\violet 1332+ userinfo\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csprojAssemblyReference.cache
+D:\Projects\violet 1332+ userinfo\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csproj.CoreCompileInputs.cache
+D:\Projects\violet 1332+ userinfo\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfoInputs.cache
+D:\Projects\violet 1332+ userinfo\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfo.cs
+D:\Projects\violet 1332+ userinfo\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csproj.CopyComplete
+D:\Projects\violet 1332+ userinfo\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.dll
+D:\Projects\violet 1332+ userinfo\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.pdb
+D:\Projects\Backup\violet 1332+ userinfo\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.deps.json
+D:\Projects\Backup\violet 1332+ userinfo\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.dll
+D:\Projects\Backup\violet 1332+ userinfo\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.pdb
+D:\Projects\Backup\violet 1332+ userinfo\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\ProudNetSrc.dll
+D:\Projects\Backup\violet 1332+ userinfo\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\ProudNetSrc.pdb
+D:\Projects\Backup\violet 1332+ userinfo\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csprojAssemblyReference.cache
+D:\Projects\Backup\violet 1332+ userinfo\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csproj.CoreCompileInputs.cache
+D:\Projects\Backup\violet 1332+ userinfo\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfoInputs.cache
+D:\Projects\Backup\violet 1332+ userinfo\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfo.cs
+D:\Projects\Backup\violet 1332+ userinfo\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csproj.CopyComplete
+D:\Projects\Backup\violet 1332+ userinfo\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.dll
+D:\Projects\Backup\violet 1332+ userinfo\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.pdb
+C:\Users\Kora\Desktop\last try\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.deps.json
+C:\Users\Kora\Desktop\last try\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.dll
+C:\Users\Kora\Desktop\last try\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.pdb
+C:\Users\Kora\Desktop\last try\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\ProudNetSrc.dll
+C:\Users\Kora\Desktop\last try\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\ProudNetSrc.pdb
+C:\Users\Kora\Desktop\last try\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csprojAssemblyReference.cache
+C:\Users\Kora\Desktop\last try\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfoInputs.cache
+C:\Users\Kora\Desktop\last try\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfo.cs
+C:\Users\Kora\Desktop\last try\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csproj.CopyComplete
+C:\Users\Kora\Desktop\last try\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.dll
+C:\Users\Kora\Desktop\last try\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.pdb
+C:\Users\Kora\Desktop\s4emu\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.deps.json
+C:\Users\Kora\Desktop\s4emu\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.dll
+C:\Users\Kora\Desktop\s4emu\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.pdb
+C:\Users\Kora\Desktop\s4emu\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\ProudNetSrc.dll
+C:\Users\Kora\Desktop\s4emu\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\ProudNetSrc.pdb
+C:\Users\Kora\Desktop\s4emu\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csprojAssemblyReference.cache
+C:\Users\Kora\Desktop\s4emu\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfoInputs.cache
+C:\Users\Kora\Desktop\s4emu\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfo.cs
+C:\Users\Kora\Desktop\s4emu\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csproj.CopyComplete
+C:\Users\Kora\Desktop\s4emu\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.dll
+C:\Users\Kora\Desktop\s4emu\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.pdb
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.deps.json
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.dll
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\AuthServer.ServiceModel.pdb
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\ProudNetSrc.dll
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer.ServiceModel\bin\Latest_Release\netstandard2.0\ProudNetSrc.pdb
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csprojAssemblyReference.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfoInputs.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfo.cs
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csproj.CoreCompileInputs.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.csproj.CopyComplete
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.dll
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer.ServiceModel\obj\Latest_Release\netstandard2.0\AuthServer.ServiceModel.pdb

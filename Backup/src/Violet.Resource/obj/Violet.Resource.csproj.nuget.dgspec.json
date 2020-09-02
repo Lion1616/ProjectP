@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Server pack\\Remnants Release Pack\\S4 Only tools\\S4League-Emu-1332-master\\Backup\\src\\Violet.Resource\\Violet.Resource.csproj": {}
+  },
+  "projects": {
+    "D:\\Server pack\\Remnants Release Pack\\S4 Only tools\\S4League-Emu-1332-master\\Backup\\src\\Violet.Resource\\Violet.Resource.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Server pack\\Remnants Release Pack\\S4 Only tools\\S4League-Emu-1332-master\\Backup\\src\\Violet.Resource\\Violet.Resource.csproj",
+        "projectName": "Violet.Resource",
+        "projectPath": "D:\\Server pack\\Remnants Release Pack\\S4 Only tools\\S4League-Emu-1332-master\\Backup\\src\\Violet.Resource\\Violet.Resource.csproj",
+        "packagesPath": "C:\\Users\\sarak\\.nuget\\packages\\",
+        "outputPath": "D:\\Server pack\\Remnants Release Pack\\S4 Only tools\\S4League-Emu-1332-master\\Backup\\src\\Violet.Resource\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "D:\\Server pack\\Remnants Release Pack\\S4 Only tools\\S4League-Emu-1332-master\\NuGet.Config",
+          "C:\\Users\\sarak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Server pack\\Remnants Release Pack\\S4 Only tools\\S4League-Emu-1332-master\\LocalPackages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "BlubLib": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Portable.BouncyCastle": {
+              "target": "Package",
+              "version": "[1.8.2, )"
+            },
+            "System.Numerics.Vectors": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,208 @@
+C:\Users\rober\Desktop\SourceCode\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\miniLzo_x64.dll
+C:\Users\rober\Desktop\SourceCode\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\miniLzo_x86.dll
+C:\Users\rober\Desktop\SourceCode\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\liblzo.so
+C:\Users\rober\Desktop\SourceCode\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\GameServer.deps.json
+C:\Users\rober\Desktop\SourceCode\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\GameServer.runtimeconfig.json
+C:\Users\rober\Desktop\SourceCode\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\GameServer.runtimeconfig.dev.json
+C:\Users\rober\Desktop\SourceCode\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\GameServer.dll
+C:\Users\rober\Desktop\SourceCode\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\GameServer.pdb
+C:\Users\rober\Desktop\SourceCode\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\AuthServer.ServiceModel.dll
+C:\Users\rober\Desktop\SourceCode\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\NeoNetsphere.Database.dll
+C:\Users\rober\Desktop\SourceCode\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\NeoNetsphere.dll
+C:\Users\rober\Desktop\SourceCode\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\NeoNetsphere.Network.dll
+C:\Users\rober\Desktop\SourceCode\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\ProudNetSrc.dll
+C:\Users\rober\Desktop\SourceCode\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\SharpLzo.dll
+C:\Users\rober\Desktop\SourceCode\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\AuthServer.ServiceModel.pdb
+C:\Users\rober\Desktop\SourceCode\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\NeoNetsphere.Database.pdb
+C:\Users\rober\Desktop\SourceCode\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\NeoNetsphere.Network.pdb
+C:\Users\rober\Desktop\SourceCode\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\NeoNetsphere.pdb
+C:\Users\rober\Desktop\SourceCode\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\ProudNetSrc.pdb
+C:\Users\rober\Desktop\SourceCode\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.csprojAssemblyReference.cache
+C:\Users\rober\Desktop\SourceCode\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\SourceCode\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.AssemblyInfoInputs.cache
+C:\Users\rober\Desktop\SourceCode\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.AssemblyInfo.cs
+C:\Users\rober\Desktop\SourceCode\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.csproj.CopyComplete
+C:\Users\rober\Desktop\SourceCode\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.dll
+C:\Users\rober\Desktop\SourceCode\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.pdb
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\miniLzo_x64.dll
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\miniLzo_x86.dll
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\liblzo.so
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\GameServer.deps.json
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\GameServer.runtimeconfig.json
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\GameServer.runtimeconfig.dev.json
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\GameServer.dll
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\GameServer.pdb
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\AuthServer.ServiceModel.dll
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\NeoNetsphere.Database.dll
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\NeoNetsphere.dll
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\NeoNetsphere.Network.dll
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\ProudNetSrc.dll
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\SharpLzo.dll
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\AuthServer.ServiceModel.pdb
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\NeoNetsphere.Database.pdb
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\NeoNetsphere.Network.pdb
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\NeoNetsphere.pdb
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\ProudNetSrc.pdb
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.csprojAssemblyReference.cache
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.csproj.CoreCompileInputs.cache
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.AssemblyInfoInputs.cache
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.AssemblyInfo.cs
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.csproj.CopyComplete
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.dll
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.pdb
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.csprojAssemblyReference.cache
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.csproj.CoreCompileInputs.cache
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.AssemblyInfoInputs.cache
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.AssemblyInfo.cs
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.dll
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.pdb
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\miniLzo_x64.dll
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\miniLzo_x86.dll
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\liblzo.so
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\GameServer.deps.json
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\GameServer.runtimeconfig.json
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\GameServer.runtimeconfig.dev.json
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\GameServer.dll
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\GameServer.pdb
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\AuthServer.ServiceModel.dll
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\NeoNetsphere.Database.dll
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\NeoNetsphere.dll
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\NeoNetsphere.Network.dll
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\ProudNetSrc.dll
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\SharpLzo.dll
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\AuthServer.ServiceModel.pdb
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\NeoNetsphere.Database.pdb
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\NeoNetsphere.Network.pdb
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\NeoNetsphere.pdb
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\ProudNetSrc.pdb
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.csproj.CopyComplete
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\miniLzo_x64.dll
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\miniLzo_x86.dll
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\liblzo.so
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\GameServer.deps.json
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\GameServer.runtimeconfig.json
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\GameServer.runtimeconfig.dev.json
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\GameServer.dll
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\GameServer.pdb
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\AuthServer.ServiceModel.dll
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\NeoNetsphere.Database.dll
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\NeoNetsphere.dll
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\NeoNetsphere.Network.dll
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\ProudNetSrc.dll
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\SharpLzo.dll
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\AuthServer.ServiceModel.pdb
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\NeoNetsphere.Database.pdb
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\NeoNetsphere.Network.pdb
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\NeoNetsphere.pdb
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\ProudNetSrc.pdb
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.csprojAssemblyReference.cache
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.csproj.CoreCompileInputs.cache
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.AssemblyInfoInputs.cache
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.AssemblyInfo.cs
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.csproj.CopyComplete
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.dll
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.pdb
+D:\Projects\violet 1332+ userinfo\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\miniLzo_x64.dll
+D:\Projects\violet 1332+ userinfo\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\miniLzo_x86.dll
+D:\Projects\violet 1332+ userinfo\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\liblzo.so
+D:\Projects\violet 1332+ userinfo\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\GameServer.deps.json
+D:\Projects\violet 1332+ userinfo\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\GameServer.runtimeconfig.json
+D:\Projects\violet 1332+ userinfo\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\GameServer.runtimeconfig.dev.json
+D:\Projects\violet 1332+ userinfo\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\GameServer.dll
+D:\Projects\violet 1332+ userinfo\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\GameServer.pdb
+D:\Projects\violet 1332+ userinfo\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\AuthServer.ServiceModel.dll
+D:\Projects\violet 1332+ userinfo\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\ProudNetSrc.dll
+D:\Projects\violet 1332+ userinfo\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\SharpLzo.dll
+D:\Projects\violet 1332+ userinfo\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\AuthServer.ServiceModel.pdb
+D:\Projects\violet 1332+ userinfo\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\ProudNetSrc.pdb
+D:\Projects\violet 1332+ userinfo\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.csprojAssemblyReference.cache
+D:\Projects\violet 1332+ userinfo\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.csproj.CoreCompileInputs.cache
+D:\Projects\violet 1332+ userinfo\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.AssemblyInfoInputs.cache
+D:\Projects\violet 1332+ userinfo\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.AssemblyInfo.cs
+D:\Projects\violet 1332+ userinfo\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.csproj.CopyComplete
+D:\Projects\violet 1332+ userinfo\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.dll
+D:\Projects\violet 1332+ userinfo\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.pdb
+D:\Projects\violet 1332+ userinfo\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\Violet.Database.dll
+D:\Projects\violet 1332+ userinfo\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\Violet.dll
+D:\Projects\violet 1332+ userinfo\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\Violet.Network.dll
+D:\Projects\violet 1332+ userinfo\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\Violet.Database.pdb
+D:\Projects\violet 1332+ userinfo\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\Violet.Network.pdb
+D:\Projects\violet 1332+ userinfo\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\Violet.pdb
+D:\Projects\Backup\violet 1332+ userinfo\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\miniLzo_x64.dll
+D:\Projects\Backup\violet 1332+ userinfo\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\miniLzo_x86.dll
+D:\Projects\Backup\violet 1332+ userinfo\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\liblzo.so
+D:\Projects\Backup\violet 1332+ userinfo\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\GameServer.deps.json
+D:\Projects\Backup\violet 1332+ userinfo\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\GameServer.runtimeconfig.json
+D:\Projects\Backup\violet 1332+ userinfo\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\GameServer.runtimeconfig.dev.json
+D:\Projects\Backup\violet 1332+ userinfo\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\GameServer.dll
+D:\Projects\Backup\violet 1332+ userinfo\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\GameServer.pdb
+D:\Projects\Backup\violet 1332+ userinfo\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\AuthServer.ServiceModel.dll
+D:\Projects\Backup\violet 1332+ userinfo\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\ProudNetSrc.dll
+D:\Projects\Backup\violet 1332+ userinfo\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\SharpLzo.dll
+D:\Projects\Backup\violet 1332+ userinfo\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\Violet.Database.dll
+D:\Projects\Backup\violet 1332+ userinfo\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\Violet.dll
+D:\Projects\Backup\violet 1332+ userinfo\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\Violet.Network.dll
+D:\Projects\Backup\violet 1332+ userinfo\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\AuthServer.ServiceModel.pdb
+D:\Projects\Backup\violet 1332+ userinfo\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\Violet.Database.pdb
+D:\Projects\Backup\violet 1332+ userinfo\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\Violet.Network.pdb
+D:\Projects\Backup\violet 1332+ userinfo\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\Violet.pdb
+D:\Projects\Backup\violet 1332+ userinfo\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\ProudNetSrc.pdb
+D:\Projects\Backup\violet 1332+ userinfo\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.csprojAssemblyReference.cache
+D:\Projects\Backup\violet 1332+ userinfo\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.csproj.CoreCompileInputs.cache
+D:\Projects\Backup\violet 1332+ userinfo\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.AssemblyInfoInputs.cache
+D:\Projects\Backup\violet 1332+ userinfo\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.AssemblyInfo.cs
+D:\Projects\Backup\violet 1332+ userinfo\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.csproj.CopyComplete
+D:\Projects\Backup\violet 1332+ userinfo\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.dll
+D:\Projects\Backup\violet 1332+ userinfo\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.pdb
+C:\Users\Kora\Desktop\last try\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\miniLzo_x64.dll
+C:\Users\Kora\Desktop\last try\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\miniLzo_x86.dll
+C:\Users\Kora\Desktop\last try\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\liblzo.so
+C:\Users\Kora\Desktop\last try\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\GameServer.deps.json
+C:\Users\Kora\Desktop\last try\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\GameServer.runtimeconfig.json
+C:\Users\Kora\Desktop\last try\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\GameServer.runtimeconfig.dev.json
+C:\Users\Kora\Desktop\last try\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\GameServer.dll
+C:\Users\Kora\Desktop\last try\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\GameServer.pdb
+C:\Users\Kora\Desktop\last try\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\AuthServer.ServiceModel.dll
+C:\Users\Kora\Desktop\last try\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\ProudNetSrc.dll
+C:\Users\Kora\Desktop\last try\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\SharpLzo.dll
+C:\Users\Kora\Desktop\last try\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\Violet.Database.dll
+C:\Users\Kora\Desktop\last try\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\Violet.dll
+C:\Users\Kora\Desktop\last try\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\Violet.Network.dll
+C:\Users\Kora\Desktop\last try\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\AuthServer.ServiceModel.pdb
+C:\Users\Kora\Desktop\last try\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\Violet.Database.pdb
+C:\Users\Kora\Desktop\last try\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\Violet.Network.pdb
+C:\Users\Kora\Desktop\last try\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\Violet.pdb
+C:\Users\Kora\Desktop\last try\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\ProudNetSrc.pdb
+C:\Users\Kora\Desktop\last try\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.csprojAssemblyReference.cache
+C:\Users\Kora\Desktop\last try\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.AssemblyInfoInputs.cache
+C:\Users\Kora\Desktop\last try\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.AssemblyInfo.cs
+C:\Users\Kora\Desktop\last try\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.csproj.CopyComplete
+C:\Users\Kora\Desktop\last try\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.dll
+C:\Users\Kora\Desktop\last try\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.pdb
+C:\Users\Kora\Desktop\s4emu\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\miniLzo_x64.dll
+C:\Users\Kora\Desktop\s4emu\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\miniLzo_x86.dll
+C:\Users\Kora\Desktop\s4emu\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\liblzo.so
+C:\Users\Kora\Desktop\s4emu\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\GameServer.deps.json
+C:\Users\Kora\Desktop\s4emu\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\GameServer.runtimeconfig.json
+C:\Users\Kora\Desktop\s4emu\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\GameServer.runtimeconfig.dev.json
+C:\Users\Kora\Desktop\s4emu\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\GameServer.dll
+C:\Users\Kora\Desktop\s4emu\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\GameServer.pdb
+C:\Users\Kora\Desktop\s4emu\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\AuthServer.ServiceModel.dll
+C:\Users\Kora\Desktop\s4emu\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\ProudNetSrc.dll
+C:\Users\Kora\Desktop\s4emu\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\SharpLzo.dll
+C:\Users\Kora\Desktop\s4emu\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\Violet.Database.dll
+C:\Users\Kora\Desktop\s4emu\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\Violet.dll
+C:\Users\Kora\Desktop\s4emu\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\Violet.Network.dll
+C:\Users\Kora\Desktop\s4emu\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\AuthServer.ServiceModel.pdb
+C:\Users\Kora\Desktop\s4emu\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\Violet.Database.pdb
+C:\Users\Kora\Desktop\s4emu\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\Violet.Network.pdb
+C:\Users\Kora\Desktop\s4emu\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\Violet.pdb
+C:\Users\Kora\Desktop\s4emu\src\GameServer\bin\LatestOld_Release\netcoreapp2.0\ProudNetSrc.pdb
+C:\Users\Kora\Desktop\s4emu\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.csprojAssemblyReference.cache
+C:\Users\Kora\Desktop\s4emu\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.AssemblyInfoInputs.cache
+C:\Users\Kora\Desktop\s4emu\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.AssemblyInfo.cs
+C:\Users\Kora\Desktop\s4emu\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.csproj.CopyComplete
+C:\Users\Kora\Desktop\s4emu\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.dll
+C:\Users\Kora\Desktop\s4emu\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.pdb
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.dll
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\obj\LatestOld_Release\netcoreapp2.0\GameServer.pdb

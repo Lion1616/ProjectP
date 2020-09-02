@@ -1,0 +1,24 @@
+C:\Users\rober\Desktop\SourceCode\src\AuthServer.ServiceModel\bin\OldIDs_Debug\netstandard2.0\AuthServer.ServiceModel.deps.json
+C:\Users\rober\Desktop\SourceCode\src\AuthServer.ServiceModel\bin\OldIDs_Debug\netstandard2.0\AuthServer.ServiceModel.dll
+C:\Users\rober\Desktop\SourceCode\src\AuthServer.ServiceModel\bin\OldIDs_Debug\netstandard2.0\AuthServer.ServiceModel.pdb
+C:\Users\rober\Desktop\SourceCode\src\AuthServer.ServiceModel\bin\OldIDs_Debug\netstandard2.0\ProudNetSrc.dll
+C:\Users\rober\Desktop\SourceCode\src\AuthServer.ServiceModel\bin\OldIDs_Debug\netstandard2.0\ProudNetSrc.pdb
+C:\Users\rober\Desktop\SourceCode\src\AuthServer.ServiceModel\obj\OldIDs_Debug\netstandard2.0\AuthServer.ServiceModel.csprojAssemblyReference.cache
+C:\Users\rober\Desktop\SourceCode\src\AuthServer.ServiceModel\obj\OldIDs_Debug\netstandard2.0\AuthServer.ServiceModel.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\SourceCode\src\AuthServer.ServiceModel\obj\OldIDs_Debug\netstandard2.0\AuthServer.ServiceModel.AssemblyInfoInputs.cache
+C:\Users\rober\Desktop\SourceCode\src\AuthServer.ServiceModel\obj\OldIDs_Debug\netstandard2.0\AuthServer.ServiceModel.AssemblyInfo.cs
+C:\Users\rober\Desktop\SourceCode\src\AuthServer.ServiceModel\obj\OldIDs_Debug\netstandard2.0\AuthServer.ServiceModel.csproj.CopyComplete
+C:\Users\rober\Desktop\SourceCode\src\AuthServer.ServiceModel\obj\OldIDs_Debug\netstandard2.0\AuthServer.ServiceModel.dll
+C:\Users\rober\Desktop\SourceCode\src\AuthServer.ServiceModel\obj\OldIDs_Debug\netstandard2.0\AuthServer.ServiceModel.pdb
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer.ServiceModel\bin\OldIDs_Debug\netstandard2.0\AuthServer.ServiceModel.deps.json
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer.ServiceModel\bin\OldIDs_Debug\netstandard2.0\AuthServer.ServiceModel.dll
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer.ServiceModel\bin\OldIDs_Debug\netstandard2.0\AuthServer.ServiceModel.pdb
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer.ServiceModel\bin\OldIDs_Debug\netstandard2.0\ProudNetSrc.dll
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer.ServiceModel\bin\OldIDs_Debug\netstandard2.0\ProudNetSrc.pdb
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer.ServiceModel\obj\OldIDs_Debug\netstandard2.0\AuthServer.ServiceModel.csprojAssemblyReference.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer.ServiceModel\obj\OldIDs_Debug\netstandard2.0\AuthServer.ServiceModel.AssemblyInfoInputs.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer.ServiceModel\obj\OldIDs_Debug\netstandard2.0\AuthServer.ServiceModel.AssemblyInfo.cs
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer.ServiceModel\obj\OldIDs_Debug\netstandard2.0\AuthServer.ServiceModel.csproj.CoreCompileInputs.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer.ServiceModel\obj\OldIDs_Debug\netstandard2.0\AuthServer.ServiceModel.csproj.CopyComplete
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer.ServiceModel\obj\OldIDs_Debug\netstandard2.0\AuthServer.ServiceModel.dll
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer.ServiceModel\obj\OldIDs_Debug\netstandard2.0\AuthServer.ServiceModel.pdb

@@ -1,0 +1,28 @@
+C:\Users\rober\Desktop\SourceCode\src\NeoNetsphere.Resource\bin\Debug\netstandard2.0\miniLzo_x64.dll
+C:\Users\rober\Desktop\SourceCode\src\NeoNetsphere.Resource\bin\Debug\netstandard2.0\miniLzo_x86.dll
+C:\Users\rober\Desktop\SourceCode\src\NeoNetsphere.Resource\bin\Debug\netstandard2.0\liblzo.so
+C:\Users\rober\Desktop\SourceCode\src\NeoNetsphere.Resource\bin\Debug\netstandard2.0\NeoNetsphere.Resource.deps.json
+C:\Users\rober\Desktop\SourceCode\src\NeoNetsphere.Resource\bin\Debug\netstandard2.0\NeoNetsphere.Resource.dll
+C:\Users\rober\Desktop\SourceCode\src\NeoNetsphere.Resource\bin\Debug\netstandard2.0\NeoNetsphere.Resource.pdb
+C:\Users\rober\Desktop\SourceCode\src\NeoNetsphere.Resource\bin\Debug\netstandard2.0\SharpLzo.dll
+C:\Users\rober\Desktop\SourceCode\src\NeoNetsphere.Resource\obj\Debug\netstandard2.0\NeoNetsphere.Resource.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\SourceCode\src\NeoNetsphere.Resource\obj\Debug\netstandard2.0\NeoNetsphere.Resource.AssemblyInfoInputs.cache
+C:\Users\rober\Desktop\SourceCode\src\NeoNetsphere.Resource\obj\Debug\netstandard2.0\NeoNetsphere.Resource.AssemblyInfo.cs
+C:\Users\rober\Desktop\SourceCode\src\NeoNetsphere.Resource\obj\Debug\netstandard2.0\NeoNetsphere.Resource.csproj.CopyComplete
+C:\Users\rober\Desktop\SourceCode\src\NeoNetsphere.Resource\obj\Debug\netstandard2.0\NeoNetsphere.Resource.dll
+C:\Users\rober\Desktop\SourceCode\src\NeoNetsphere.Resource\obj\Debug\netstandard2.0\NeoNetsphere.Resource.pdb
+C:\Users\rober\Desktop\SourceCode\src\NeoNetsphere.Resource\obj\Debug\netstandard2.0\NeoNetsphere.Resource.csprojAssemblyReference.cache
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\NeoNetsphere.Resource\bin\Debug\netstandard2.0\miniLzo_x64.dll
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\NeoNetsphere.Resource\bin\Debug\netstandard2.0\miniLzo_x86.dll
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\NeoNetsphere.Resource\bin\Debug\netstandard2.0\liblzo.so
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\NeoNetsphere.Resource\bin\Debug\netstandard2.0\NeoNetsphere.Resource.deps.json
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\NeoNetsphere.Resource\bin\Debug\netstandard2.0\NeoNetsphere.Resource.dll
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\NeoNetsphere.Resource\bin\Debug\netstandard2.0\NeoNetsphere.Resource.pdb
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\NeoNetsphere.Resource\bin\Debug\netstandard2.0\SharpLzo.dll
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\NeoNetsphere.Resource\obj\Debug\netstandard2.0\NeoNetsphere.Resource.csproj.CoreCompileInputs.cache
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\NeoNetsphere.Resource\obj\Debug\netstandard2.0\NeoNetsphere.Resource.AssemblyInfoInputs.cache
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\NeoNetsphere.Resource\obj\Debug\netstandard2.0\NeoNetsphere.Resource.AssemblyInfo.cs
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\NeoNetsphere.Resource\obj\Debug\netstandard2.0\NeoNetsphere.Resource.csproj.CopyComplete
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\NeoNetsphere.Resource\obj\Debug\netstandard2.0\NeoNetsphere.Resource.dll
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\NeoNetsphere.Resource\obj\Debug\netstandard2.0\NeoNetsphere.Resource.pdb
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\NeoNetsphere.Resource\obj\Debug\netstandard2.0\NeoNetsphere.Resource.csprojAssemblyReference.cache

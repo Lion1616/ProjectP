@@ -1,0 +1,15 @@
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Launcher\bin\Debug\Violet.exe.config
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Launcher\bin\Debug\Violet.exe
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Launcher\bin\Debug\Violet.pdb
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Launcher\obj\Debug\Violet.Launcher.csprojAssemblyReference.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Launcher\obj\Debug\MainWindow.g.cs
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Launcher\obj\Debug\App.g.cs
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Launcher\obj\Debug\Violet_MarkupCompile.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Launcher\obj\Debug\Violet_MarkupCompile.lref
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Launcher\obj\Debug\MainWindow.baml
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Launcher\obj\Debug\Violet.g.resources
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Launcher\obj\Debug\Violet.Launcher.csproj.GenerateResource.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Launcher\obj\Debug\Violet.Launcher.csproj.CoreCompileInputs.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Launcher\obj\Debug\Violet.exe
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Launcher\obj\Debug\Violet.pdb

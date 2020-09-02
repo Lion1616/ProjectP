@@ -1,0 +1,81 @@
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\miniLzo_x64.dll
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\miniLzo_x86.dll
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\liblzo.so
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\Violet.Resource.deps.json
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\Violet.Resource.dll
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\Violet.Resource.pdb
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\SharpLzo.dll
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\Violet.Resource.csprojAssemblyReference.cache
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\Violet.Resource.csproj.CoreCompileInputs.cache
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\Violet.Resource.AssemblyInfoInputs.cache
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\Violet.Resource.AssemblyInfo.cs
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\Violet.Resource.csproj.CopyComplete
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\Violet.Resource.dll
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\Violet.Resource.pdb
+D:\Projects\Backup\violet 1332+ userinfo\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\miniLzo_x64.dll
+D:\Projects\Backup\violet 1332+ userinfo\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\miniLzo_x86.dll
+D:\Projects\Backup\violet 1332+ userinfo\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\liblzo.so
+D:\Projects\Backup\violet 1332+ userinfo\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\Violet.Resource.deps.json
+D:\Projects\Backup\violet 1332+ userinfo\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\Violet.Resource.dll
+D:\Projects\Backup\violet 1332+ userinfo\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\Violet.Resource.pdb
+D:\Projects\Backup\violet 1332+ userinfo\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\SharpLzo.dll
+D:\Projects\Backup\violet 1332+ userinfo\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\Violet.Resource.csprojAssemblyReference.cache
+D:\Projects\Backup\violet 1332+ userinfo\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\Violet.Resource.csproj.CoreCompileInputs.cache
+D:\Projects\Backup\violet 1332+ userinfo\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\Violet.Resource.AssemblyInfoInputs.cache
+D:\Projects\Backup\violet 1332+ userinfo\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\Violet.Resource.AssemblyInfo.cs
+D:\Projects\Backup\violet 1332+ userinfo\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\Violet.Resource.csproj.CopyComplete
+D:\Projects\Backup\violet 1332+ userinfo\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\Violet.Resource.dll
+D:\Projects\Backup\violet 1332+ userinfo\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\Violet.Resource.pdb
+C:\Users\Kora\Desktop\last try\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\miniLzo_x64.dll
+C:\Users\Kora\Desktop\last try\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\miniLzo_x86.dll
+C:\Users\Kora\Desktop\last try\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\liblzo.so
+C:\Users\Kora\Desktop\last try\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\Violet.Resource.deps.json
+C:\Users\Kora\Desktop\last try\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\Violet.Resource.dll
+C:\Users\Kora\Desktop\last try\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\Violet.Resource.pdb
+C:\Users\Kora\Desktop\last try\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\SharpLzo.dll
+C:\Users\Kora\Desktop\last try\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\Violet.Resource.AssemblyInfoInputs.cache
+C:\Users\Kora\Desktop\last try\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\Violet.Resource.AssemblyInfo.cs
+C:\Users\Kora\Desktop\last try\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\Violet.Resource.csproj.CopyComplete
+C:\Users\Kora\Desktop\last try\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\Violet.Resource.dll
+C:\Users\Kora\Desktop\last try\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\Violet.Resource.pdb
+C:\Users\Kora\Desktop\last try\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\Violet.Resource.csprojAssemblyReference.cache
+C:\Users\Kora\Desktop\s4emu\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\miniLzo_x64.dll
+C:\Users\Kora\Desktop\s4emu\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\miniLzo_x86.dll
+C:\Users\Kora\Desktop\s4emu\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\liblzo.so
+C:\Users\Kora\Desktop\s4emu\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\Violet.Resource.deps.json
+C:\Users\Kora\Desktop\s4emu\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\Violet.Resource.dll
+C:\Users\Kora\Desktop\s4emu\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\Violet.Resource.pdb
+C:\Users\Kora\Desktop\s4emu\src\NeoNetsphere.Resource\bin\Release\netstandard2.0\SharpLzo.dll
+C:\Users\Kora\Desktop\s4emu\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\Violet.Resource.csprojAssemblyReference.cache
+C:\Users\Kora\Desktop\s4emu\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\Violet.Resource.AssemblyInfoInputs.cache
+C:\Users\Kora\Desktop\s4emu\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\Violet.Resource.AssemblyInfo.cs
+C:\Users\Kora\Desktop\s4emu\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\Violet.Resource.csproj.CopyComplete
+C:\Users\Kora\Desktop\s4emu\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\Violet.Resource.dll
+C:\Users\Kora\Desktop\s4emu\src\NeoNetsphere.Resource\obj\Release\netstandard2.0\Violet.Resource.pdb
+C:\Users\Kora\Desktop\s4emu\src\Violet.Resource\bin\Release\netstandard2.0\miniLzo_x64.dll
+C:\Users\Kora\Desktop\s4emu\src\Violet.Resource\bin\Release\netstandard2.0\miniLzo_x86.dll
+C:\Users\Kora\Desktop\s4emu\src\Violet.Resource\bin\Release\netstandard2.0\liblzo.so
+C:\Users\Kora\Desktop\s4emu\src\Violet.Resource\bin\Release\netstandard2.0\Violet.Resource.deps.json
+C:\Users\Kora\Desktop\s4emu\src\Violet.Resource\bin\Release\netstandard2.0\Violet.Resource.dll
+C:\Users\Kora\Desktop\s4emu\src\Violet.Resource\bin\Release\netstandard2.0\Violet.Resource.pdb
+C:\Users\Kora\Desktop\s4emu\src\Violet.Resource\bin\Release\netstandard2.0\SharpLzo.dll
+C:\Users\Kora\Desktop\s4emu\src\Violet.Resource\obj\Release\netstandard2.0\Violet.Resource.csprojAssemblyReference.cache
+C:\Users\Kora\Desktop\s4emu\src\Violet.Resource\obj\Release\netstandard2.0\Violet.Resource.AssemblyInfoInputs.cache
+C:\Users\Kora\Desktop\s4emu\src\Violet.Resource\obj\Release\netstandard2.0\Violet.Resource.AssemblyInfo.cs
+C:\Users\Kora\Desktop\s4emu\src\Violet.Resource\obj\Release\netstandard2.0\Violet.Resource.csproj.CopyComplete
+C:\Users\Kora\Desktop\s4emu\src\Violet.Resource\obj\Release\netstandard2.0\Violet.Resource.dll
+C:\Users\Kora\Desktop\s4emu\src\Violet.Resource\obj\Release\netstandard2.0\Violet.Resource.pdb
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Violet.Resource\bin\Release\netstandard2.0\miniLzo_x64.dll
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Violet.Resource\bin\Release\netstandard2.0\miniLzo_x86.dll
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Violet.Resource\bin\Release\netstandard2.0\liblzo.so
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Violet.Resource\bin\Release\netstandard2.0\Violet.Resource.deps.json
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Violet.Resource\bin\Release\netstandard2.0\Violet.Resource.dll
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Violet.Resource\bin\Release\netstandard2.0\Violet.Resource.pdb
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Violet.Resource\bin\Release\netstandard2.0\SharpLzo.dll
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Violet.Resource\obj\Release\netstandard2.0\Violet.Resource.csprojAssemblyReference.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Violet.Resource\obj\Release\netstandard2.0\Violet.Resource.AssemblyInfoInputs.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Violet.Resource\obj\Release\netstandard2.0\Violet.Resource.AssemblyInfo.cs
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Violet.Resource\obj\Release\netstandard2.0\Violet.Resource.csproj.CoreCompileInputs.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Violet.Resource\obj\Release\netstandard2.0\Violet.Resource.csproj.CopyComplete
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Violet.Resource\obj\Release\netstandard2.0\Violet.Resource.dll
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Violet.Resource\obj\Release\netstandard2.0\Violet.Resource.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "s1YeUQ1Ay19EZc168kq9KiAu9/go1xeY1yMTxmvAUsoe097qSQJtL98ZFaW34MH/wrkQsVxj1kpQpD46bej+1Q==",
+  "success": true,
+  "projectFilePath": "D:\\Server pack\\Remnants Release Pack\\S4 Only tools\\S4League-Emu-1332-master\\src\\Violet\\Violet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sarak\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sarak\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

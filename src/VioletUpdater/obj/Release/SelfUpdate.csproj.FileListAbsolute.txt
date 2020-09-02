@@ -1,0 +1,19 @@
+D:\Projects\Backup\violet 1332+ userinfo\SelfUpdate\bin\Release\SelfUpdate.exe.config
+D:\Projects\Backup\violet 1332+ userinfo\SelfUpdate\bin\Release\SelfUpdate.exe
+D:\Projects\Backup\violet 1332+ userinfo\SelfUpdate\bin\Release\SelfUpdate.pdb
+D:\Projects\Backup\violet 1332+ userinfo\SelfUpdate\obj\Release\SelfUpdate.csproj.CoreCompileInputs.cache
+D:\Projects\Backup\violet 1332+ userinfo\SelfUpdate\obj\Release\SelfUpdate.exe
+D:\Projects\Backup\violet 1332+ userinfo\SelfUpdate\obj\Release\SelfUpdate.pdb
+D:\Projects\Backup\violet 1332+ userinfo\SelfUpdate\obj\Release\SelfUpdate.csprojAssemblyReference.cache
+C:\Users\Kora\Desktop\last try\SelfUpdate\obj\Release\SelfUpdate.csprojAssemblyReference.cache
+C:\Users\Kora\Desktop\last try\SelfUpdate\obj\Release\SelfUpdate.exe
+C:\Users\Kora\Desktop\last try\SelfUpdate\obj\Release\SelfUpdate.pdb
+C:\Users\Kora\Desktop\last try\SelfUpdate\bin\Release\SelfUpdate.exe.config
+C:\Users\Kora\Desktop\last try\SelfUpdate\bin\Release\SelfUpdate.exe
+C:\Users\Kora\Desktop\last try\SelfUpdate\bin\Release\SelfUpdate.pdb
+C:\Users\Kora\Desktop\s4emu\SelfUpdate\bin\Release\SelfUpdate.exe.config
+C:\Users\Kora\Desktop\s4emu\SelfUpdate\bin\Release\SelfUpdate.exe
+C:\Users\Kora\Desktop\s4emu\SelfUpdate\bin\Release\SelfUpdate.pdb
+C:\Users\Kora\Desktop\s4emu\SelfUpdate\obj\Release\SelfUpdate.csprojAssemblyReference.cache
+C:\Users\Kora\Desktop\s4emu\SelfUpdate\obj\Release\SelfUpdate.exe
+C:\Users\Kora\Desktop\s4emu\SelfUpdate\obj\Release\SelfUpdate.pdb

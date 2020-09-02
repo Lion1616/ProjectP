@@ -1,0 +1,10 @@
+C:\Users\Kora\Desktop\s4emu\src\VioletUpdater\bin\Release\SelfUpdate.exe.config
+C:\Users\Kora\Desktop\s4emu\src\VioletUpdater\bin\Release\SelfUpdate.exe
+C:\Users\Kora\Desktop\s4emu\src\VioletUpdater\bin\Release\SelfUpdate.pdb
+C:\Users\Kora\Desktop\s4emu\src\VioletUpdater\obj\Release\VioletUpdater.csprojAssemblyReference.cache
+C:\Users\Kora\Desktop\s4emu\src\VioletUpdater\obj\Release\SelfUpdate.exe
+C:\Users\Kora\Desktop\s4emu\src\VioletUpdater\obj\Release\SelfUpdate.pdb
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\VioletUpdater\obj\Release\VioletUpdater.csprojAssemblyReference.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\VioletUpdater\obj\Release\VioletUpdater.csproj.CoreCompileInputs.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\VioletUpdater\obj\Release\SelfUpdate.exe
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\VioletUpdater\obj\Release\SelfUpdate.pdb

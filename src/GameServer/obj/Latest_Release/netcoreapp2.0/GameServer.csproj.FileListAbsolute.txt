@@ -1,0 +1,77 @@
+D:\S4\SourceCode\src\GameServer\bin\Latest_Release\netcoreapp2.0\miniLzo_x64.dll
+D:\S4\SourceCode\src\GameServer\bin\Latest_Release\netcoreapp2.0\miniLzo_x86.dll
+D:\S4\SourceCode\src\GameServer\bin\Latest_Release\netcoreapp2.0\liblzo.so
+D:\S4\SourceCode\src\GameServer\bin\Latest_Release\netcoreapp2.0\GameServer.deps.json
+D:\S4\SourceCode\src\GameServer\bin\Latest_Release\netcoreapp2.0\GameServer.runtimeconfig.json
+D:\S4\SourceCode\src\GameServer\bin\Latest_Release\netcoreapp2.0\GameServer.runtimeconfig.dev.json
+D:\S4\SourceCode\src\GameServer\bin\Latest_Release\netcoreapp2.0\GameServer.dll
+D:\S4\SourceCode\src\GameServer\bin\Latest_Release\netcoreapp2.0\GameServer.pdb
+D:\S4\SourceCode\src\GameServer\bin\Latest_Release\netcoreapp2.0\AuthServer.ServiceModel.dll
+D:\S4\SourceCode\src\GameServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Database.dll
+D:\S4\SourceCode\src\GameServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.dll
+D:\S4\SourceCode\src\GameServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Network.dll
+D:\S4\SourceCode\src\GameServer\bin\Latest_Release\netcoreapp2.0\ProudNetSrc.dll
+D:\S4\SourceCode\src\GameServer\bin\Latest_Release\netcoreapp2.0\SharpLzo.dll
+D:\S4\SourceCode\src\GameServer\bin\Latest_Release\netcoreapp2.0\AuthServer.ServiceModel.pdb
+D:\S4\SourceCode\src\GameServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Database.pdb
+D:\S4\SourceCode\src\GameServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Network.pdb
+D:\S4\SourceCode\src\GameServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.pdb
+D:\S4\SourceCode\src\GameServer\bin\Latest_Release\netcoreapp2.0\ProudNetSrc.pdb
+D:\S4\SourceCode\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.csprojAssemblyReference.cache
+D:\S4\SourceCode\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.csproj.CoreCompileInputs.cache
+D:\S4\SourceCode\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.AssemblyInfoInputs.cache
+D:\S4\SourceCode\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.AssemblyInfo.cs
+D:\S4\SourceCode\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.csproj.CopyComplete
+D:\S4\SourceCode\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.dll
+D:\S4\SourceCode\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.pdb
+E:\22 05 2019 S5 CLİENT YAPIMI\QWEQWE\SourceCode\src\GameServer\bin\Latest_Release\netcoreapp2.0\miniLzo_x64.dll
+E:\22 05 2019 S5 CLİENT YAPIMI\QWEQWE\SourceCode\src\GameServer\bin\Latest_Release\netcoreapp2.0\miniLzo_x86.dll
+E:\22 05 2019 S5 CLİENT YAPIMI\QWEQWE\SourceCode\src\GameServer\bin\Latest_Release\netcoreapp2.0\liblzo.so
+E:\22 05 2019 S5 CLİENT YAPIMI\QWEQWE\SourceCode\src\GameServer\bin\Latest_Release\netcoreapp2.0\GameServer.deps.json
+E:\22 05 2019 S5 CLİENT YAPIMI\QWEQWE\SourceCode\src\GameServer\bin\Latest_Release\netcoreapp2.0\GameServer.runtimeconfig.json
+E:\22 05 2019 S5 CLİENT YAPIMI\QWEQWE\SourceCode\src\GameServer\bin\Latest_Release\netcoreapp2.0\GameServer.runtimeconfig.dev.json
+E:\22 05 2019 S5 CLİENT YAPIMI\QWEQWE\SourceCode\src\GameServer\bin\Latest_Release\netcoreapp2.0\GameServer.dll
+E:\22 05 2019 S5 CLİENT YAPIMI\QWEQWE\SourceCode\src\GameServer\bin\Latest_Release\netcoreapp2.0\GameServer.pdb
+E:\22 05 2019 S5 CLİENT YAPIMI\QWEQWE\SourceCode\src\GameServer\bin\Latest_Release\netcoreapp2.0\AuthServer.ServiceModel.dll
+E:\22 05 2019 S5 CLİENT YAPIMI\QWEQWE\SourceCode\src\GameServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Database.dll
+E:\22 05 2019 S5 CLİENT YAPIMI\QWEQWE\SourceCode\src\GameServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.dll
+E:\22 05 2019 S5 CLİENT YAPIMI\QWEQWE\SourceCode\src\GameServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Network.dll
+E:\22 05 2019 S5 CLİENT YAPIMI\QWEQWE\SourceCode\src\GameServer\bin\Latest_Release\netcoreapp2.0\ProudNetSrc.dll
+E:\22 05 2019 S5 CLİENT YAPIMI\QWEQWE\SourceCode\src\GameServer\bin\Latest_Release\netcoreapp2.0\SharpLzo.dll
+E:\22 05 2019 S5 CLİENT YAPIMI\QWEQWE\SourceCode\src\GameServer\bin\Latest_Release\netcoreapp2.0\AuthServer.ServiceModel.pdb
+E:\22 05 2019 S5 CLİENT YAPIMI\QWEQWE\SourceCode\src\GameServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Database.pdb
+E:\22 05 2019 S5 CLİENT YAPIMI\QWEQWE\SourceCode\src\GameServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.Network.pdb
+E:\22 05 2019 S5 CLİENT YAPIMI\QWEQWE\SourceCode\src\GameServer\bin\Latest_Release\netcoreapp2.0\NeoNetsphere.pdb
+E:\22 05 2019 S5 CLİENT YAPIMI\QWEQWE\SourceCode\src\GameServer\bin\Latest_Release\netcoreapp2.0\ProudNetSrc.pdb
+E:\22 05 2019 S5 CLİENT YAPIMI\QWEQWE\SourceCode\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.csprojAssemblyReference.cache
+E:\22 05 2019 S5 CLİENT YAPIMI\QWEQWE\SourceCode\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.csproj.CoreCompileInputs.cache
+E:\22 05 2019 S5 CLİENT YAPIMI\QWEQWE\SourceCode\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.AssemblyInfoInputs.cache
+E:\22 05 2019 S5 CLİENT YAPIMI\QWEQWE\SourceCode\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.AssemblyInfo.cs
+E:\22 05 2019 S5 CLİENT YAPIMI\QWEQWE\SourceCode\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.csproj.CopyComplete
+E:\22 05 2019 S5 CLİENT YAPIMI\QWEQWE\SourceCode\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.dll
+E:\22 05 2019 S5 CLİENT YAPIMI\QWEQWE\SourceCode\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.pdb
+C:\Users\Kora\Desktop\last try\src\GameServer\bin\Latest_Release\netcoreapp2.0\miniLzo_x64.dll
+C:\Users\Kora\Desktop\last try\src\GameServer\bin\Latest_Release\netcoreapp2.0\miniLzo_x86.dll
+C:\Users\Kora\Desktop\last try\src\GameServer\bin\Latest_Release\netcoreapp2.0\liblzo.so
+C:\Users\Kora\Desktop\last try\src\GameServer\bin\Latest_Release\netcoreapp2.0\GameServer.deps.json
+C:\Users\Kora\Desktop\last try\src\GameServer\bin\Latest_Release\netcoreapp2.0\GameServer.runtimeconfig.json
+C:\Users\Kora\Desktop\last try\src\GameServer\bin\Latest_Release\netcoreapp2.0\GameServer.runtimeconfig.dev.json
+C:\Users\Kora\Desktop\last try\src\GameServer\bin\Latest_Release\netcoreapp2.0\GameServer.dll
+C:\Users\Kora\Desktop\last try\src\GameServer\bin\Latest_Release\netcoreapp2.0\GameServer.pdb
+C:\Users\Kora\Desktop\last try\src\GameServer\bin\Latest_Release\netcoreapp2.0\AuthServer.ServiceModel.dll
+C:\Users\Kora\Desktop\last try\src\GameServer\bin\Latest_Release\netcoreapp2.0\ProudNetSrc.dll
+C:\Users\Kora\Desktop\last try\src\GameServer\bin\Latest_Release\netcoreapp2.0\SharpLzo.dll
+C:\Users\Kora\Desktop\last try\src\GameServer\bin\Latest_Release\netcoreapp2.0\Violet.Database.dll
+C:\Users\Kora\Desktop\last try\src\GameServer\bin\Latest_Release\netcoreapp2.0\Violet.dll
+C:\Users\Kora\Desktop\last try\src\GameServer\bin\Latest_Release\netcoreapp2.0\Violet.Network.dll
+C:\Users\Kora\Desktop\last try\src\GameServer\bin\Latest_Release\netcoreapp2.0\AuthServer.ServiceModel.pdb
+C:\Users\Kora\Desktop\last try\src\GameServer\bin\Latest_Release\netcoreapp2.0\Violet.Database.pdb
+C:\Users\Kora\Desktop\last try\src\GameServer\bin\Latest_Release\netcoreapp2.0\Violet.Network.pdb
+C:\Users\Kora\Desktop\last try\src\GameServer\bin\Latest_Release\netcoreapp2.0\Violet.pdb
+C:\Users\Kora\Desktop\last try\src\GameServer\bin\Latest_Release\netcoreapp2.0\ProudNetSrc.pdb
+C:\Users\Kora\Desktop\last try\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.csprojAssemblyReference.cache
+C:\Users\Kora\Desktop\last try\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.AssemblyInfoInputs.cache
+C:\Users\Kora\Desktop\last try\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.AssemblyInfo.cs
+C:\Users\Kora\Desktop\last try\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.csproj.CopyComplete
+C:\Users\Kora\Desktop\last try\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.dll
+C:\Users\Kora\Desktop\last try\src\GameServer\obj\Latest_Release\netcoreapp2.0\GameServer.pdb

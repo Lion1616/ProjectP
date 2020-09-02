@@ -1,0 +1,2 @@
+cd /d "D:\Projects\S4Projects\S4 Emu 1332 + Patcher\Launcher" &msbuild "Launcher.csproj" /t:sdvViewer /p:configuration="Release" /p:platform="Any CPU" /p:SolutionDir="D:\Projects\S4Projects\S4 Emu 1332 + Patcher" 
+exit %errorlevel% 

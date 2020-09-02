@@ -1,0 +1,93 @@
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere.Network\bin\Latest_Release\netstandard2.0\miniLzo_x64.dll
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere.Network\bin\Latest_Release\netstandard2.0\miniLzo_x86.dll
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere.Network\bin\Latest_Release\netstandard2.0\liblzo.so
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere.Network\bin\Latest_Release\netstandard2.0\Violet.Network.deps.json
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere.Network\bin\Latest_Release\netstandard2.0\Violet.Network.dll
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere.Network\bin\Latest_Release\netstandard2.0\Violet.Network.pdb
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere.Network\bin\Latest_Release\netstandard2.0\ProudNetSrc.dll
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere.Network\bin\Latest_Release\netstandard2.0\SharpLzo.dll
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere.Network\bin\Latest_Release\netstandard2.0\Violet.dll
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere.Network\bin\Latest_Release\netstandard2.0\Violet.pdb
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere.Network\bin\Latest_Release\netstandard2.0\ProudNetSrc.pdb
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere.Network\obj\Latest_Release\netstandard2.0\Violet.Network.csprojAssemblyReference.cache
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere.Network\obj\Latest_Release\netstandard2.0\Violet.Network.csproj.CoreCompileInputs.cache
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere.Network\obj\Latest_Release\netstandard2.0\Violet.Network.AssemblyInfoInputs.cache
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere.Network\obj\Latest_Release\netstandard2.0\Violet.Network.AssemblyInfo.cs
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere.Network\obj\Latest_Release\netstandard2.0\Violet.Network.csproj.CopyComplete
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere.Network\obj\Latest_Release\netstandard2.0\Violet.Network.dll
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere.Network\obj\Latest_Release\netstandard2.0\Violet.Network.pdb
+D:\Projects\Backup\violet 1332+ userinfo\src\NeoNetsphere.Network\bin\Latest_Release\netstandard2.0\miniLzo_x64.dll
+D:\Projects\Backup\violet 1332+ userinfo\src\NeoNetsphere.Network\bin\Latest_Release\netstandard2.0\miniLzo_x86.dll
+D:\Projects\Backup\violet 1332+ userinfo\src\NeoNetsphere.Network\bin\Latest_Release\netstandard2.0\liblzo.so
+D:\Projects\Backup\violet 1332+ userinfo\src\NeoNetsphere.Network\bin\Latest_Release\netstandard2.0\Violet.Network.deps.json
+D:\Projects\Backup\violet 1332+ userinfo\src\NeoNetsphere.Network\bin\Latest_Release\netstandard2.0\Violet.Network.dll
+D:\Projects\Backup\violet 1332+ userinfo\src\NeoNetsphere.Network\bin\Latest_Release\netstandard2.0\Violet.Network.pdb
+D:\Projects\Backup\violet 1332+ userinfo\src\NeoNetsphere.Network\bin\Latest_Release\netstandard2.0\ProudNetSrc.dll
+D:\Projects\Backup\violet 1332+ userinfo\src\NeoNetsphere.Network\bin\Latest_Release\netstandard2.0\SharpLzo.dll
+D:\Projects\Backup\violet 1332+ userinfo\src\NeoNetsphere.Network\bin\Latest_Release\netstandard2.0\Violet.dll
+D:\Projects\Backup\violet 1332+ userinfo\src\NeoNetsphere.Network\bin\Latest_Release\netstandard2.0\Violet.pdb
+D:\Projects\Backup\violet 1332+ userinfo\src\NeoNetsphere.Network\bin\Latest_Release\netstandard2.0\ProudNetSrc.pdb
+D:\Projects\Backup\violet 1332+ userinfo\src\NeoNetsphere.Network\obj\Latest_Release\netstandard2.0\Violet.Network.csprojAssemblyReference.cache
+D:\Projects\Backup\violet 1332+ userinfo\src\NeoNetsphere.Network\obj\Latest_Release\netstandard2.0\Violet.Network.csproj.CoreCompileInputs.cache
+D:\Projects\Backup\violet 1332+ userinfo\src\NeoNetsphere.Network\obj\Latest_Release\netstandard2.0\Violet.Network.AssemblyInfoInputs.cache
+D:\Projects\Backup\violet 1332+ userinfo\src\NeoNetsphere.Network\obj\Latest_Release\netstandard2.0\Violet.Network.AssemblyInfo.cs
+D:\Projects\Backup\violet 1332+ userinfo\src\NeoNetsphere.Network\obj\Latest_Release\netstandard2.0\Violet.Network.csproj.CopyComplete
+D:\Projects\Backup\violet 1332+ userinfo\src\NeoNetsphere.Network\obj\Latest_Release\netstandard2.0\Violet.Network.dll
+D:\Projects\Backup\violet 1332+ userinfo\src\NeoNetsphere.Network\obj\Latest_Release\netstandard2.0\Violet.Network.pdb
+C:\Users\Kora\Desktop\last try\src\NeoNetsphere.Network\bin\Latest_Release\netstandard2.0\miniLzo_x64.dll
+C:\Users\Kora\Desktop\last try\src\NeoNetsphere.Network\bin\Latest_Release\netstandard2.0\miniLzo_x86.dll
+C:\Users\Kora\Desktop\last try\src\NeoNetsphere.Network\bin\Latest_Release\netstandard2.0\liblzo.so
+C:\Users\Kora\Desktop\last try\src\NeoNetsphere.Network\bin\Latest_Release\netstandard2.0\Violet.Network.deps.json
+C:\Users\Kora\Desktop\last try\src\NeoNetsphere.Network\bin\Latest_Release\netstandard2.0\Violet.Network.dll
+C:\Users\Kora\Desktop\last try\src\NeoNetsphere.Network\bin\Latest_Release\netstandard2.0\Violet.Network.pdb
+C:\Users\Kora\Desktop\last try\src\NeoNetsphere.Network\bin\Latest_Release\netstandard2.0\ProudNetSrc.dll
+C:\Users\Kora\Desktop\last try\src\NeoNetsphere.Network\bin\Latest_Release\netstandard2.0\SharpLzo.dll
+C:\Users\Kora\Desktop\last try\src\NeoNetsphere.Network\bin\Latest_Release\netstandard2.0\Violet.dll
+C:\Users\Kora\Desktop\last try\src\NeoNetsphere.Network\bin\Latest_Release\netstandard2.0\Violet.pdb
+C:\Users\Kora\Desktop\last try\src\NeoNetsphere.Network\bin\Latest_Release\netstandard2.0\ProudNetSrc.pdb
+C:\Users\Kora\Desktop\last try\src\NeoNetsphere.Network\obj\Latest_Release\netstandard2.0\Violet.Network.csprojAssemblyReference.cache
+C:\Users\Kora\Desktop\last try\src\NeoNetsphere.Network\obj\Latest_Release\netstandard2.0\Violet.Network.AssemblyInfoInputs.cache
+C:\Users\Kora\Desktop\last try\src\NeoNetsphere.Network\obj\Latest_Release\netstandard2.0\Violet.Network.AssemblyInfo.cs
+C:\Users\Kora\Desktop\last try\src\NeoNetsphere.Network\obj\Latest_Release\netstandard2.0\Violet.Network.csproj.CopyComplete
+C:\Users\Kora\Desktop\last try\src\NeoNetsphere.Network\obj\Latest_Release\netstandard2.0\Violet.Network.dll
+C:\Users\Kora\Desktop\last try\src\NeoNetsphere.Network\obj\Latest_Release\netstandard2.0\Violet.Network.pdb
+C:\Users\Kora\Desktop\s4emu\src\NeoNetsphere.Network\bin\Latest_Release\netstandard2.0\miniLzo_x64.dll
+C:\Users\Kora\Desktop\s4emu\src\NeoNetsphere.Network\bin\Latest_Release\netstandard2.0\miniLzo_x86.dll
+C:\Users\Kora\Desktop\s4emu\src\NeoNetsphere.Network\bin\Latest_Release\netstandard2.0\liblzo.so
+C:\Users\Kora\Desktop\s4emu\src\NeoNetsphere.Network\bin\Latest_Release\netstandard2.0\Violet.Network.deps.json
+C:\Users\Kora\Desktop\s4emu\src\NeoNetsphere.Network\bin\Latest_Release\netstandard2.0\Violet.Network.dll
+C:\Users\Kora\Desktop\s4emu\src\NeoNetsphere.Network\bin\Latest_Release\netstandard2.0\Violet.Network.pdb
+C:\Users\Kora\Desktop\s4emu\src\NeoNetsphere.Network\bin\Latest_Release\netstandard2.0\ProudNetSrc.dll
+C:\Users\Kora\Desktop\s4emu\src\NeoNetsphere.Network\bin\Latest_Release\netstandard2.0\SharpLzo.dll
+C:\Users\Kora\Desktop\s4emu\src\NeoNetsphere.Network\bin\Latest_Release\netstandard2.0\Violet.dll
+C:\Users\Kora\Desktop\s4emu\src\NeoNetsphere.Network\bin\Latest_Release\netstandard2.0\Violet.pdb
+C:\Users\Kora\Desktop\s4emu\src\NeoNetsphere.Network\bin\Latest_Release\netstandard2.0\ProudNetSrc.pdb
+C:\Users\Kora\Desktop\s4emu\src\NeoNetsphere.Network\obj\Latest_Release\netstandard2.0\Violet.Network.csprojAssemblyReference.cache
+C:\Users\Kora\Desktop\s4emu\src\NeoNetsphere.Network\obj\Latest_Release\netstandard2.0\Violet.Network.AssemblyInfoInputs.cache
+C:\Users\Kora\Desktop\s4emu\src\NeoNetsphere.Network\obj\Latest_Release\netstandard2.0\Violet.Network.AssemblyInfo.cs
+C:\Users\Kora\Desktop\s4emu\src\NeoNetsphere.Network\obj\Latest_Release\netstandard2.0\Violet.Network.csproj.CopyComplete
+C:\Users\Kora\Desktop\s4emu\src\NeoNetsphere.Network\obj\Latest_Release\netstandard2.0\Violet.Network.dll
+C:\Users\Kora\Desktop\s4emu\src\NeoNetsphere.Network\obj\Latest_Release\netstandard2.0\Violet.Network.pdb
+C:\Users\Kora\Desktop\s4emu\src\Violet.Network\bin\Latest_Release\netstandard2.0\miniLzo_x64.dll
+C:\Users\Kora\Desktop\s4emu\src\Violet.Network\bin\Latest_Release\netstandard2.0\miniLzo_x86.dll
+C:\Users\Kora\Desktop\s4emu\src\Violet.Network\bin\Latest_Release\netstandard2.0\liblzo.so
+C:\Users\Kora\Desktop\s4emu\src\Violet.Network\bin\Latest_Release\netstandard2.0\Violet.Network.deps.json
+C:\Users\Kora\Desktop\s4emu\src\Violet.Network\bin\Latest_Release\netstandard2.0\Violet.Network.dll
+C:\Users\Kora\Desktop\s4emu\src\Violet.Network\bin\Latest_Release\netstandard2.0\Violet.Network.pdb
+C:\Users\Kora\Desktop\s4emu\src\Violet.Network\bin\Latest_Release\netstandard2.0\ProudNetSrc.dll
+C:\Users\Kora\Desktop\s4emu\src\Violet.Network\bin\Latest_Release\netstandard2.0\SharpLzo.dll
+C:\Users\Kora\Desktop\s4emu\src\Violet.Network\bin\Latest_Release\netstandard2.0\Violet.dll
+C:\Users\Kora\Desktop\s4emu\src\Violet.Network\bin\Latest_Release\netstandard2.0\Violet.pdb
+C:\Users\Kora\Desktop\s4emu\src\Violet.Network\bin\Latest_Release\netstandard2.0\ProudNetSrc.pdb
+C:\Users\Kora\Desktop\s4emu\src\Violet.Network\obj\Latest_Release\netstandard2.0\Violet.Network.csprojAssemblyReference.cache
+C:\Users\Kora\Desktop\s4emu\src\Violet.Network\obj\Latest_Release\netstandard2.0\Violet.Network.AssemblyInfoInputs.cache
+C:\Users\Kora\Desktop\s4emu\src\Violet.Network\obj\Latest_Release\netstandard2.0\Violet.Network.AssemblyInfo.cs
+C:\Users\Kora\Desktop\s4emu\src\Violet.Network\obj\Latest_Release\netstandard2.0\Violet.Network.csproj.CopyComplete
+C:\Users\Kora\Desktop\s4emu\src\Violet.Network\obj\Latest_Release\netstandard2.0\Violet.Network.dll
+C:\Users\Kora\Desktop\s4emu\src\Violet.Network\obj\Latest_Release\netstandard2.0\Violet.Network.pdb
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Violet.Network\obj\Latest_Release\netstandard2.0\Violet.Network.csprojAssemblyReference.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Violet.Network\obj\Latest_Release\netstandard2.0\Violet.Network.AssemblyInfoInputs.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Violet.Network\obj\Latest_Release\netstandard2.0\Violet.Network.AssemblyInfo.cs
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Violet.Network\obj\Latest_Release\netstandard2.0\Violet.Network.csproj.CoreCompileInputs.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Violet.Network\obj\Latest_Release\netstandard2.0\Violet.Network.dll
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\Violet.Network\obj\Latest_Release\netstandard2.0\Violet.Network.pdb

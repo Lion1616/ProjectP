@@ -1,0 +1,1 @@
+dotnet publish -c LatestOld_Release

@@ -1,0 +1,9 @@
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\Backup\src\Violet\bin\NewIDs_Debug\netstandard2.0\Violet.deps.json
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\Backup\src\Violet\bin\NewIDs_Debug\netstandard2.0\Violet.dll
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\Backup\src\Violet\bin\NewIDs_Debug\netstandard2.0\Violet.pdb
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\Backup\src\Violet\obj\NewIDs_Debug\netstandard2.0\Violet.csprojAssemblyReference.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\Backup\src\Violet\obj\NewIDs_Debug\netstandard2.0\Violet.AssemblyInfoInputs.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\Backup\src\Violet\obj\NewIDs_Debug\netstandard2.0\Violet.AssemblyInfo.cs
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\Backup\src\Violet\obj\NewIDs_Debug\netstandard2.0\Violet.csproj.CoreCompileInputs.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\Backup\src\Violet\obj\NewIDs_Debug\netstandard2.0\Violet.dll
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\Backup\src\Violet\obj\NewIDs_Debug\netstandard2.0\Violet.pdb

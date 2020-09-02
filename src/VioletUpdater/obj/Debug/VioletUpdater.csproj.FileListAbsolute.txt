@@ -1,0 +1,7 @@
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\VioletUpdater\bin\Debug\SelfUpdate.exe.config
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\VioletUpdater\bin\Debug\SelfUpdate.exe
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\VioletUpdater\bin\Debug\SelfUpdate.pdb
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\VioletUpdater\obj\Debug\VioletUpdater.csprojAssemblyReference.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\VioletUpdater\obj\Debug\VioletUpdater.csproj.CoreCompileInputs.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\VioletUpdater\obj\Debug\SelfUpdate.exe
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\VioletUpdater\obj\Debug\SelfUpdate.pdb

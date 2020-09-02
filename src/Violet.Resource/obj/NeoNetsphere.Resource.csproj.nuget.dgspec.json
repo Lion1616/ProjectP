@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\violet 1332+ userinfo\\src\\NeoNetsphere.Resource\\NeoNetsphere.Resource.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\violet 1332+ userinfo\\src\\NeoNetsphere.Resource\\NeoNetsphere.Resource.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\violet 1332+ userinfo\\src\\NeoNetsphere.Resource\\NeoNetsphere.Resource.csproj",
+        "projectName": "NeoNetsphere.Resource",
+        "projectPath": "D:\\Projects\\violet 1332+ userinfo\\src\\NeoNetsphere.Resource\\NeoNetsphere.Resource.csproj",
+        "packagesPath": "C:\\Users\\Lunar\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\violet 1332+ userinfo\\src\\NeoNetsphere.Resource\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "D:\\Projects\\violet 1332+ userinfo\\NuGet.Config",
+          "C:\\Users\\Lunar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Projects\\violet 1332+ userinfo\\LocalPackages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "BlubLib": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Portable.BouncyCastle": {
+              "target": "Package",
+              "version": "[1.8.2, )"
+            },
+            "System.Numerics.Vectors": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

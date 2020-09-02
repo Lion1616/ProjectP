@@ -1,0 +1,9 @@
+C:\Users\rober\Desktop\SourceCode\src\NeoNetsphere.Database\bin\NewIDs_Release\netstandard2.0\NeoNetsphere.Database.deps.json
+C:\Users\rober\Desktop\SourceCode\src\NeoNetsphere.Database\bin\NewIDs_Release\netstandard2.0\NeoNetsphere.Database.dll
+C:\Users\rober\Desktop\SourceCode\src\NeoNetsphere.Database\bin\NewIDs_Release\netstandard2.0\NeoNetsphere.Database.pdb
+C:\Users\rober\Desktop\SourceCode\src\NeoNetsphere.Database\obj\NewIDs_Release\netstandard2.0\NeoNetsphere.Database.csprojAssemblyReference.cache
+C:\Users\rober\Desktop\SourceCode\src\NeoNetsphere.Database\obj\NewIDs_Release\netstandard2.0\NeoNetsphere.Database.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\SourceCode\src\NeoNetsphere.Database\obj\NewIDs_Release\netstandard2.0\NeoNetsphere.Database.AssemblyInfoInputs.cache
+C:\Users\rober\Desktop\SourceCode\src\NeoNetsphere.Database\obj\NewIDs_Release\netstandard2.0\NeoNetsphere.Database.AssemblyInfo.cs
+C:\Users\rober\Desktop\SourceCode\src\NeoNetsphere.Database\obj\NewIDs_Release\netstandard2.0\NeoNetsphere.Database.dll
+C:\Users\rober\Desktop\SourceCode\src\NeoNetsphere.Database\obj\NewIDs_Release\netstandard2.0\NeoNetsphere.Database.pdb

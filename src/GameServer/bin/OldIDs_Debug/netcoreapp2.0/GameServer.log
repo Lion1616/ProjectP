@@ -1,0 +1,1611 @@
+2020-09-01 23:26:47.989 +02:00 [INF] ============================================
+2020-09-01 23:26:48.021 +02:00 [INF] Initializing GameServer build
+2020-09-01 23:26:48.021 +02:00 [INF] ============================================
+2020-09-01 23:26:48.022 +02:00 [INF] Initializing Database
+2020-09-01 23:26:48.116 +02:00 [INF] Initializing...
+2020-09-01 23:26:50.855 +02:00 [ERR] MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.AggregateException: One or more errors occurred. (Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte 127.0.0.1:3306) ---> System.Net.Internals.SocketExceptionFactory+ExtendedSocketException: Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte 127.0.0.1:3306
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.DoMultipleAddressConnectCallback(Object result, MultipleAddressConnectAsyncResult context)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Net.Sockets.Socket.DoMultipleAddressConnectCallback(Object result, MultipleAddressConnectAsyncResult context)
+   at System.Net.Sockets.Socket.MultipleAddressConnectCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__28_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at MySql.Data.Common.StreamCreator.GetTcpStream(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+---> (Inner Exception #0) System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10061): Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte 127.0.0.1:3306
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.DoMultipleAddressConnectCallback(Object result, MultipleAddressConnectAsyncResult context)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Net.Sockets.Socket.DoMultipleAddressConnectCallback(Object result, MultipleAddressConnectAsyncResult context)
+   at System.Net.Sockets.Socket.MultipleAddressConnectCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__28_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)<---
+
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at NeoNetsphere.AuthDatabase.Open() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Program.cs:line 812
+   at NeoNetsphere.AuthDatabase.Initialize() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Program.cs:line 759
+   at NeoNetsphere.Program.Main() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Program.cs:line 164
+2020-09-01 23:33:59.976 +02:00 [INF] ============================================
+2020-09-01 23:34:00.006 +02:00 [INF] Initializing GameServer build
+2020-09-01 23:34:00.007 +02:00 [INF] ============================================
+2020-09-01 23:34:00.010 +02:00 [INF] Initializing Database
+2020-09-01 23:34:00.131 +02:00 [INF] Initializing...
+2020-09-01 23:34:02.912 +02:00 [ERR] MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.AggregateException: One or more errors occurred. (Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte 127.0.0.1:3306) ---> System.Net.Internals.SocketExceptionFactory+ExtendedSocketException: Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte 127.0.0.1:3306
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.DoMultipleAddressConnectCallback(Object result, MultipleAddressConnectAsyncResult context)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Net.Sockets.Socket.DoMultipleAddressConnectCallback(Object result, MultipleAddressConnectAsyncResult context)
+   at System.Net.Sockets.Socket.MultipleAddressConnectCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__28_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at MySql.Data.Common.StreamCreator.GetTcpStream(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+---> (Inner Exception #0) System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10061): Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte 127.0.0.1:3306
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.DoMultipleAddressConnectCallback(Object result, MultipleAddressConnectAsyncResult context)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Net.Sockets.Socket.DoMultipleAddressConnectCallback(Object result, MultipleAddressConnectAsyncResult context)
+   at System.Net.Sockets.Socket.MultipleAddressConnectCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__28_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)<---
+
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at NeoNetsphere.AuthDatabase.Open() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Program.cs:line 812
+   at NeoNetsphere.AuthDatabase.Initialize() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Program.cs:line 759
+   at NeoNetsphere.Program.Main() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Program.cs:line 164
+2020-09-01 23:36:41.357 +02:00 [INF] ============================================
+2020-09-01 23:36:41.392 +02:00 [INF] Initializing GameServer build
+2020-09-01 23:36:41.393 +02:00 [INF] ============================================
+2020-09-01 23:36:41.394 +02:00 [INF] Initializing Database
+2020-09-01 23:36:41.505 +02:00 [INF] Initializing...
+2020-09-01 23:36:41.590 +02:00 [ERR] System.TypeInitializationException: The type initializer for 'NeoNetsphere.Config' threw an exception. ---> System.ArgumentException: Extra characters in input. At line 45, column 3
+   at Hjson.HjsonReader.checkTrailing(JsonValue v)
+   at NeoNetsphere.Config.Load() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Config.cs:line 23
+   at NeoNetsphere.Config..cctor() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Config.cs:line 32
+   --- End of inner exception stack trace ---
+   at NeoNetsphere.AuthDatabase.Initialize() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Program.cs:line 752
+   at NeoNetsphere.Program.Main() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Program.cs:line 164
+2020-09-01 23:38:01.455 +02:00 [INF] ============================================
+2020-09-01 23:38:01.498 +02:00 [INF] Initializing GameServer build
+2020-09-01 23:38:01.499 +02:00 [INF] ============================================
+2020-09-01 23:38:01.500 +02:00 [INF] Initializing Database
+2020-09-01 23:38:01.630 +02:00 [INF] Initializing...
+2020-09-01 23:38:01.713 +02:00 [ERR] System.TypeInitializationException: The type initializer for 'NeoNetsphere.Config' threw an exception. ---> System.ArgumentException: Extra characters in input. At line 45, column 3
+   at Hjson.HjsonReader.checkTrailing(JsonValue v)
+   at NeoNetsphere.Config.Load() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Config.cs:line 23
+   at NeoNetsphere.Config..cctor() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Config.cs:line 32
+   --- End of inner exception stack trace ---
+   at NeoNetsphere.AuthDatabase.Initialize() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Program.cs:line 752
+   at NeoNetsphere.Program.Main() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Program.cs:line 164
+2020-09-01 23:40:39.124 +02:00 [INF] ============================================
+2020-09-01 23:40:39.157 +02:00 [INF] Initializing GameServer build
+2020-09-01 23:40:39.158 +02:00 [INF] ============================================
+2020-09-01 23:40:39.159 +02:00 [INF] Initializing Database
+2020-09-01 23:40:39.291 +02:00 [INF] Initializing...
+2020-09-01 23:40:39.676 +02:00 [INF] Initializing...
+2020-09-01 23:40:39.678 +02:00 [ERR] Database '' not found
+2020-09-01 23:41:15.799 +02:00 [INF] ============================================
+2020-09-01 23:41:15.836 +02:00 [INF] Initializing GameServer build
+2020-09-01 23:41:15.837 +02:00 [INF] ============================================
+2020-09-01 23:41:15.838 +02:00 [INF] Initializing Database
+2020-09-01 23:41:15.944 +02:00 [INF] Initializing...
+2020-09-01 23:41:16.310 +02:00 [INF] Initializing...
+2020-09-01 23:41:16.312 +02:00 [ERR] Database '' not found
+2020-09-01 23:41:38.336 +02:00 [INF] ============================================
+2020-09-01 23:41:38.377 +02:00 [INF] Initializing GameServer build
+2020-09-01 23:41:38.379 +02:00 [INF] ============================================
+2020-09-01 23:41:38.380 +02:00 [INF] Initializing Database
+2020-09-01 23:41:38.493 +02:00 [INF] Initializing...
+2020-09-01 23:41:38.835 +02:00 [INF] Initializing...
+2020-09-01 23:41:38.836 +02:00 [ERR] Database '' not found
+2020-09-01 23:44:59.770 +02:00 [INF] ============================================
+2020-09-01 23:44:59.803 +02:00 [INF] Initializing GameServer build
+2020-09-01 23:44:59.805 +02:00 [INF] ============================================
+2020-09-01 23:44:59.807 +02:00 [INF] Initializing Database
+2020-09-01 23:44:59.919 +02:00 [INF] Initializing...
+2020-09-01 23:45:00.326 +02:00 [INF] Initializing...
+2020-09-01 23:45:00.328 +02:00 [ERR] Database '' not found
+2020-09-01 23:45:48.759 +02:00 [INF] ============================================
+2020-09-01 23:45:48.790 +02:00 [INF] Initializing GameServer build
+2020-09-01 23:45:48.791 +02:00 [INF] ============================================
+2020-09-01 23:45:48.792 +02:00 [INF] Initializing Database
+2020-09-01 23:45:48.894 +02:00 [INF] Initializing...
+2020-09-01 23:45:49.326 +02:00 [INF] Initializing...
+2020-09-01 23:45:49.327 +02:00 [ERR] Database 'NeoNetsphere.DatabasesConfig+DatabaseConfig' not found
+2020-09-01 23:46:48.980 +02:00 [INF] ============================================
+2020-09-01 23:46:49.019 +02:00 [INF] Initializing GameServer build
+2020-09-01 23:46:49.020 +02:00 [INF] ============================================
+2020-09-01 23:46:49.021 +02:00 [INF] Initializing Database
+2020-09-01 23:46:49.153 +02:00 [INF] Initializing...
+2020-09-01 23:46:49.569 +02:00 [INF] Initializing...
+2020-09-01 23:46:49.570 +02:00 [ERR] Database '' not found
+2020-09-01 23:47:09.177 +02:00 [INF] ============================================
+2020-09-01 23:47:09.215 +02:00 [INF] Initializing GameServer build
+2020-09-01 23:47:09.218 +02:00 [INF] ============================================
+2020-09-01 23:47:09.220 +02:00 [INF] Initializing Database
+2020-09-01 23:47:09.349 +02:00 [INF] Initializing...
+2020-09-01 23:47:09.729 +02:00 [INF] Initializing...
+2020-09-01 23:47:09.730 +02:00 [ERR] Database '' not found
+2020-09-01 23:49:19.513 +02:00 [INF] ============================================
+2020-09-01 23:49:19.549 +02:00 [INF] Initializing GameServer build
+2020-09-01 23:49:19.551 +02:00 [INF] ============================================
+2020-09-01 23:49:19.552 +02:00 [INF] Initializing Database
+2020-09-01 23:49:19.665 +02:00 [INF] Initializing...
+2020-09-01 23:49:19.999 +02:00 [INF] Initializing...
+2020-09-01 23:49:20.002 +02:00 [ERR] Database '' not found
+2020-09-01 23:50:07.769 +02:00 [INF] ============================================
+2020-09-01 23:50:07.805 +02:00 [INF] Initializing GameServer build
+2020-09-01 23:50:07.808 +02:00 [INF] ============================================
+2020-09-01 23:50:07.810 +02:00 [INF] Initializing Database
+2020-09-01 23:50:07.907 +02:00 [INF] Initializing...
+2020-09-01 23:50:08.260 +02:00 [INF] Initializing...
+2020-09-01 23:50:08.263 +02:00 [ERR] Database '' not found
+2020-09-01 23:50:30.612 +02:00 [INF] ============================================
+2020-09-01 23:50:30.649 +02:00 [INF] Initializing GameServer build
+2020-09-01 23:50:30.650 +02:00 [INF] ============================================
+2020-09-01 23:50:30.652 +02:00 [INF] Initializing Database
+2020-09-01 23:50:30.758 +02:00 [INF] Initializing...
+2020-09-01 23:50:31.111 +02:00 [ERR] Database '\..\..\..\db\game.db' not found
+2020-09-01 23:50:53.063 +02:00 [INF] ============================================
+2020-09-01 23:50:53.096 +02:00 [INF] Initializing GameServer build
+2020-09-01 23:50:53.097 +02:00 [INF] ============================================
+2020-09-01 23:50:53.098 +02:00 [INF] Initializing Database
+2020-09-01 23:50:53.219 +02:00 [INF] Initializing...
+2020-09-01 23:50:53.575 +02:00 [ERR] Database '..\..\..\..\db\game.db' not found
+2020-09-01 23:51:07.238 +02:00 [INF] ============================================
+2020-09-01 23:51:07.277 +02:00 [INF] Initializing GameServer build
+2020-09-01 23:51:07.278 +02:00 [INF] ============================================
+2020-09-01 23:51:07.279 +02:00 [INF] Initializing Database
+2020-09-01 23:51:07.392 +02:00 [INF] Initializing...
+2020-09-01 23:51:07.801 +02:00 [INF] Initializing...
+2020-09-01 23:51:07.802 +02:00 [ERR] Database '' not found
+2020-09-01 23:52:42.826 +02:00 [INF] ============================================
+2020-09-01 23:52:42.856 +02:00 [INF] Initializing GameServer build
+2020-09-01 23:52:42.857 +02:00 [INF] ============================================
+2020-09-01 23:52:42.858 +02:00 [INF] Initializing Database
+2020-09-01 23:52:42.982 +02:00 [INF] Initializing...
+2020-09-01 23:52:43.345 +02:00 [INF] Initializing...
+2020-09-01 23:52:43.347 +02:00 [ERR] Database '' not found
+2020-09-01 23:54:56.058 +02:00 [INF] ============================================
+2020-09-01 23:54:56.092 +02:00 [INF] Initializing GameServer build
+2020-09-01 23:54:56.093 +02:00 [INF] ============================================
+2020-09-01 23:54:56.094 +02:00 [INF] Initializing Database
+2020-09-01 23:54:56.210 +02:00 [INF] Initializing...
+2020-09-01 23:54:56.561 +02:00 [ERR] Database '..\..\..\db\auth.db' not found
+2020-09-01 23:55:26.854 +02:00 [INF] ============================================
+2020-09-01 23:55:26.887 +02:00 [INF] Initializing GameServer build
+2020-09-01 23:55:26.888 +02:00 [INF] ============================================
+2020-09-01 23:55:26.889 +02:00 [INF] Initializing Database
+2020-09-01 23:55:26.994 +02:00 [INF] Initializing...
+2020-09-01 23:55:27.361 +02:00 [INF] Initializing...
+2020-09-01 23:55:27.362 +02:00 [ERR] Database '' not found
+2020-09-01 23:57:44.303 +02:00 [INF] ============================================
+2020-09-01 23:57:44.338 +02:00 [INF] Initializing GameServer build
+2020-09-01 23:57:44.339 +02:00 [INF] ============================================
+2020-09-01 23:57:44.341 +02:00 [INF] Initializing Database
+2020-09-01 23:57:44.476 +02:00 [INF] Initializing...
+2020-09-01 23:57:44.884 +02:00 [INF] Initializing...
+2020-09-01 23:57:44.886 +02:00 [ERR] Log 'NeoNetsphere.DatabasesConfig+DatabaseConfig' Exception
+2020-09-01 23:57:44.886 +02:00 [ERR] Database '' not found
+2020-09-02 00:05:32.230 +02:00 [INF] ============================================
+2020-09-02 00:05:32.283 +02:00 [INF] Initializing GameServer build
+2020-09-02 00:05:32.285 +02:00 [INF] ============================================
+2020-09-02 00:05:32.287 +02:00 [INF] Initializing Database
+2020-09-02 00:05:32.435 +02:00 [INF] Initializing...
+2020-09-02 00:05:33.124 +02:00 [INF] Initializing...
+2020-09-02 00:05:33.126 +02:00 [ERR] Database '' not found
+2020-09-02 00:05:49.569 +02:00 [INF] ============================================
+2020-09-02 00:05:49.600 +02:00 [INF] Initializing GameServer build
+2020-09-02 00:05:49.601 +02:00 [INF] ============================================
+2020-09-02 00:05:49.603 +02:00 [INF] Initializing Database
+2020-09-02 00:05:49.716 +02:00 [INF] Initializing...
+2020-09-02 00:05:50.060 +02:00 [INF] Initializing...
+2020-09-02 00:05:50.061 +02:00 [ERR] Database '' not found
+2020-09-02 00:12:53.593 +02:00 [INF] ============================================
+2020-09-02 00:12:53.626 +02:00 [INF] Initializing GameServer build
+2020-09-02 00:12:53.628 +02:00 [INF] ============================================
+2020-09-02 00:12:53.629 +02:00 [INF] Initializing Database
+2020-09-02 00:12:53.763 +02:00 [INF] Initializing...
+2020-09-02 00:12:54.169 +02:00 [ERR] Database '' not found
+2020-09-02 00:19:24.371 +02:00 [INF] ============================================
+2020-09-02 00:19:24.414 +02:00 [INF] Initializing GameServer build
+2020-09-02 00:19:24.415 +02:00 [INF] ============================================
+2020-09-02 00:19:24.417 +02:00 [INF] Initializing Database
+2020-09-02 00:19:24.545 +02:00 [INF] Initializing...
+2020-09-02 00:19:24.984 +02:00 [ERR] Database ''  'S4L'  'localhost'  ''  ''
+2020-09-02 00:19:24.986 +02:00 [ERR] Database '' not found
+2020-09-02 00:19:52.571 +02:00 [INF] ============================================
+2020-09-02 00:19:52.611 +02:00 [INF] Initializing GameServer build
+2020-09-02 00:19:52.612 +02:00 [INF] ============================================
+2020-09-02 00:19:52.615 +02:00 [INF] Initializing Database
+2020-09-02 00:19:52.738 +02:00 [INF] Initializing...
+2020-09-02 00:19:53.095 +02:00 [ERR] Database ''  'S4L'  'localhost'  ''  ''
+2020-09-02 00:19:53.096 +02:00 [ERR] Database '' not found
+2020-09-02 00:22:19.834 +02:00 [INF] ============================================
+2020-09-02 00:22:19.870 +02:00 [INF] Initializing GameServer build
+2020-09-02 00:22:19.872 +02:00 [INF] ============================================
+2020-09-02 00:22:19.873 +02:00 [INF] Initializing Database
+2020-09-02 00:22:20.005 +02:00 [INF] Initializing...
+2020-09-02 00:22:20.449 +02:00 [ERR] Database ''  'S4L'  'localhost'  ''  ''
+2020-09-02 00:22:20.451 +02:00 [ERR] Database '' not found
+2020-09-02 00:28:48.590 +02:00 [INF] ============================================
+2020-09-02 00:28:48.630 +02:00 [INF] Initializing GameServer build
+2020-09-02 00:28:48.631 +02:00 [INF] ============================================
+2020-09-02 00:28:48.632 +02:00 [INF] Initializing Database
+2020-09-02 00:28:48.754 +02:00 [INF] Initializing...
+2020-09-02 00:28:49.174 +02:00 [INF] Initializing...
+2020-09-02 00:28:49.176 +02:00 [ERR] Database '' not found
+2020-09-02 00:34:12.432 +02:00 [INF] ============================================
+2020-09-02 00:34:12.468 +02:00 [INF] Initializing GameServer build
+2020-09-02 00:34:12.469 +02:00 [INF] ============================================
+2020-09-02 00:34:12.470 +02:00 [INF] Initializing Database
+2020-09-02 00:34:12.621 +02:00 [INF] Initializing...
+2020-09-02 00:34:12.993 +02:00 [INF] Initializing...
+2020-09-02 00:34:12.995 +02:00 [INF] Starting Server
+2020-09-02 00:34:12.996 +02:00 [INF] ____________________________________________
+2020-09-02 00:34:12.997 +02:00 [INF] ____________________________________________
+2020-09-02 00:34:12.999 +02:00 [INF] ============================================
+2020-09-02 00:34:13.000 +02:00 [INF] Starting Serverinstances and ResourceCache..
+2020-09-02 00:34:14.461 +02:00 [INF] Caching: Channels
+2020-09-02 00:34:14.464 +02:00 [INF] Caching...
+2020-09-02 00:34:14.622 +02:00 [ERR] DBError, Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 1: 'no such table: channels'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteCommand.PrepareAndEnumerateStatements(Stopwatch timer)+MoveNext()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in C:\projects\dapper\Dapper\SqlMapper.cs:line 1053
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in C:\projects\dapper\Dapper\SqlMapper.cs:line 1081
+   at System.Collections.Generic.List`1.AddEnumerable(IEnumerable`1 enumerable)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in C:\projects\dapper\Dapper\SqlMapper.cs:line 723
+   at Dapper.FastCrud.SqlStatements.GenericSqlStatements`1.BatchSelect(IDbConnection connection, AggregatedSqlStatementOptions`1 statementOptions) in D:\a\1\s\Dapper.FastCrud\SqlStatements\GenericSqlStatements.cs:line 297
+   at NeoNetsphere.DbUtil.Find[TEntity](IDbConnection db, Action`1 statementOptions) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\DbUtil.cs:line 154
+2020-09-02 00:34:14.640 +02:00 [INF] Caching: Clubs
+2020-09-02 00:34:14.641 +02:00 [INF] Caching...
+2020-09-02 00:34:14.645 +02:00 [ERR] DBError, Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 1: 'no such table: clubs'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteCommand.PrepareAndEnumerateStatements(Stopwatch timer)+MoveNext()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in C:\projects\dapper\Dapper\SqlMapper.cs:line 1053
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in C:\projects\dapper\Dapper\SqlMapper.cs:line 1081
+   at System.Collections.Generic.List`1.AddEnumerable(IEnumerable`1 enumerable)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in C:\projects\dapper\Dapper\SqlMapper.cs:line 723
+   at Dapper.FastCrud.SqlStatements.GenericSqlStatements`1.BatchSelect(IDbConnection connection, AggregatedSqlStatementOptions`1 statementOptions) in D:\a\1\s\Dapper.FastCrud\SqlStatements\GenericSqlStatements.cs:line 297
+   at NeoNetsphere.DbUtil.Find[TEntity](IDbConnection db, Action`1 statementOptions) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\DbUtil.cs:line 154
+2020-09-02 00:34:14.659 +02:00 [ERR] DBError, Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 1: 'no such table: club_players'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteCommand.PrepareAndEnumerateStatements(Stopwatch timer)+MoveNext()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in C:\projects\dapper\Dapper\SqlMapper.cs:line 1053
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in C:\projects\dapper\Dapper\SqlMapper.cs:line 1081
+   at System.Collections.Generic.List`1.AddEnumerable(IEnumerable`1 enumerable)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in C:\projects\dapper\Dapper\SqlMapper.cs:line 723
+   at Dapper.FastCrud.SqlStatements.GenericSqlStatements`1.BatchSelect(IDbConnection connection, AggregatedSqlStatementOptions`1 statementOptions) in D:\a\1\s\Dapper.FastCrud\SqlStatements\GenericSqlStatements.cs:line 297
+   at NeoNetsphere.DbUtil.Find[TEntity](IDbConnection db, Action`1 statementOptions) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\DbUtil.cs:line 154
+2020-09-02 00:34:14.755 +02:00 [INF] Starting - tcp=127.0.0.1:28004 udp=null udp-port=null
+2020-09-02 00:34:14.956 +02:00 [INF] Starting - tcp=127.0.0.1:28005 udp=127.0.0.1 udp-port=null
+2020-09-02 00:34:14.960 +02:00 [INF] Starting - tcp=127.0.0.1:28003 udp=null udp-port=null
+2020-09-02 00:34:14.962 +02:00 [INF] Caching: Effects
+2020-09-02 00:34:14.964 +02:00 [INF] Caching...
+2020-09-02 00:34:15.159 +02:00 [ERR] System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item_effect.x7'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize)
+   at NeoNetsphere.Resource.ResourceLoader.Deserialize[T](String fileName) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 202
+   at NeoNetsphere.Resource.ResourceLoader.LoadEffects()+MoveNext() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 107
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey](IEnumerable`1 source, Func`2 keySelector, IEqualityComparer`1 comparer)
+   at NeoNetsphere.Resource.ResourceCache.GetEffects() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 131
+   at NeoNetsphere.Resource.ResourceCache.PreCache() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 36
+   at NeoNetsphere.Network.GameServer.OnStarted() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Network\GameServer.cs:line 710
+   at ProudNetSrc.ProudServer.Listen(IPEndPoint tcpListener, IPAddress udpAddress, Int32[] udpListenerPorts) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\ProudNetSrc\ProudServer.cs:line 160
+   at NeoNetsphere.Program.Main() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Program.cs:line 201
+2020-09-02 00:35:48.185 +02:00 [INF] ============================================
+2020-09-02 00:35:48.224 +02:00 [INF] Initializing GameServer build
+2020-09-02 00:35:48.225 +02:00 [INF] ============================================
+2020-09-02 00:35:48.226 +02:00 [INF] Initializing Database
+2020-09-02 00:35:48.356 +02:00 [INF] Initializing...
+2020-09-02 00:35:48.708 +02:00 [INF] Initializing...
+2020-09-02 00:35:48.710 +02:00 [INF] Starting Server
+2020-09-02 00:35:48.712 +02:00 [INF] ____________________________________________
+2020-09-02 00:35:48.715 +02:00 [INF] ____________________________________________
+2020-09-02 00:35:48.716 +02:00 [INF] ============================================
+2020-09-02 00:35:48.718 +02:00 [INF] Starting Serverinstances and ResourceCache..
+2020-09-02 00:35:49.573 +02:00 [INF] Caching: Channels
+2020-09-02 00:35:49.576 +02:00 [INF] Caching...
+2020-09-02 00:35:49.655 +02:00 [ERR] DBError, Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 1: 'no such table: channels'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteCommand.PrepareAndEnumerateStatements(Stopwatch timer)+MoveNext()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in C:\projects\dapper\Dapper\SqlMapper.cs:line 1053
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in C:\projects\dapper\Dapper\SqlMapper.cs:line 1081
+   at System.Collections.Generic.List`1.AddEnumerable(IEnumerable`1 enumerable)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in C:\projects\dapper\Dapper\SqlMapper.cs:line 723
+   at Dapper.FastCrud.SqlStatements.GenericSqlStatements`1.BatchSelect(IDbConnection connection, AggregatedSqlStatementOptions`1 statementOptions) in D:\a\1\s\Dapper.FastCrud\SqlStatements\GenericSqlStatements.cs:line 297
+   at NeoNetsphere.DbUtil.Find[TEntity](IDbConnection db, Action`1 statementOptions) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\DbUtil.cs:line 154
+2020-09-02 00:35:49.671 +02:00 [INF] Caching: Clubs
+2020-09-02 00:35:49.673 +02:00 [INF] Caching...
+2020-09-02 00:35:49.679 +02:00 [ERR] DBError, Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 1: 'no such table: clubs'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteCommand.PrepareAndEnumerateStatements(Stopwatch timer)+MoveNext()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in C:\projects\dapper\Dapper\SqlMapper.cs:line 1053
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in C:\projects\dapper\Dapper\SqlMapper.cs:line 1081
+   at System.Collections.Generic.List`1.AddEnumerable(IEnumerable`1 enumerable)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in C:\projects\dapper\Dapper\SqlMapper.cs:line 723
+   at Dapper.FastCrud.SqlStatements.GenericSqlStatements`1.BatchSelect(IDbConnection connection, AggregatedSqlStatementOptions`1 statementOptions) in D:\a\1\s\Dapper.FastCrud\SqlStatements\GenericSqlStatements.cs:line 297
+   at NeoNetsphere.DbUtil.Find[TEntity](IDbConnection db, Action`1 statementOptions) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\DbUtil.cs:line 154
+2020-09-02 00:35:49.686 +02:00 [ERR] DBError, Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 1: 'no such table: club_players'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteCommand.PrepareAndEnumerateStatements(Stopwatch timer)+MoveNext()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in C:\projects\dapper\Dapper\SqlMapper.cs:line 1053
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in C:\projects\dapper\Dapper\SqlMapper.cs:line 1081
+   at System.Collections.Generic.List`1.AddEnumerable(IEnumerable`1 enumerable)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in C:\projects\dapper\Dapper\SqlMapper.cs:line 723
+   at Dapper.FastCrud.SqlStatements.GenericSqlStatements`1.BatchSelect(IDbConnection connection, AggregatedSqlStatementOptions`1 statementOptions) in D:\a\1\s\Dapper.FastCrud\SqlStatements\GenericSqlStatements.cs:line 297
+   at NeoNetsphere.DbUtil.Find[TEntity](IDbConnection db, Action`1 statementOptions) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\DbUtil.cs:line 154
+2020-09-02 00:35:49.760 +02:00 [INF] Starting - tcp=127.0.0.1:28004 udp=null udp-port=null
+2020-09-02 00:35:49.957 +02:00 [INF] Starting - tcp=127.0.0.1:28005 udp=127.0.0.1 udp-port=null
+2020-09-02 00:35:49.960 +02:00 [INF] Starting - tcp=127.0.0.1:28003 udp=null udp-port=null
+2020-09-02 00:35:49.964 +02:00 [INF] Caching: Effects
+2020-09-02 00:35:49.965 +02:00 [INF] Caching...
+2020-09-02 00:35:50.183 +02:00 [ERR] System.IO.FileNotFoundException: Could not find file 'D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\language\xml\item_effect_string_table.x7'.
+File name: 'D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\language\xml\item_effect_string_table.x7'
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize)
+   at NeoNetsphere.Resource.ResourceLoader.Deserialize[T](String fileName) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 202
+   at NeoNetsphere.Resource.ResourceLoader.LoadEffects()+MoveNext() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 108
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey](IEnumerable`1 source, Func`2 keySelector, IEqualityComparer`1 comparer)
+   at NeoNetsphere.Resource.ResourceCache.GetEffects() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 131
+   at NeoNetsphere.Resource.ResourceCache.PreCache() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 36
+   at NeoNetsphere.Network.GameServer.OnStarted() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Network\GameServer.cs:line 710
+   at ProudNetSrc.ProudServer.Listen(IPEndPoint tcpListener, IPAddress udpAddress, Int32[] udpListenerPorts) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\ProudNetSrc\ProudServer.cs:line 160
+   at NeoNetsphere.Program.Main() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Program.cs:line 201
+2020-09-02 00:38:24.792 +02:00 [INF] ============================================
+2020-09-02 00:38:24.819 +02:00 [INF] Initializing GameServer build
+2020-09-02 00:38:24.820 +02:00 [INF] ============================================
+2020-09-02 00:38:24.821 +02:00 [INF] Initializing Database
+2020-09-02 00:38:24.938 +02:00 [INF] Initializing...
+2020-09-02 00:38:25.291 +02:00 [INF] Initializing...
+2020-09-02 00:38:25.294 +02:00 [INF] Starting Server
+2020-09-02 00:38:25.295 +02:00 [INF] ____________________________________________
+2020-09-02 00:38:25.296 +02:00 [INF] ____________________________________________
+2020-09-02 00:38:25.297 +02:00 [INF] ============================================
+2020-09-02 00:38:25.298 +02:00 [INF] Starting Serverinstances and ResourceCache..
+2020-09-02 00:38:26.123 +02:00 [INF] Caching: Channels
+2020-09-02 00:38:26.124 +02:00 [INF] Caching...
+2020-09-02 00:38:26.216 +02:00 [ERR] DBError, Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 1: 'no such table: channels'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteCommand.PrepareAndEnumerateStatements(Stopwatch timer)+MoveNext()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in C:\projects\dapper\Dapper\SqlMapper.cs:line 1053
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in C:\projects\dapper\Dapper\SqlMapper.cs:line 1081
+   at System.Collections.Generic.List`1.AddEnumerable(IEnumerable`1 enumerable)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in C:\projects\dapper\Dapper\SqlMapper.cs:line 723
+   at Dapper.FastCrud.SqlStatements.GenericSqlStatements`1.BatchSelect(IDbConnection connection, AggregatedSqlStatementOptions`1 statementOptions) in D:\a\1\s\Dapper.FastCrud\SqlStatements\GenericSqlStatements.cs:line 297
+   at NeoNetsphere.DbUtil.Find[TEntity](IDbConnection db, Action`1 statementOptions) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\DbUtil.cs:line 154
+2020-09-02 00:38:26.234 +02:00 [INF] Caching: Clubs
+2020-09-02 00:38:26.235 +02:00 [INF] Caching...
+2020-09-02 00:38:26.240 +02:00 [ERR] DBError, Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 1: 'no such table: clubs'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteCommand.PrepareAndEnumerateStatements(Stopwatch timer)+MoveNext()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in C:\projects\dapper\Dapper\SqlMapper.cs:line 1053
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in C:\projects\dapper\Dapper\SqlMapper.cs:line 1081
+   at System.Collections.Generic.List`1.AddEnumerable(IEnumerable`1 enumerable)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in C:\projects\dapper\Dapper\SqlMapper.cs:line 723
+   at Dapper.FastCrud.SqlStatements.GenericSqlStatements`1.BatchSelect(IDbConnection connection, AggregatedSqlStatementOptions`1 statementOptions) in D:\a\1\s\Dapper.FastCrud\SqlStatements\GenericSqlStatements.cs:line 297
+   at NeoNetsphere.DbUtil.Find[TEntity](IDbConnection db, Action`1 statementOptions) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\DbUtil.cs:line 154
+2020-09-02 00:38:26.249 +02:00 [ERR] DBError, Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 1: 'no such table: club_players'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteCommand.PrepareAndEnumerateStatements(Stopwatch timer)+MoveNext()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in C:\projects\dapper\Dapper\SqlMapper.cs:line 1053
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in C:\projects\dapper\Dapper\SqlMapper.cs:line 1081
+   at System.Collections.Generic.List`1.AddEnumerable(IEnumerable`1 enumerable)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in C:\projects\dapper\Dapper\SqlMapper.cs:line 723
+   at Dapper.FastCrud.SqlStatements.GenericSqlStatements`1.BatchSelect(IDbConnection connection, AggregatedSqlStatementOptions`1 statementOptions) in D:\a\1\s\Dapper.FastCrud\SqlStatements\GenericSqlStatements.cs:line 297
+   at NeoNetsphere.DbUtil.Find[TEntity](IDbConnection db, Action`1 statementOptions) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\DbUtil.cs:line 154
+2020-09-02 00:38:26.324 +02:00 [INF] Starting - tcp=127.0.0.1:28004 udp=null udp-port=null
+2020-09-02 00:38:26.522 +02:00 [INF] Starting - tcp=127.0.0.1:28005 udp=127.0.0.1 udp-port=null
+2020-09-02 00:38:26.526 +02:00 [INF] Starting - tcp=127.0.0.1:28003 udp=null udp-port=null
+2020-09-02 00:38:26.531 +02:00 [INF] Caching: Effects
+2020-09-02 00:38:26.533 +02:00 [INF] Caching...
+2020-09-02 00:38:26.661 +02:00 [ERR] System.IO.FileNotFoundException: Could not find file 'D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\language\xml\item_effect_string_table.x7'.
+File name: 'D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\language\xml\item_effect_string_table.x7'
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize)
+   at NeoNetsphere.Resource.ResourceLoader.Deserialize[T](String fileName) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 202
+   at NeoNetsphere.Resource.ResourceLoader.LoadEffects()+MoveNext() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 108
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey](IEnumerable`1 source, Func`2 keySelector, IEqualityComparer`1 comparer)
+   at NeoNetsphere.Resource.ResourceCache.GetEffects() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 131
+   at NeoNetsphere.Resource.ResourceCache.PreCache() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 36
+   at NeoNetsphere.Network.GameServer.OnStarted() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Network\GameServer.cs:line 710
+   at ProudNetSrc.ProudServer.Listen(IPEndPoint tcpListener, IPAddress udpAddress, Int32[] udpListenerPorts) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\ProudNetSrc\ProudServer.cs:line 160
+   at NeoNetsphere.Program.Main() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Program.cs:line 201
+2020-09-02 00:41:01.142 +02:00 [INF] ============================================
+2020-09-02 00:41:01.175 +02:00 [INF] Initializing GameServer build
+2020-09-02 00:41:01.177 +02:00 [INF] ============================================
+2020-09-02 00:41:01.178 +02:00 [INF] Initializing Database
+2020-09-02 00:41:01.300 +02:00 [INF] Initializing...
+2020-09-02 00:41:01.699 +02:00 [INF] Initializing...
+2020-09-02 00:41:01.702 +02:00 [INF] Starting Server
+2020-09-02 00:41:01.703 +02:00 [INF] ____________________________________________
+2020-09-02 00:41:01.703 +02:00 [INF] ____________________________________________
+2020-09-02 00:41:01.704 +02:00 [INF] ============================================
+2020-09-02 00:41:01.705 +02:00 [INF] Starting Serverinstances and ResourceCache..
+2020-09-02 00:41:02.643 +02:00 [INF] Caching: Channels
+2020-09-02 00:41:02.644 +02:00 [INF] Caching...
+2020-09-02 00:41:02.662 +02:00 [INF] Caching: Clubs
+2020-09-02 00:41:02.662 +02:00 [INF] Caching...
+2020-09-02 00:41:02.734 +02:00 [ERR] DBError, Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 1: 'no such table: clubs'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteCommand.PrepareAndEnumerateStatements(Stopwatch timer)+MoveNext()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in C:\projects\dapper\Dapper\SqlMapper.cs:line 1053
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in C:\projects\dapper\Dapper\SqlMapper.cs:line 1081
+   at System.Collections.Generic.List`1.AddEnumerable(IEnumerable`1 enumerable)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in C:\projects\dapper\Dapper\SqlMapper.cs:line 723
+   at Dapper.FastCrud.SqlStatements.GenericSqlStatements`1.BatchSelect(IDbConnection connection, AggregatedSqlStatementOptions`1 statementOptions) in D:\a\1\s\Dapper.FastCrud\SqlStatements\GenericSqlStatements.cs:line 297
+   at NeoNetsphere.DbUtil.Find[TEntity](IDbConnection db, Action`1 statementOptions) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\DbUtil.cs:line 154
+2020-09-02 00:41:02.739 +02:00 [ERR] DBError, Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 1: 'no such table: club_players'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteCommand.PrepareAndEnumerateStatements(Stopwatch timer)+MoveNext()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in C:\projects\dapper\Dapper\SqlMapper.cs:line 1053
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in C:\projects\dapper\Dapper\SqlMapper.cs:line 1081
+   at System.Collections.Generic.List`1.AddEnumerable(IEnumerable`1 enumerable)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in C:\projects\dapper\Dapper\SqlMapper.cs:line 723
+   at Dapper.FastCrud.SqlStatements.GenericSqlStatements`1.BatchSelect(IDbConnection connection, AggregatedSqlStatementOptions`1 statementOptions) in D:\a\1\s\Dapper.FastCrud\SqlStatements\GenericSqlStatements.cs:line 297
+   at NeoNetsphere.DbUtil.Find[TEntity](IDbConnection db, Action`1 statementOptions) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\DbUtil.cs:line 154
+2020-09-02 00:41:02.818 +02:00 [INF] Starting - tcp=127.0.0.1:28004 udp=null udp-port=null
+2020-09-02 00:41:03.017 +02:00 [INF] Starting - tcp=127.0.0.1:28005 udp=127.0.0.1 udp-port=null
+2020-09-02 00:41:03.020 +02:00 [INF] Starting - tcp=127.0.0.1:28003 udp=null udp-port=null
+2020-09-02 00:41:03.022 +02:00 [INF] Caching: Effects
+2020-09-02 00:41:03.024 +02:00 [INF] Caching...
+2020-09-02 00:41:03.131 +02:00 [ERR] System.IO.FileNotFoundException: Could not find file 'D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\language\xml\item_effect_string_table.x7'.
+File name: 'D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\language\xml\item_effect_string_table.x7'
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize)
+   at NeoNetsphere.Resource.ResourceLoader.Deserialize[T](String fileName) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 202
+   at NeoNetsphere.Resource.ResourceLoader.LoadEffects()+MoveNext() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 108
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey](IEnumerable`1 source, Func`2 keySelector, IEqualityComparer`1 comparer)
+   at NeoNetsphere.Resource.ResourceCache.GetEffects() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 131
+   at NeoNetsphere.Resource.ResourceCache.PreCache() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 36
+   at NeoNetsphere.Network.GameServer.OnStarted() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Network\GameServer.cs:line 710
+   at ProudNetSrc.ProudServer.Listen(IPEndPoint tcpListener, IPAddress udpAddress, Int32[] udpListenerPorts) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\ProudNetSrc\ProudServer.cs:line 160
+   at NeoNetsphere.Program.Main() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Program.cs:line 201
+2020-09-02 00:43:43.053 +02:00 [INF] ============================================
+2020-09-02 00:43:43.090 +02:00 [INF] Initializing GameServer build
+2020-09-02 00:43:43.091 +02:00 [INF] ============================================
+2020-09-02 00:43:43.092 +02:00 [INF] Initializing Database
+2020-09-02 00:43:43.204 +02:00 [INF] Initializing...
+2020-09-02 00:43:43.567 +02:00 [INF] Initializing...
+2020-09-02 00:43:43.568 +02:00 [INF] Starting Server
+2020-09-02 00:43:43.569 +02:00 [INF] ____________________________________________
+2020-09-02 00:43:43.569 +02:00 [INF] ____________________________________________
+2020-09-02 00:43:43.570 +02:00 [INF] ============================================
+2020-09-02 00:43:43.571 +02:00 [INF] Starting Serverinstances and ResourceCache..
+2020-09-02 00:43:44.399 +02:00 [INF] Caching: Channels
+2020-09-02 00:43:44.400 +02:00 [INF] Caching...
+2020-09-02 00:43:44.421 +02:00 [INF] Caching: Clubs
+2020-09-02 00:43:44.423 +02:00 [INF] Caching...
+2020-09-02 00:43:44.547 +02:00 [ERR] DBError, Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 1: 'no such table: club_players'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteCommand.PrepareAndEnumerateStatements(Stopwatch timer)+MoveNext()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in C:\projects\dapper\Dapper\SqlMapper.cs:line 1053
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in C:\projects\dapper\Dapper\SqlMapper.cs:line 1081
+   at System.Collections.Generic.List`1.AddEnumerable(IEnumerable`1 enumerable)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in C:\projects\dapper\Dapper\SqlMapper.cs:line 723
+   at Dapper.FastCrud.SqlStatements.GenericSqlStatements`1.BatchSelect(IDbConnection connection, AggregatedSqlStatementOptions`1 statementOptions) in D:\a\1\s\Dapper.FastCrud\SqlStatements\GenericSqlStatements.cs:line 297
+   at NeoNetsphere.DbUtil.Find[TEntity](IDbConnection db, Action`1 statementOptions) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\DbUtil.cs:line 154
+2020-09-02 00:43:44.622 +02:00 [INF] Starting - tcp=127.0.0.1:28004 udp=null udp-port=null
+2020-09-02 00:43:44.799 +02:00 [INF] Starting - tcp=127.0.0.1:28005 udp=127.0.0.1 udp-port=null
+2020-09-02 00:43:44.804 +02:00 [INF] Starting - tcp=127.0.0.1:28003 udp=null udp-port=null
+2020-09-02 00:43:44.809 +02:00 [INF] Caching: Effects
+2020-09-02 00:43:44.811 +02:00 [INF] Caching...
+2020-09-02 00:43:44.965 +02:00 [ERR] System.IO.FileNotFoundException: Could not find file 'D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\language\xml\item_effect_string_table.x7'.
+File name: 'D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\language\xml\item_effect_string_table.x7'
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize)
+   at NeoNetsphere.Resource.ResourceLoader.Deserialize[T](String fileName) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 202
+   at NeoNetsphere.Resource.ResourceLoader.LoadEffects()+MoveNext() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 108
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey](IEnumerable`1 source, Func`2 keySelector, IEqualityComparer`1 comparer)
+   at NeoNetsphere.Resource.ResourceCache.GetEffects() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 131
+   at NeoNetsphere.Resource.ResourceCache.PreCache() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 36
+   at NeoNetsphere.Network.GameServer.OnStarted() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Network\GameServer.cs:line 710
+   at ProudNetSrc.ProudServer.Listen(IPEndPoint tcpListener, IPAddress udpAddress, Int32[] udpListenerPorts) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\ProudNetSrc\ProudServer.cs:line 160
+   at NeoNetsphere.Program.Main() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Program.cs:line 201
+2020-09-02 00:46:53.887 +02:00 [INF] ============================================
+2020-09-02 00:46:53.920 +02:00 [INF] Initializing GameServer build
+2020-09-02 00:46:53.921 +02:00 [INF] ============================================
+2020-09-02 00:46:53.922 +02:00 [INF] Initializing Database
+2020-09-02 00:46:54.054 +02:00 [INF] Initializing...
+2020-09-02 00:46:54.419 +02:00 [INF] Initializing...
+2020-09-02 00:46:54.420 +02:00 [INF] Starting Server
+2020-09-02 00:46:54.421 +02:00 [INF] ____________________________________________
+2020-09-02 00:46:54.421 +02:00 [INF] ____________________________________________
+2020-09-02 00:46:54.422 +02:00 [INF] ============================================
+2020-09-02 00:46:54.423 +02:00 [INF] Starting Serverinstances and ResourceCache..
+2020-09-02 00:46:55.273 +02:00 [INF] Caching: Channels
+2020-09-02 00:46:55.275 +02:00 [INF] Caching...
+2020-09-02 00:46:55.298 +02:00 [INF] Caching: Clubs
+2020-09-02 00:46:55.299 +02:00 [INF] Caching...
+2020-09-02 00:46:55.373 +02:00 [INF] Starting - tcp=127.0.0.1:28004 udp=null udp-port=null
+2020-09-02 00:46:55.579 +02:00 [INF] Starting - tcp=127.0.0.1:28005 udp=127.0.0.1 udp-port=null
+2020-09-02 00:46:55.583 +02:00 [INF] Starting - tcp=127.0.0.1:28003 udp=null udp-port=null
+2020-09-02 00:46:55.587 +02:00 [INF] Caching: Effects
+2020-09-02 00:46:55.590 +02:00 [INF] Caching...
+2020-09-02 00:46:55.731 +02:00 [ERR] System.IO.FileNotFoundException: Could not find file 'D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\language\xml\item_effect_string_table.x7'.
+File name: 'D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\language\xml\item_effect_string_table.x7'
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize)
+   at NeoNetsphere.Resource.ResourceLoader.Deserialize[T](String fileName) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 202
+   at NeoNetsphere.Resource.ResourceLoader.LoadEffects()+MoveNext() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 108
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey](IEnumerable`1 source, Func`2 keySelector, IEqualityComparer`1 comparer)
+   at NeoNetsphere.Resource.ResourceCache.GetEffects() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 131
+   at NeoNetsphere.Resource.ResourceCache.PreCache() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 36
+   at NeoNetsphere.Network.GameServer.OnStarted() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Network\GameServer.cs:line 710
+   at ProudNetSrc.ProudServer.Listen(IPEndPoint tcpListener, IPAddress udpAddress, Int32[] udpListenerPorts) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\ProudNetSrc\ProudServer.cs:line 160
+   at NeoNetsphere.Program.Main() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Program.cs:line 201
+2020-09-02 00:47:35.370 +02:00 [INF] ============================================
+2020-09-02 00:47:35.405 +02:00 [INF] Initializing GameServer build
+2020-09-02 00:47:35.406 +02:00 [INF] ============================================
+2020-09-02 00:47:35.409 +02:00 [INF] Initializing Database
+2020-09-02 00:47:35.528 +02:00 [INF] Initializing...
+2020-09-02 00:47:35.850 +02:00 [INF] Initializing...
+2020-09-02 00:47:35.852 +02:00 [INF] Starting Server
+2020-09-02 00:47:35.854 +02:00 [INF] ____________________________________________
+2020-09-02 00:47:35.855 +02:00 [INF] ____________________________________________
+2020-09-02 00:47:35.856 +02:00 [INF] ============================================
+2020-09-02 00:47:35.858 +02:00 [INF] Starting Serverinstances and ResourceCache..
+2020-09-02 00:47:36.704 +02:00 [INF] Caching: Channels
+2020-09-02 00:47:36.705 +02:00 [INF] Caching...
+2020-09-02 00:47:36.728 +02:00 [INF] Caching: Clubs
+2020-09-02 00:47:36.730 +02:00 [INF] Caching...
+2020-09-02 00:47:36.798 +02:00 [INF] Starting - tcp=127.0.0.1:28004 udp=null udp-port=null
+2020-09-02 00:47:36.976 +02:00 [INF] Starting - tcp=127.0.0.1:28005 udp=127.0.0.1 udp-port=null
+2020-09-02 00:47:36.980 +02:00 [INF] Starting - tcp=127.0.0.1:28003 udp=null udp-port=null
+2020-09-02 00:47:36.985 +02:00 [INF] Caching: Effects
+2020-09-02 00:47:36.987 +02:00 [INF] Caching...
+2020-09-02 00:47:37.144 +02:00 [ERR] System.IO.FileNotFoundException: Could not find file 'D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\language\xml\item_effect_string_table.x7'.
+File name: 'D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\language\xml\item_effect_string_table.x7'
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize)
+   at NeoNetsphere.Resource.ResourceLoader.Deserialize[T](String fileName) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 202
+   at NeoNetsphere.Resource.ResourceLoader.LoadEffects()+MoveNext() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 108
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey](IEnumerable`1 source, Func`2 keySelector, IEqualityComparer`1 comparer)
+   at NeoNetsphere.Resource.ResourceCache.GetEffects() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 131
+   at NeoNetsphere.Resource.ResourceCache.PreCache() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 36
+   at NeoNetsphere.Network.GameServer.OnStarted() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Network\GameServer.cs:line 710
+   at ProudNetSrc.ProudServer.Listen(IPEndPoint tcpListener, IPAddress udpAddress, Int32[] udpListenerPorts) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\ProudNetSrc\ProudServer.cs:line 160
+   at NeoNetsphere.Program.Main() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Program.cs:line 201
+2020-09-02 00:49:25.164 +02:00 [INF] ============================================
+2020-09-02 00:49:25.194 +02:00 [INF] Initializing GameServer build
+2020-09-02 00:49:25.196 +02:00 [INF] ============================================
+2020-09-02 00:49:25.196 +02:00 [INF] Initializing Database
+2020-09-02 00:49:25.340 +02:00 [INF] Initializing...
+2020-09-02 00:49:25.666 +02:00 [INF] Initializing...
+2020-09-02 00:49:25.668 +02:00 [INF] Starting Server
+2020-09-02 00:49:25.669 +02:00 [INF] ____________________________________________
+2020-09-02 00:49:25.669 +02:00 [INF] ____________________________________________
+2020-09-02 00:49:25.670 +02:00 [INF] ============================================
+2020-09-02 00:49:25.671 +02:00 [INF] Starting Serverinstances and ResourceCache..
+2020-09-02 00:49:26.611 +02:00 [INF] Caching: Channels
+2020-09-02 00:49:26.613 +02:00 [INF] Caching...
+2020-09-02 00:49:26.633 +02:00 [INF] Caching: Clubs
+2020-09-02 00:49:26.633 +02:00 [INF] Caching...
+2020-09-02 00:49:26.691 +02:00 [INF] Starting - tcp=127.0.0.1:28004 udp=null udp-port=null
+2020-09-02 00:49:26.871 +02:00 [INF] Starting - tcp=127.0.0.1:28005 udp=127.0.0.1 udp-port=null
+2020-09-02 00:49:26.874 +02:00 [INF] Starting - tcp=127.0.0.1:28003 udp=null udp-port=null
+2020-09-02 00:49:26.879 +02:00 [INF] Caching: Effects
+2020-09-02 00:49:26.881 +02:00 [INF] Caching...
+2020-09-02 00:49:27.019 +02:00 [ERR] System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\language\xml\item_effect_string_table.x7'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize)
+   at NeoNetsphere.Resource.ResourceLoader.Deserialize[T](String fileName) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 202
+   at NeoNetsphere.Resource.ResourceLoader.LoadEffects()+MoveNext() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 108
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey](IEnumerable`1 source, Func`2 keySelector, IEqualityComparer`1 comparer)
+   at NeoNetsphere.Resource.ResourceCache.GetEffects() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 131
+   at NeoNetsphere.Resource.ResourceCache.PreCache() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 36
+   at NeoNetsphere.Network.GameServer.OnStarted() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Network\GameServer.cs:line 710
+   at ProudNetSrc.ProudServer.Listen(IPEndPoint tcpListener, IPAddress udpAddress, Int32[] udpListenerPorts) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\ProudNetSrc\ProudServer.cs:line 160
+   at NeoNetsphere.Program.Main() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Program.cs:line 201
+2020-09-02 00:50:12.495 +02:00 [INF] ============================================
+2020-09-02 00:50:12.523 +02:00 [INF] Initializing GameServer build
+2020-09-02 00:50:12.524 +02:00 [INF] ============================================
+2020-09-02 00:50:12.524 +02:00 [INF] Initializing Database
+2020-09-02 00:50:12.641 +02:00 [INF] Initializing...
+2020-09-02 00:50:13.027 +02:00 [INF] Initializing...
+2020-09-02 00:50:13.028 +02:00 [INF] Starting Server
+2020-09-02 00:50:13.030 +02:00 [INF] ____________________________________________
+2020-09-02 00:50:13.031 +02:00 [INF] ____________________________________________
+2020-09-02 00:50:13.032 +02:00 [INF] ============================================
+2020-09-02 00:50:13.032 +02:00 [INF] Starting Serverinstances and ResourceCache..
+2020-09-02 00:50:13.894 +02:00 [INF] Caching: Channels
+2020-09-02 00:50:13.895 +02:00 [INF] Caching...
+2020-09-02 00:50:13.919 +02:00 [INF] Caching: Clubs
+2020-09-02 00:50:13.920 +02:00 [INF] Caching...
+2020-09-02 00:50:13.990 +02:00 [INF] Starting - tcp=127.0.0.1:28004 udp=null udp-port=null
+2020-09-02 00:50:14.163 +02:00 [INF] Starting - tcp=127.0.0.1:28005 udp=127.0.0.1 udp-port=null
+2020-09-02 00:50:14.167 +02:00 [INF] Starting - tcp=127.0.0.1:28003 udp=null udp-port=null
+2020-09-02 00:50:14.171 +02:00 [INF] Caching: Effects
+2020-09-02 00:50:14.175 +02:00 [INF] Caching...
+2020-09-02 00:50:14.360 +02:00 [ERR] System.IO.FileNotFoundException: Could not find file 'D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\language\xml\item_effect_string_table.x7'.
+File name: 'D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\language\xml\item_effect_string_table.x7'
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize)
+   at NeoNetsphere.Resource.ResourceLoader.Deserialize[T](String fileName) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 202
+   at NeoNetsphere.Resource.ResourceLoader.LoadEffects()+MoveNext() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 108
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey](IEnumerable`1 source, Func`2 keySelector, IEqualityComparer`1 comparer)
+   at NeoNetsphere.Resource.ResourceCache.GetEffects() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 131
+   at NeoNetsphere.Resource.ResourceCache.PreCache() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 36
+   at NeoNetsphere.Network.GameServer.OnStarted() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Network\GameServer.cs:line 710
+   at ProudNetSrc.ProudServer.Listen(IPEndPoint tcpListener, IPAddress udpAddress, Int32[] udpListenerPorts) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\ProudNetSrc\ProudServer.cs:line 160
+   at NeoNetsphere.Program.Main() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Program.cs:line 201
+2020-09-02 00:51:23.761 +02:00 [INF] ============================================
+2020-09-02 00:51:23.792 +02:00 [INF] Initializing GameServer build
+2020-09-02 00:51:23.794 +02:00 [INF] ============================================
+2020-09-02 00:51:23.795 +02:00 [INF] Initializing Database
+2020-09-02 00:51:23.919 +02:00 [INF] Initializing...
+2020-09-02 00:51:24.287 +02:00 [INF] Initializing...
+2020-09-02 00:51:24.289 +02:00 [INF] Starting Server
+2020-09-02 00:51:24.289 +02:00 [INF] ____________________________________________
+2020-09-02 00:51:24.290 +02:00 [INF] ____________________________________________
+2020-09-02 00:51:24.291 +02:00 [INF] ============================================
+2020-09-02 00:51:24.292 +02:00 [INF] Starting Serverinstances and ResourceCache..
+2020-09-02 00:51:25.161 +02:00 [INF] Caching: Channels
+2020-09-02 00:51:25.162 +02:00 [INF] Caching...
+2020-09-02 00:51:25.185 +02:00 [INF] Caching: Clubs
+2020-09-02 00:51:25.185 +02:00 [INF] Caching...
+2020-09-02 00:51:25.263 +02:00 [INF] Starting - tcp=127.0.0.1:28004 udp=null udp-port=null
+2020-09-02 00:51:25.463 +02:00 [INF] Starting - tcp=127.0.0.1:28005 udp=127.0.0.1 udp-port=null
+2020-09-02 00:51:25.467 +02:00 [INF] Starting - tcp=127.0.0.1:28003 udp=null udp-port=null
+2020-09-02 00:51:25.471 +02:00 [INF] Caching: Effects
+2020-09-02 00:51:25.474 +02:00 [INF] Caching...
+2020-09-02 00:51:25.593 +02:00 [INF] Caching: Items
+2020-09-02 00:51:25.596 +02:00 [INF] Caching...
+2020-09-02 00:51:25.687 +02:00 [ERR] System.IO.FileNotFoundException: Could not find file 'D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item.x7'.
+File name: 'D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item.x7'
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize)
+   at NeoNetsphere.Resource.ResourceLoader.Deserialize[T](String fileName) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 202
+   at NeoNetsphere.Resource.ResourceLoader.LoadItems_3()+MoveNext() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 291
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey](IEnumerable`1 source, Func`2 keySelector, IEqualityComparer`1 comparer)
+   at NeoNetsphere.Resource.ResourceCache.GetItems() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 144
+   at NeoNetsphere.Resource.ResourceCache.PreCache() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 39
+   at NeoNetsphere.Network.GameServer.OnStarted() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Network\GameServer.cs:line 710
+   at ProudNetSrc.ProudServer.Listen(IPEndPoint tcpListener, IPAddress udpAddress, Int32[] udpListenerPorts) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\ProudNetSrc\ProudServer.cs:line 160
+   at NeoNetsphere.Program.Main() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Program.cs:line 201
+2020-09-02 00:52:41.099 +02:00 [INF] ============================================
+2020-09-02 00:52:41.131 +02:00 [INF] Initializing GameServer build
+2020-09-02 00:52:41.134 +02:00 [INF] ============================================
+2020-09-02 00:52:41.135 +02:00 [INF] Initializing Database
+2020-09-02 00:52:41.264 +02:00 [INF] Initializing...
+2020-09-02 00:52:41.666 +02:00 [INF] Initializing...
+2020-09-02 00:52:41.667 +02:00 [INF] Starting Server
+2020-09-02 00:52:41.668 +02:00 [INF] ____________________________________________
+2020-09-02 00:52:41.668 +02:00 [INF] ____________________________________________
+2020-09-02 00:52:41.669 +02:00 [INF] ============================================
+2020-09-02 00:52:41.670 +02:00 [INF] Starting Serverinstances and ResourceCache..
+2020-09-02 00:52:42.517 +02:00 [INF] Caching: Channels
+2020-09-02 00:52:42.519 +02:00 [INF] Caching...
+2020-09-02 00:52:42.538 +02:00 [INF] Caching: Clubs
+2020-09-02 00:52:42.541 +02:00 [INF] Caching...
+2020-09-02 00:52:42.614 +02:00 [INF] Starting - tcp=127.0.0.1:28004 udp=null udp-port=null
+2020-09-02 00:52:42.799 +02:00 [INF] Starting - tcp=127.0.0.1:28005 udp=127.0.0.1 udp-port=null
+2020-09-02 00:52:42.802 +02:00 [INF] Starting - tcp=127.0.0.1:28003 udp=null udp-port=null
+2020-09-02 00:52:42.805 +02:00 [INF] Caching: Effects
+2020-09-02 00:52:42.807 +02:00 [INF] Caching...
+2020-09-02 00:52:42.914 +02:00 [INF] Caching: Items
+2020-09-02 00:52:42.919 +02:00 [INF] Caching...
+2020-09-02 00:52:43.007 +02:00 [ERR] System.IO.FileNotFoundException: Could not find file 'D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item.x7'.
+File name: 'D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item.x7'
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize)
+   at NeoNetsphere.Resource.ResourceLoader.Deserialize[T](String fileName) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 202
+   at NeoNetsphere.Resource.ResourceLoader.LoadItems_3()+MoveNext() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 291
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey](IEnumerable`1 source, Func`2 keySelector, IEqualityComparer`1 comparer)
+   at NeoNetsphere.Resource.ResourceCache.GetItems() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 144
+   at NeoNetsphere.Resource.ResourceCache.PreCache() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 39
+   at NeoNetsphere.Network.GameServer.OnStarted() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Network\GameServer.cs:line 710
+   at ProudNetSrc.ProudServer.Listen(IPEndPoint tcpListener, IPAddress udpAddress, Int32[] udpListenerPorts) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\ProudNetSrc\ProudServer.cs:line 160
+   at NeoNetsphere.Program.Main() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Program.cs:line 201
+2020-09-02 00:53:27.814 +02:00 [INF] ============================================
+2020-09-02 00:53:27.843 +02:00 [INF] Initializing GameServer build
+2020-09-02 00:53:27.845 +02:00 [INF] ============================================
+2020-09-02 00:53:27.847 +02:00 [INF] Initializing Database
+2020-09-02 00:53:27.964 +02:00 [INF] Initializing...
+2020-09-02 00:53:28.354 +02:00 [INF] Initializing...
+2020-09-02 00:53:28.355 +02:00 [INF] Starting Server
+2020-09-02 00:53:28.357 +02:00 [INF] ____________________________________________
+2020-09-02 00:53:28.361 +02:00 [INF] ____________________________________________
+2020-09-02 00:53:28.362 +02:00 [INF] ============================================
+2020-09-02 00:53:28.363 +02:00 [INF] Starting Serverinstances and ResourceCache..
+2020-09-02 00:53:29.178 +02:00 [INF] Caching: Channels
+2020-09-02 00:53:29.180 +02:00 [INF] Caching...
+2020-09-02 00:53:29.211 +02:00 [INF] Caching: Clubs
+2020-09-02 00:53:29.214 +02:00 [INF] Caching...
+2020-09-02 00:53:29.295 +02:00 [INF] Starting - tcp=127.0.0.1:28004 udp=null udp-port=null
+2020-09-02 00:53:29.503 +02:00 [INF] Starting - tcp=127.0.0.1:28005 udp=127.0.0.1 udp-port=null
+2020-09-02 00:53:29.506 +02:00 [INF] Starting - tcp=127.0.0.1:28003 udp=null udp-port=null
+2020-09-02 00:53:29.510 +02:00 [INF] Caching: Effects
+2020-09-02 00:53:29.513 +02:00 [INF] Caching...
+2020-09-02 00:53:29.620 +02:00 [INF] Caching: Items
+2020-09-02 00:53:29.623 +02:00 [INF] Caching...
+2020-09-02 00:53:29.725 +02:00 [ERR] System.InvalidOperationException: There is an error in XML document (2, 2). ---> System.InvalidOperationException: <default_item xmlns=''> was not expected.
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderItemInfoDto_2.Read9_itemlist()
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   at NeoNetsphere.Resource.ResourceLoader.Deserialize[T](String fileName) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 202
+   at NeoNetsphere.Resource.ResourceLoader.LoadItems_3()+MoveNext() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 291
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey](IEnumerable`1 source, Func`2 keySelector, IEqualityComparer`1 comparer)
+   at NeoNetsphere.Resource.ResourceCache.GetItems() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 144
+   at NeoNetsphere.Resource.ResourceCache.PreCache() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 39
+   at NeoNetsphere.Network.GameServer.OnStarted() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Network\GameServer.cs:line 710
+   at ProudNetSrc.ProudServer.Listen(IPEndPoint tcpListener, IPAddress udpAddress, Int32[] udpListenerPorts) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\ProudNetSrc\ProudServer.cs:line 160
+   at NeoNetsphere.Program.Main() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Program.cs:line 201
+2020-09-02 00:54:46.560 +02:00 [INF] ============================================
+2020-09-02 00:54:46.594 +02:00 [INF] Initializing GameServer build
+2020-09-02 00:54:46.595 +02:00 [INF] ============================================
+2020-09-02 00:54:46.597 +02:00 [INF] Initializing Database
+2020-09-02 00:54:46.730 +02:00 [INF] Initializing...
+2020-09-02 00:54:47.078 +02:00 [INF] Initializing...
+2020-09-02 00:54:47.080 +02:00 [INF] Starting Server
+2020-09-02 00:54:47.081 +02:00 [INF] ____________________________________________
+2020-09-02 00:54:47.082 +02:00 [INF] ____________________________________________
+2020-09-02 00:54:47.084 +02:00 [INF] ============================================
+2020-09-02 00:54:47.085 +02:00 [INF] Starting Serverinstances and ResourceCache..
+2020-09-02 00:54:48.069 +02:00 [INF] Caching: Channels
+2020-09-02 00:54:48.071 +02:00 [INF] Caching...
+2020-09-02 00:54:48.096 +02:00 [INF] Caching: Clubs
+2020-09-02 00:54:48.098 +02:00 [INF] Caching...
+2020-09-02 00:54:48.164 +02:00 [INF] Starting - tcp=127.0.0.1:28004 udp=null udp-port=null
+2020-09-02 00:54:48.372 +02:00 [INF] Starting - tcp=127.0.0.1:28005 udp=127.0.0.1 udp-port=null
+2020-09-02 00:54:48.376 +02:00 [INF] Starting - tcp=127.0.0.1:28003 udp=null udp-port=null
+2020-09-02 00:54:48.380 +02:00 [INF] Caching: Effects
+2020-09-02 00:54:48.382 +02:00 [INF] Caching...
+2020-09-02 00:54:48.489 +02:00 [INF] Caching: Items
+2020-09-02 00:54:48.492 +02:00 [INF] Caching...
+2020-09-02 00:54:48.594 +02:00 [ERR] System.InvalidOperationException: There is an error in XML document (2, 2). ---> System.InvalidOperationException: <ditem xmlns=''> was not expected.
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderItemInfoDto_2.Read9_itemlist()
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   at NeoNetsphere.Resource.ResourceLoader.Deserialize[T](String fileName) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 202
+   at NeoNetsphere.Resource.ResourceLoader.LoadItems_3()+MoveNext() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 291
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey](IEnumerable`1 source, Func`2 keySelector, IEqualityComparer`1 comparer)
+   at NeoNetsphere.Resource.ResourceCache.GetItems() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 144
+   at NeoNetsphere.Resource.ResourceCache.PreCache() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 39
+   at NeoNetsphere.Network.GameServer.OnStarted() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Network\GameServer.cs:line 710
+   at ProudNetSrc.ProudServer.Listen(IPEndPoint tcpListener, IPAddress udpAddress, Int32[] udpListenerPorts) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\ProudNetSrc\ProudServer.cs:line 160
+   at NeoNetsphere.Program.Main() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Program.cs:line 201
+2020-09-02 00:55:20.678 +02:00 [INF] ============================================
+2020-09-02 00:55:20.710 +02:00 [INF] Initializing GameServer build
+2020-09-02 00:55:20.711 +02:00 [INF] ============================================
+2020-09-02 00:55:20.712 +02:00 [INF] Initializing Database
+2020-09-02 00:55:20.849 +02:00 [INF] Initializing...
+2020-09-02 00:55:21.198 +02:00 [INF] Initializing...
+2020-09-02 00:55:21.200 +02:00 [INF] Starting Server
+2020-09-02 00:55:21.200 +02:00 [INF] ____________________________________________
+2020-09-02 00:55:21.201 +02:00 [INF] ____________________________________________
+2020-09-02 00:55:21.202 +02:00 [INF] ============================================
+2020-09-02 00:55:21.202 +02:00 [INF] Starting Serverinstances and ResourceCache..
+2020-09-02 00:55:22.024 +02:00 [INF] Caching: Channels
+2020-09-02 00:55:22.026 +02:00 [INF] Caching...
+2020-09-02 00:55:22.046 +02:00 [INF] Caching: Clubs
+2020-09-02 00:55:22.048 +02:00 [INF] Caching...
+2020-09-02 00:55:22.114 +02:00 [INF] Starting - tcp=127.0.0.1:28004 udp=null udp-port=null
+2020-09-02 00:55:22.300 +02:00 [INF] Starting - tcp=127.0.0.1:28005 udp=127.0.0.1 udp-port=null
+2020-09-02 00:55:22.306 +02:00 [INF] Starting - tcp=127.0.0.1:28003 udp=null udp-port=null
+2020-09-02 00:55:22.311 +02:00 [INF] Caching: Effects
+2020-09-02 00:55:22.314 +02:00 [INF] Caching...
+2020-09-02 00:55:22.438 +02:00 [INF] Caching: Items
+2020-09-02 00:55:22.441 +02:00 [INF] Caching...
+2020-09-02 00:55:22.532 +02:00 [ERR] System.InvalidOperationException: There is an error in XML document (2, 2). ---> System.InvalidOperationException: <item xmlns=''> was not expected.
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderItemInfoDto_2.Read9_itemlist()
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   at NeoNetsphere.Resource.ResourceLoader.Deserialize[T](String fileName) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 202
+   at NeoNetsphere.Resource.ResourceLoader.LoadItems_3()+MoveNext() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 291
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey](IEnumerable`1 source, Func`2 keySelector, IEqualityComparer`1 comparer)
+   at NeoNetsphere.Resource.ResourceCache.GetItems() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 144
+   at NeoNetsphere.Resource.ResourceCache.PreCache() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 39
+   at NeoNetsphere.Network.GameServer.OnStarted() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Network\GameServer.cs:line 710
+   at ProudNetSrc.ProudServer.Listen(IPEndPoint tcpListener, IPAddress udpAddress, Int32[] udpListenerPorts) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\ProudNetSrc\ProudServer.cs:line 160
+   at NeoNetsphere.Program.Main() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Program.cs:line 201
+2020-09-02 00:56:40.050 +02:00 [INF] ============================================
+2020-09-02 00:56:40.081 +02:00 [INF] Initializing GameServer build
+2020-09-02 00:56:40.082 +02:00 [INF] ============================================
+2020-09-02 00:56:40.083 +02:00 [INF] Initializing Database
+2020-09-02 00:56:40.191 +02:00 [INF] Initializing...
+2020-09-02 00:56:40.591 +02:00 [INF] Initializing...
+2020-09-02 00:56:40.592 +02:00 [INF] Starting Server
+2020-09-02 00:56:40.593 +02:00 [INF] ____________________________________________
+2020-09-02 00:56:40.593 +02:00 [INF] ____________________________________________
+2020-09-02 00:56:40.594 +02:00 [INF] ============================================
+2020-09-02 00:56:40.595 +02:00 [INF] Starting Serverinstances and ResourceCache..
+2020-09-02 00:56:41.509 +02:00 [INF] Caching: Channels
+2020-09-02 00:56:41.510 +02:00 [INF] Caching...
+2020-09-02 00:56:41.529 +02:00 [INF] Caching: Clubs
+2020-09-02 00:56:41.530 +02:00 [INF] Caching...
+2020-09-02 00:56:41.596 +02:00 [INF] Starting - tcp=127.0.0.1:28004 udp=null udp-port=null
+2020-09-02 00:56:41.784 +02:00 [INF] Starting - tcp=127.0.0.1:28005 udp=127.0.0.1 udp-port=null
+2020-09-02 00:56:41.787 +02:00 [INF] Starting - tcp=127.0.0.1:28003 udp=null udp-port=null
+2020-09-02 00:56:41.790 +02:00 [INF] Caching: Effects
+2020-09-02 00:56:41.791 +02:00 [INF] Caching...
+2020-09-02 00:56:41.916 +02:00 [INF] Caching: Items
+2020-09-02 00:56:41.919 +02:00 [INF] Caching...
+2020-09-02 00:56:42.013 +02:00 [ERR] System.InvalidOperationException: There is an error in XML document (2, 2). ---> System.InvalidOperationException: <item xmlns=''> was not expected.
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderItemInfoDto_2.Read9_itemlist()
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   at NeoNetsphere.Resource.ResourceLoader.Deserialize[T](String fileName) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 202
+   at NeoNetsphere.Resource.ResourceLoader.LoadItems_3()+MoveNext() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 291
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey](IEnumerable`1 source, Func`2 keySelector, IEqualityComparer`1 comparer)
+   at NeoNetsphere.Resource.ResourceCache.GetItems() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 144
+   at NeoNetsphere.Resource.ResourceCache.PreCache() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 39
+   at NeoNetsphere.Network.GameServer.OnStarted() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Network\GameServer.cs:line 710
+   at ProudNetSrc.ProudServer.Listen(IPEndPoint tcpListener, IPAddress udpAddress, Int32[] udpListenerPorts) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\ProudNetSrc\ProudServer.cs:line 160
+   at NeoNetsphere.Program.Main() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Program.cs:line 201
+2020-09-02 00:59:06.622 +02:00 [INF] ============================================
+2020-09-02 00:59:06.658 +02:00 [INF] Initializing GameServer build
+2020-09-02 00:59:06.658 +02:00 [INF] ============================================
+2020-09-02 00:59:06.660 +02:00 [INF] Initializing Database
+2020-09-02 00:59:06.768 +02:00 [INF] Initializing...
+2020-09-02 00:59:07.107 +02:00 [INF] Initializing...
+2020-09-02 00:59:07.109 +02:00 [INF] Starting Server
+2020-09-02 00:59:07.110 +02:00 [INF] ____________________________________________
+2020-09-02 00:59:07.111 +02:00 [INF] ____________________________________________
+2020-09-02 00:59:07.112 +02:00 [INF] ============================================
+2020-09-02 00:59:07.113 +02:00 [INF] Starting Serverinstances and ResourceCache..
+2020-09-02 00:59:07.943 +02:00 [INF] Caching: Channels
+2020-09-02 00:59:07.944 +02:00 [INF] Caching...
+2020-09-02 00:59:07.962 +02:00 [INF] Caching: Clubs
+2020-09-02 00:59:07.963 +02:00 [INF] Caching...
+2020-09-02 00:59:08.034 +02:00 [INF] Starting - tcp=127.0.0.1:28004 udp=null udp-port=null
+2020-09-02 00:59:08.229 +02:00 [INF] Starting - tcp=127.0.0.1:28005 udp=127.0.0.1 udp-port=null
+2020-09-02 00:59:08.233 +02:00 [INF] Starting - tcp=127.0.0.1:28003 udp=null udp-port=null
+2020-09-02 00:59:08.238 +02:00 [INF] Caching: Effects
+2020-09-02 00:59:08.240 +02:00 [INF] Caching...
+2020-09-02 00:59:08.394 +02:00 [INF] Caching: Items
+2020-09-02 00:59:08.396 +02:00 [INF] Caching...
+2020-09-02 00:59:08.487 +02:00 [ERR] System.InvalidOperationException: There is an error in XML document (2, 2). ---> System.InvalidOperationException: <item xmlns=''> was not expected.
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderItemInfoDto_2.Read9_itemlist()
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   at NeoNetsphere.Resource.ResourceLoader.Deserialize[T](String fileName) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 202
+   at NeoNetsphere.Resource.ResourceLoader.LoadItems_3()+MoveNext() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 291
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey](IEnumerable`1 source, Func`2 keySelector, IEqualityComparer`1 comparer)
+   at NeoNetsphere.Resource.ResourceCache.GetItems() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 144
+   at NeoNetsphere.Resource.ResourceCache.PreCache() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 39
+   at NeoNetsphere.Network.GameServer.OnStarted() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Network\GameServer.cs:line 710
+   at ProudNetSrc.ProudServer.Listen(IPEndPoint tcpListener, IPAddress udpAddress, Int32[] udpListenerPorts) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\ProudNetSrc\ProudServer.cs:line 160
+   at NeoNetsphere.Program.Main() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Program.cs:line 201
+2020-09-02 01:07:09.255 +02:00 [INF] ============================================
+2020-09-02 01:07:09.288 +02:00 [INF] Initializing GameServer build
+2020-09-02 01:07:09.290 +02:00 [INF] ============================================
+2020-09-02 01:07:09.291 +02:00 [INF] Initializing Database
+2020-09-02 01:07:09.444 +02:00 [INF] Initializing...
+2020-09-02 01:07:09.883 +02:00 [INF] Initializing...
+2020-09-02 01:07:09.884 +02:00 [INF] Starting Server
+2020-09-02 01:07:09.886 +02:00 [INF] ____________________________________________
+2020-09-02 01:07:09.887 +02:00 [INF] ____________________________________________
+2020-09-02 01:07:09.888 +02:00 [INF] ============================================
+2020-09-02 01:07:09.889 +02:00 [INF] Starting Serverinstances and ResourceCache..
+2020-09-02 01:07:10.843 +02:00 [INF] Caching: Channels
+2020-09-02 01:07:10.845 +02:00 [INF] Caching...
+2020-09-02 01:07:10.867 +02:00 [INF] Caching: Clubs
+2020-09-02 01:07:10.867 +02:00 [INF] Caching...
+2020-09-02 01:07:10.952 +02:00 [INF] Starting - tcp=127.0.0.1:28004 udp=null udp-port=null
+2020-09-02 01:07:11.142 +02:00 [INF] Starting - tcp=127.0.0.1:28005 udp=127.0.0.1 udp-port=null
+2020-09-02 01:07:11.146 +02:00 [INF] Starting - tcp=127.0.0.1:28003 udp=null udp-port=null
+2020-09-02 01:07:11.150 +02:00 [INF] Caching: Effects
+2020-09-02 01:07:11.152 +02:00 [INF] Caching...
+2020-09-02 01:07:11.227 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item_effect.x7
+2020-09-02 01:07:11.266 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\language\xml\item_effect_string_table.x7
+2020-09-02 01:07:11.295 +02:00 [INF] Caching: Items
+2020-09-02 01:07:11.297 +02:00 [INF] Caching...
+2020-09-02 01:07:11.324 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item.x7
+2020-09-02 01:07:11.399 +02:00 [ERR] System.InvalidOperationException: There is an error in XML document (2, 2). ---> System.InvalidOperationException: <item xmlns=''> was not expected.
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderItemInfoDto_2.Read9_itemlist()
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   at NeoNetsphere.Resource.ResourceLoader.Deserialize[T](String fileName) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 203
+   at NeoNetsphere.Resource.ResourceLoader.LoadItems_3()+MoveNext() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 292
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey](IEnumerable`1 source, Func`2 keySelector, IEqualityComparer`1 comparer)
+   at NeoNetsphere.Resource.ResourceCache.GetItems() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 144
+   at NeoNetsphere.Resource.ResourceCache.PreCache() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 39
+   at NeoNetsphere.Network.GameServer.OnStarted() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Network\GameServer.cs:line 710
+   at ProudNetSrc.ProudServer.Listen(IPEndPoint tcpListener, IPAddress udpAddress, Int32[] udpListenerPorts) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\ProudNetSrc\ProudServer.cs:line 160
+   at NeoNetsphere.Program.Main() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Program.cs:line 201
+2020-09-02 01:08:11.264 +02:00 [INF] ============================================
+2020-09-02 01:08:11.292 +02:00 [INF] Initializing GameServer build
+2020-09-02 01:08:11.293 +02:00 [INF] ============================================
+2020-09-02 01:08:11.294 +02:00 [INF] Initializing Database
+2020-09-02 01:08:11.408 +02:00 [INF] Initializing...
+2020-09-02 01:08:11.738 +02:00 [INF] Initializing...
+2020-09-02 01:08:11.741 +02:00 [INF] Starting Server
+2020-09-02 01:08:11.742 +02:00 [INF] ____________________________________________
+2020-09-02 01:08:11.743 +02:00 [INF] ____________________________________________
+2020-09-02 01:08:11.744 +02:00 [INF] ============================================
+2020-09-02 01:08:11.745 +02:00 [INF] Starting Serverinstances and ResourceCache..
+2020-09-02 01:08:12.622 +02:00 [INF] Caching: Channels
+2020-09-02 01:08:12.624 +02:00 [INF] Caching...
+2020-09-02 01:08:12.642 +02:00 [INF] Caching: Clubs
+2020-09-02 01:08:12.644 +02:00 [INF] Caching...
+2020-09-02 01:08:12.704 +02:00 [INF] Starting - tcp=127.0.0.1:28004 udp=null udp-port=null
+2020-09-02 01:08:12.894 +02:00 [INF] Starting - tcp=127.0.0.1:28005 udp=127.0.0.1 udp-port=null
+2020-09-02 01:08:12.898 +02:00 [INF] Starting - tcp=127.0.0.1:28003 udp=null udp-port=null
+2020-09-02 01:08:12.901 +02:00 [INF] Caching: Effects
+2020-09-02 01:08:12.902 +02:00 [INF] Caching...
+2020-09-02 01:08:12.960 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item_effect.x7
+2020-09-02 01:08:13.007 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\language\xml\item_effect_string_table.x7
+2020-09-02 01:08:13.033 +02:00 [INF] Caching: Items
+2020-09-02 01:08:13.035 +02:00 [INF] Caching...
+2020-09-02 01:08:13.066 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item.x7
+2020-09-02 01:08:13.127 +02:00 [ERR] System.IO.FileNotFoundException: Could not find file 'D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item.x7'.
+File name: 'D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item.x7'
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize)
+   at NeoNetsphere.Resource.ResourceLoader.Deserialize[T](String fileName) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 203
+   at NeoNetsphere.Resource.ResourceLoader.LoadItems_3()+MoveNext() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 292
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey](IEnumerable`1 source, Func`2 keySelector, IEqualityComparer`1 comparer)
+   at NeoNetsphere.Resource.ResourceCache.GetItems() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 144
+   at NeoNetsphere.Resource.ResourceCache.PreCache() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 39
+   at NeoNetsphere.Network.GameServer.OnStarted() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Network\GameServer.cs:line 710
+   at ProudNetSrc.ProudServer.Listen(IPEndPoint tcpListener, IPAddress udpAddress, Int32[] udpListenerPorts) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\ProudNetSrc\ProudServer.cs:line 160
+   at NeoNetsphere.Program.Main() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Program.cs:line 201
+2020-09-02 01:09:46.590 +02:00 [INF] ============================================
+2020-09-02 01:09:46.615 +02:00 [INF] Initializing GameServer build
+2020-09-02 01:09:46.616 +02:00 [INF] ============================================
+2020-09-02 01:09:46.617 +02:00 [INF] Initializing Database
+2020-09-02 01:09:46.725 +02:00 [INF] Initializing...
+2020-09-02 01:09:47.085 +02:00 [INF] Initializing...
+2020-09-02 01:09:47.087 +02:00 [INF] Starting Server
+2020-09-02 01:09:47.089 +02:00 [INF] ____________________________________________
+2020-09-02 01:09:47.091 +02:00 [INF] ____________________________________________
+2020-09-02 01:09:47.092 +02:00 [INF] ============================================
+2020-09-02 01:09:47.094 +02:00 [INF] Starting Serverinstances and ResourceCache..
+2020-09-02 01:09:47.986 +02:00 [INF] Caching: Channels
+2020-09-02 01:09:47.987 +02:00 [INF] Caching...
+2020-09-02 01:09:48.004 +02:00 [INF] Caching: Clubs
+2020-09-02 01:09:48.007 +02:00 [INF] Caching...
+2020-09-02 01:09:48.072 +02:00 [INF] Starting - tcp=127.0.0.1:28004 udp=null udp-port=null
+2020-09-02 01:09:48.270 +02:00 [INF] Starting - tcp=127.0.0.1:28005 udp=127.0.0.1 udp-port=null
+2020-09-02 01:09:48.273 +02:00 [INF] Starting - tcp=127.0.0.1:28003 udp=null udp-port=null
+2020-09-02 01:09:48.276 +02:00 [INF] Caching: Effects
+2020-09-02 01:09:48.278 +02:00 [INF] Caching...
+2020-09-02 01:09:48.334 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item_effect.x7
+2020-09-02 01:09:48.378 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\language\xml\item_effect_string_table.x7
+2020-09-02 01:09:48.401 +02:00 [INF] Caching: Items
+2020-09-02 01:09:48.403 +02:00 [INF] Caching...
+2020-09-02 01:09:48.433 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item.x7
+2020-09-02 01:09:48.506 +02:00 [ERR] System.InvalidOperationException: There is an error in XML document (2, 2). ---> System.InvalidOperationException: <default_item xmlns=''> was not expected.
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderItemInfoDto_2.Read9_itemlist()
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   at NeoNetsphere.Resource.ResourceLoader.Deserialize[T](String fileName) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 203
+   at NeoNetsphere.Resource.ResourceLoader.LoadItems_3()+MoveNext() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 292
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey](IEnumerable`1 source, Func`2 keySelector, IEqualityComparer`1 comparer)
+   at NeoNetsphere.Resource.ResourceCache.GetItems() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 144
+   at NeoNetsphere.Resource.ResourceCache.PreCache() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 39
+   at NeoNetsphere.Network.GameServer.OnStarted() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Network\GameServer.cs:line 710
+   at ProudNetSrc.ProudServer.Listen(IPEndPoint tcpListener, IPAddress udpAddress, Int32[] udpListenerPorts) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\ProudNetSrc\ProudServer.cs:line 160
+   at NeoNetsphere.Program.Main() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Program.cs:line 201
+2020-09-02 01:12:21.808 +02:00 [INF] ============================================
+2020-09-02 01:12:21.848 +02:00 [INF] Initializing GameServer build
+2020-09-02 01:12:21.851 +02:00 [INF] ============================================
+2020-09-02 01:12:21.852 +02:00 [INF] Initializing Database
+2020-09-02 01:12:21.971 +02:00 [INF] Initializing...
+2020-09-02 01:12:22.368 +02:00 [INF] Initializing...
+2020-09-02 01:12:22.369 +02:00 [INF] Starting Server
+2020-09-02 01:12:22.370 +02:00 [INF] ____________________________________________
+2020-09-02 01:12:22.371 +02:00 [INF] ____________________________________________
+2020-09-02 01:12:22.371 +02:00 [INF] ============================================
+2020-09-02 01:12:22.372 +02:00 [INF] Starting Serverinstances and ResourceCache..
+2020-09-02 01:12:23.319 +02:00 [INF] Caching: Channels
+2020-09-02 01:12:23.320 +02:00 [INF] Caching...
+2020-09-02 01:12:23.337 +02:00 [INF] Caching: Clubs
+2020-09-02 01:12:23.338 +02:00 [INF] Caching...
+2020-09-02 01:12:23.404 +02:00 [INF] Starting - tcp=127.0.0.1:28004 udp=null udp-port=null
+2020-09-02 01:12:23.601 +02:00 [INF] Starting - tcp=127.0.0.1:28005 udp=127.0.0.1 udp-port=null
+2020-09-02 01:12:23.604 +02:00 [INF] Starting - tcp=127.0.0.1:28003 udp=null udp-port=null
+2020-09-02 01:12:23.609 +02:00 [INF] Caching: Effects
+2020-09-02 01:12:23.612 +02:00 [INF] Caching...
+2020-09-02 01:12:23.674 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item_effect.x7
+2020-09-02 01:12:23.714 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\language\xml\item_effect_string_table.x7
+2020-09-02 01:12:23.745 +02:00 [INF] Caching: Items
+2020-09-02 01:12:23.748 +02:00 [INF] Caching...
+2020-09-02 01:12:23.777 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item.x7
+2020-09-02 01:12:23.851 +02:00 [ERR] System.InvalidOperationException: There is an error in XML document (2, 2). ---> System.InvalidOperationException: <default_item xmlns=''> was not expected.
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderItemInfoDto_2.Read9_itemlist()
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   at NeoNetsphere.Resource.ResourceLoader.Deserialize[T](String fileName) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 203
+   at NeoNetsphere.Resource.ResourceLoader.LoadItems_3()+MoveNext() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 292
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey](IEnumerable`1 source, Func`2 keySelector, IEqualityComparer`1 comparer)
+   at NeoNetsphere.Resource.ResourceCache.GetItems() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 144
+   at NeoNetsphere.Resource.ResourceCache.PreCache() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 39
+   at NeoNetsphere.Network.GameServer.OnStarted() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Network\GameServer.cs:line 710
+   at ProudNetSrc.ProudServer.Listen(IPEndPoint tcpListener, IPAddress udpAddress, Int32[] udpListenerPorts) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\ProudNetSrc\ProudServer.cs:line 160
+   at NeoNetsphere.Program.Main() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Program.cs:line 201
+2020-09-02 01:14:56.524 +02:00 [INF] ============================================
+2020-09-02 01:14:56.553 +02:00 [INF] Initializing GameServer build
+2020-09-02 01:14:56.553 +02:00 [INF] ============================================
+2020-09-02 01:14:56.554 +02:00 [INF] Initializing Database
+2020-09-02 01:14:56.664 +02:00 [INF] Initializing...
+2020-09-02 01:14:57.037 +02:00 [INF] Initializing...
+2020-09-02 01:14:57.039 +02:00 [INF] Starting Server
+2020-09-02 01:14:57.040 +02:00 [INF] ____________________________________________
+2020-09-02 01:14:57.041 +02:00 [INF] ____________________________________________
+2020-09-02 01:14:57.042 +02:00 [INF] ============================================
+2020-09-02 01:14:57.043 +02:00 [INF] Starting Serverinstances and ResourceCache..
+2020-09-02 01:14:57.943 +02:00 [INF] Caching: Channels
+2020-09-02 01:14:57.944 +02:00 [INF] Caching...
+2020-09-02 01:14:57.965 +02:00 [INF] Caching: Clubs
+2020-09-02 01:14:57.967 +02:00 [INF] Caching...
+2020-09-02 01:14:58.037 +02:00 [INF] Starting - tcp=127.0.0.1:28004 udp=null udp-port=null
+2020-09-02 01:14:58.257 +02:00 [INF] Starting - tcp=127.0.0.1:28005 udp=127.0.0.1 udp-port=null
+2020-09-02 01:14:58.261 +02:00 [INF] Starting - tcp=127.0.0.1:28003 udp=null udp-port=null
+2020-09-02 01:14:58.265 +02:00 [INF] Caching: Effects
+2020-09-02 01:14:58.267 +02:00 [INF] Caching...
+2020-09-02 01:14:58.330 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item_effect.x7
+2020-09-02 01:14:58.370 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\language\xml\item_effect_string_table.x7
+2020-09-02 01:14:58.399 +02:00 [INF] Caching: Items
+2020-09-02 01:14:58.402 +02:00 [INF] Caching...
+2020-09-02 01:14:58.434 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item.x7
+2020-09-02 01:14:58.506 +02:00 [ERR] System.InvalidOperationException: There is an error in XML document (2, 2). ---> System.InvalidOperationException: <default_item xmlns=''> was not expected.
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderItemInfoDto_2.Read9_itemlist()
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   at NeoNetsphere.Resource.ResourceLoader.Deserialize[T](String fileName) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 203
+   at NeoNetsphere.Resource.ResourceLoader.LoadItems_3()+MoveNext() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 292
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey](IEnumerable`1 source, Func`2 keySelector, IEqualityComparer`1 comparer)
+   at NeoNetsphere.Resource.ResourceCache.GetItems() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 144
+   at NeoNetsphere.Resource.ResourceCache.PreCache() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 39
+   at NeoNetsphere.Network.GameServer.OnStarted() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Network\GameServer.cs:line 710
+   at ProudNetSrc.ProudServer.Listen(IPEndPoint tcpListener, IPAddress udpAddress, Int32[] udpListenerPorts) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\ProudNetSrc\ProudServer.cs:line 160
+   at NeoNetsphere.Program.Main() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Program.cs:line 201
+2020-09-02 01:16:59.219 +02:00 [INF] ============================================
+2020-09-02 01:16:59.253 +02:00 [INF] Initializing GameServer build
+2020-09-02 01:16:59.254 +02:00 [INF] ============================================
+2020-09-02 01:16:59.254 +02:00 [INF] Initializing Database
+2020-09-02 01:16:59.383 +02:00 [INF] Initializing...
+2020-09-02 01:16:59.747 +02:00 [INF] Initializing...
+2020-09-02 01:16:59.748 +02:00 [INF] Starting Server
+2020-09-02 01:16:59.749 +02:00 [INF] ____________________________________________
+2020-09-02 01:16:59.750 +02:00 [INF] ____________________________________________
+2020-09-02 01:16:59.751 +02:00 [INF] ============================================
+2020-09-02 01:16:59.751 +02:00 [INF] Starting Serverinstances and ResourceCache..
+2020-09-02 01:17:00.552 +02:00 [INF] Caching: Channels
+2020-09-02 01:17:00.554 +02:00 [INF] Caching...
+2020-09-02 01:17:00.585 +02:00 [INF] Caching: Clubs
+2020-09-02 01:17:00.587 +02:00 [INF] Caching...
+2020-09-02 01:17:00.674 +02:00 [INF] Starting - tcp=127.0.0.1:28004 udp=null udp-port=null
+2020-09-02 01:17:00.877 +02:00 [INF] Starting - tcp=127.0.0.1:28005 udp=127.0.0.1 udp-port=null
+2020-09-02 01:17:00.882 +02:00 [INF] Starting - tcp=127.0.0.1:28003 udp=null udp-port=null
+2020-09-02 01:17:00.887 +02:00 [INF] Caching: Effects
+2020-09-02 01:17:00.889 +02:00 [INF] Caching...
+2020-09-02 01:17:00.941 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item_effect.x7
+2020-09-02 01:17:00.978 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\language\xml\item_effect_string_table.x7
+2020-09-02 01:17:01.000 +02:00 [INF] Caching: Items
+2020-09-02 01:17:01.002 +02:00 [INF] Caching...
+2020-09-02 01:17:01.033 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item.x7
+2020-09-02 01:17:01.108 +02:00 [ERR] System.InvalidOperationException: There is an error in XML document (2, 2). ---> System.InvalidOperationException: <default_item xmlns=''> was not expected.
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderItemInfoDto_2.Read9_itemlist()
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   at NeoNetsphere.Resource.ResourceLoader.Deserialize[T](String fileName) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 203
+   at NeoNetsphere.Resource.ResourceLoader.LoadItems_3()+MoveNext() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 292
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey](IEnumerable`1 source, Func`2 keySelector, IEqualityComparer`1 comparer)
+   at NeoNetsphere.Resource.ResourceCache.GetItems() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 144
+   at NeoNetsphere.Resource.ResourceCache.PreCache() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 39
+   at NeoNetsphere.Network.GameServer.OnStarted() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Network\GameServer.cs:line 710
+   at ProudNetSrc.ProudServer.Listen(IPEndPoint tcpListener, IPAddress udpAddress, Int32[] udpListenerPorts) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\ProudNetSrc\ProudServer.cs:line 160
+   at NeoNetsphere.Program.Main() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Program.cs:line 201
+2020-09-02 01:17:56.604 +02:00 [INF] ============================================
+2020-09-02 01:17:56.636 +02:00 [INF] Initializing GameServer build
+2020-09-02 01:17:56.637 +02:00 [INF] ============================================
+2020-09-02 01:17:56.638 +02:00 [INF] Initializing Database
+2020-09-02 01:17:56.752 +02:00 [INF] Initializing...
+2020-09-02 01:17:57.104 +02:00 [INF] Initializing...
+2020-09-02 01:17:57.105 +02:00 [INF] Starting Server
+2020-09-02 01:17:57.105 +02:00 [INF] ____________________________________________
+2020-09-02 01:17:57.106 +02:00 [INF] ____________________________________________
+2020-09-02 01:17:57.107 +02:00 [INF] ============================================
+2020-09-02 01:17:57.108 +02:00 [INF] Starting Serverinstances and ResourceCache..
+2020-09-02 01:17:57.916 +02:00 [INF] Caching: Channels
+2020-09-02 01:17:57.918 +02:00 [INF] Caching...
+2020-09-02 01:17:57.938 +02:00 [INF] Caching: Clubs
+2020-09-02 01:17:57.939 +02:00 [INF] Caching...
+2020-09-02 01:17:57.998 +02:00 [INF] Starting - tcp=127.0.0.1:28004 udp=null udp-port=null
+2020-09-02 01:17:58.190 +02:00 [INF] Starting - tcp=127.0.0.1:28005 udp=127.0.0.1 udp-port=null
+2020-09-02 01:17:58.193 +02:00 [INF] Starting - tcp=127.0.0.1:28003 udp=null udp-port=null
+2020-09-02 01:17:58.197 +02:00 [INF] Caching: Effects
+2020-09-02 01:17:58.199 +02:00 [INF] Caching...
+2020-09-02 01:17:58.261 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item_effect.x7
+2020-09-02 01:17:58.300 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\language\xml\item_effect_string_table.x7
+2020-09-02 01:17:58.335 +02:00 [INF] Caching: Items
+2020-09-02 01:17:58.339 +02:00 [INF] Caching...
+2020-09-02 01:17:58.375 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item.x7
+2020-09-02 01:17:58.460 +02:00 [ERR] System.InvalidOperationException: There is an error in XML document (2, 2). ---> System.InvalidOperationException: <item xmlns=''> was not expected.
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderItemInfoDto_2.Read9_itemlist()
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   at NeoNetsphere.Resource.ResourceLoader.Deserialize[T](String fileName) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 203
+   at NeoNetsphere.Resource.ResourceLoader.LoadItems_3()+MoveNext() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 292
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey](IEnumerable`1 source, Func`2 keySelector, IEqualityComparer`1 comparer)
+   at NeoNetsphere.Resource.ResourceCache.GetItems() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 144
+   at NeoNetsphere.Resource.ResourceCache.PreCache() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 39
+   at NeoNetsphere.Network.GameServer.OnStarted() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Network\GameServer.cs:line 710
+   at ProudNetSrc.ProudServer.Listen(IPEndPoint tcpListener, IPAddress udpAddress, Int32[] udpListenerPorts) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\ProudNetSrc\ProudServer.cs:line 160
+   at NeoNetsphere.Program.Main() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Program.cs:line 201
+2020-09-02 01:29:37.315 +02:00 [INF] ============================================
+2020-09-02 01:29:37.358 +02:00 [INF] Initializing GameServer build
+2020-09-02 01:29:37.359 +02:00 [INF] ============================================
+2020-09-02 01:29:37.360 +02:00 [INF] Initializing Database
+2020-09-02 01:29:37.486 +02:00 [INF] Initializing...
+2020-09-02 01:29:37.849 +02:00 [INF] Initializing...
+2020-09-02 01:29:37.853 +02:00 [INF] Starting Server
+2020-09-02 01:29:37.854 +02:00 [INF] ____________________________________________
+2020-09-02 01:29:37.856 +02:00 [INF] ____________________________________________
+2020-09-02 01:29:37.857 +02:00 [INF] ============================================
+2020-09-02 01:29:37.858 +02:00 [INF] Starting Serverinstances and ResourceCache..
+2020-09-02 01:29:38.750 +02:00 [INF] Caching: Channels
+2020-09-02 01:29:38.751 +02:00 [INF] Caching...
+2020-09-02 01:29:38.769 +02:00 [INF] Caching: Clubs
+2020-09-02 01:29:38.770 +02:00 [INF] Caching...
+2020-09-02 01:29:38.833 +02:00 [INF] Starting - tcp=127.0.0.1:28004 udp=null udp-port=null
+2020-09-02 01:29:39.026 +02:00 [INF] Starting - tcp=127.0.0.1:28005 udp=127.0.0.1 udp-port=null
+2020-09-02 01:29:39.030 +02:00 [INF] Starting - tcp=127.0.0.1:28003 udp=null udp-port=null
+2020-09-02 01:29:39.033 +02:00 [INF] Caching: Effects
+2020-09-02 01:29:39.034 +02:00 [INF] Caching...
+2020-09-02 01:29:39.093 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item_effect.x7
+2020-09-02 01:29:39.132 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\language\xml\item_effect_string_table.x7
+2020-09-02 01:29:39.160 +02:00 [INF] Caching: Items
+2020-09-02 01:29:39.164 +02:00 [INF] Caching...
+2020-09-02 01:29:39.201 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item.x7
+2020-09-02 01:29:39.282 +02:00 [ERR] System.InvalidOperationException: There is an error in XML document (2, 2). ---> System.InvalidOperationException: <item xmlns=''> was not expected.
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderItemInfoDto_2.Read9_itemlist()
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   at NeoNetsphere.Resource.ResourceLoader.Deserialize[T](String fileName) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 203
+   at NeoNetsphere.Resource.ResourceLoader.LoadItems_3()+MoveNext() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 292
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey](IEnumerable`1 source, Func`2 keySelector, IEqualityComparer`1 comparer)
+   at NeoNetsphere.Resource.ResourceCache.GetItems() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 144
+   at NeoNetsphere.Resource.ResourceCache.PreCache() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 39
+   at NeoNetsphere.Network.GameServer.OnStarted() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Network\GameServer.cs:line 710
+   at ProudNetSrc.ProudServer.Listen(IPEndPoint tcpListener, IPAddress udpAddress, Int32[] udpListenerPorts) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\ProudNetSrc\ProudServer.cs:line 160
+   at NeoNetsphere.Program.Main() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Program.cs:line 201
+2020-09-02 01:34:23.616 +02:00 [INF] ============================================
+2020-09-02 01:34:23.654 +02:00 [INF] Initializing GameServer build
+2020-09-02 01:34:23.657 +02:00 [INF] ============================================
+2020-09-02 01:34:23.659 +02:00 [INF] Initializing Database
+2020-09-02 01:34:23.768 +02:00 [INF] Initializing...
+2020-09-02 01:34:24.122 +02:00 [INF] Initializing...
+2020-09-02 01:34:24.123 +02:00 [INF] Starting Server
+2020-09-02 01:34:24.124 +02:00 [INF] ____________________________________________
+2020-09-02 01:34:24.125 +02:00 [INF] ____________________________________________
+2020-09-02 01:34:24.126 +02:00 [INF] ============================================
+2020-09-02 01:34:24.127 +02:00 [INF] Starting Serverinstances and ResourceCache..
+2020-09-02 01:34:24.980 +02:00 [INF] Caching: Channels
+2020-09-02 01:34:24.982 +02:00 [INF] Caching...
+2020-09-02 01:34:24.999 +02:00 [INF] Caching: Clubs
+2020-09-02 01:34:25.000 +02:00 [INF] Caching...
+2020-09-02 01:34:25.070 +02:00 [INF] Starting - tcp=127.0.0.1:28004 udp=null udp-port=null
+2020-09-02 01:34:25.281 +02:00 [INF] Starting - tcp=127.0.0.1:28005 udp=127.0.0.1 udp-port=null
+2020-09-02 01:34:25.285 +02:00 [INF] Starting - tcp=127.0.0.1:28003 udp=null udp-port=null
+2020-09-02 01:34:25.288 +02:00 [INF] Caching: Effects
+2020-09-02 01:34:25.291 +02:00 [INF] Caching...
+2020-09-02 01:34:25.350 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item_effect.x7
+2020-09-02 01:34:25.396 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\language\xml\item_effect_string_table.x7
+2020-09-02 01:34:25.422 +02:00 [INF] Caching: Items
+2020-09-02 01:34:25.424 +02:00 [INF] Caching...
+2020-09-02 01:34:25.457 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item.x7
+2020-09-02 01:34:25.538 +02:00 [ERR] System.InvalidOperationException: There is an error in XML document (2, 2). ---> System.InvalidOperationException: <item xmlns=''> was not expected.
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderItemInfoDto_2.Read9_itemlist()
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   at NeoNetsphere.Resource.ResourceLoader.Deserialize[T](String fileName) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 203
+   at NeoNetsphere.Resource.ResourceLoader.LoadItems_3()+MoveNext() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 292
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey](IEnumerable`1 source, Func`2 keySelector, IEqualityComparer`1 comparer)
+   at NeoNetsphere.Resource.ResourceCache.GetItems() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 144
+   at NeoNetsphere.Resource.ResourceCache.PreCache() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 39
+   at NeoNetsphere.Network.GameServer.OnStarted() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Network\GameServer.cs:line 710
+   at ProudNetSrc.ProudServer.Listen(IPEndPoint tcpListener, IPAddress udpAddress, Int32[] udpListenerPorts) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\ProudNetSrc\ProudServer.cs:line 160
+   at NeoNetsphere.Program.Main() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Program.cs:line 201
+2020-09-02 01:35:16.362 +02:00 [INF] ============================================
+2020-09-02 01:35:16.400 +02:00 [INF] Initializing GameServer build
+2020-09-02 01:35:16.401 +02:00 [INF] ============================================
+2020-09-02 01:35:16.402 +02:00 [INF] Initializing Database
+2020-09-02 01:35:16.504 +02:00 [INF] Initializing...
+2020-09-02 01:35:16.871 +02:00 [INF] Initializing...
+2020-09-02 01:35:16.872 +02:00 [INF] Starting Server
+2020-09-02 01:35:16.874 +02:00 [INF] ____________________________________________
+2020-09-02 01:35:16.875 +02:00 [INF] ____________________________________________
+2020-09-02 01:35:16.876 +02:00 [INF] ============================================
+2020-09-02 01:35:16.877 +02:00 [INF] Starting Serverinstances and ResourceCache..
+2020-09-02 01:35:17.816 +02:00 [INF] Caching: Channels
+2020-09-02 01:35:17.817 +02:00 [INF] Caching...
+2020-09-02 01:35:17.835 +02:00 [INF] Caching: Clubs
+2020-09-02 01:35:17.836 +02:00 [INF] Caching...
+2020-09-02 01:35:17.902 +02:00 [INF] Starting - tcp=127.0.0.1:28004 udp=null udp-port=null
+2020-09-02 01:35:18.096 +02:00 [INF] Starting - tcp=127.0.0.1:28005 udp=127.0.0.1 udp-port=null
+2020-09-02 01:35:18.099 +02:00 [INF] Starting - tcp=127.0.0.1:28003 udp=null udp-port=null
+2020-09-02 01:35:18.102 +02:00 [INF] Caching: Effects
+2020-09-02 01:35:18.103 +02:00 [INF] Caching...
+2020-09-02 01:35:18.161 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item_effect.x7
+2020-09-02 01:35:18.206 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\language\xml\item_effect_string_table.x7
+2020-09-02 01:35:18.238 +02:00 [INF] Caching: Items
+2020-09-02 01:35:18.242 +02:00 [INF] Caching...
+2020-09-02 01:35:18.274 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item.x7
+2020-09-02 01:35:18.358 +02:00 [ERR] System.InvalidOperationException: There is an error in XML document (2, 2). ---> System.InvalidOperationException: <default_item xmlns=''> was not expected.
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderItemInfoDto_2.Read9_itemlist()
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   at NeoNetsphere.Resource.ResourceLoader.Deserialize[T](String fileName) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 203
+   at NeoNetsphere.Resource.ResourceLoader.LoadItems_3()+MoveNext() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 292
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey](IEnumerable`1 source, Func`2 keySelector, IEqualityComparer`1 comparer)
+   at NeoNetsphere.Resource.ResourceCache.GetItems() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 144
+   at NeoNetsphere.Resource.ResourceCache.PreCache() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 39
+   at NeoNetsphere.Network.GameServer.OnStarted() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Network\GameServer.cs:line 710
+   at ProudNetSrc.ProudServer.Listen(IPEndPoint tcpListener, IPAddress udpAddress, Int32[] udpListenerPorts) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\ProudNetSrc\ProudServer.cs:line 160
+   at NeoNetsphere.Program.Main() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Program.cs:line 201
+2020-09-02 01:36:40.700 +02:00 [INF] ============================================
+2020-09-02 01:36:40.739 +02:00 [INF] Initializing GameServer build
+2020-09-02 01:36:40.740 +02:00 [INF] ============================================
+2020-09-02 01:36:40.741 +02:00 [INF] Initializing Database
+2020-09-02 01:36:40.855 +02:00 [INF] Initializing...
+2020-09-02 01:36:41.218 +02:00 [INF] Initializing...
+2020-09-02 01:36:41.220 +02:00 [INF] Starting Server
+2020-09-02 01:36:41.221 +02:00 [INF] ____________________________________________
+2020-09-02 01:36:41.222 +02:00 [INF] ____________________________________________
+2020-09-02 01:36:41.223 +02:00 [INF] ============================================
+2020-09-02 01:36:41.224 +02:00 [INF] Starting Serverinstances and ResourceCache..
+2020-09-02 01:36:42.012 +02:00 [INF] Caching: Channels
+2020-09-02 01:36:42.014 +02:00 [INF] Caching...
+2020-09-02 01:36:42.034 +02:00 [INF] Caching: Clubs
+2020-09-02 01:36:42.035 +02:00 [INF] Caching...
+2020-09-02 01:36:42.101 +02:00 [INF] Starting - tcp=127.0.0.1:28004 udp=null udp-port=null
+2020-09-02 01:36:42.312 +02:00 [INF] Starting - tcp=127.0.0.1:28005 udp=127.0.0.1 udp-port=null
+2020-09-02 01:36:42.316 +02:00 [INF] Starting - tcp=127.0.0.1:28003 udp=null udp-port=null
+2020-09-02 01:36:42.322 +02:00 [INF] Caching: Effects
+2020-09-02 01:36:42.323 +02:00 [INF] Caching...
+2020-09-02 01:36:42.392 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item_effect.x7
+2020-09-02 01:36:42.436 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\language\xml\item_effect_string_table.x7
+2020-09-02 01:36:42.493 +02:00 [ERR] System.IO.FileNotFoundException: Could not find file 'D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\language\xml\item_effect_string_table.x7'.
+File name: 'D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\language\xml\item_effect_string_table.x7'
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize)
+   at NeoNetsphere.Resource.ResourceLoader.Deserialize[T](String fileName) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 203
+   at NeoNetsphere.Resource.ResourceLoader.LoadEffects()+MoveNext() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 108
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey](IEnumerable`1 source, Func`2 keySelector, IEqualityComparer`1 comparer)
+   at NeoNetsphere.Resource.ResourceCache.GetEffects() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 131
+   at NeoNetsphere.Resource.ResourceCache.PreCache() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 36
+   at NeoNetsphere.Network.GameServer.OnStarted() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Network\GameServer.cs:line 710
+   at ProudNetSrc.ProudServer.Listen(IPEndPoint tcpListener, IPAddress udpAddress, Int32[] udpListenerPorts) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\ProudNetSrc\ProudServer.cs:line 160
+   at NeoNetsphere.Program.Main() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Program.cs:line 201
+2020-09-02 01:37:48.963 +02:00 [INF] ============================================
+2020-09-02 01:37:48.997 +02:00 [INF] Initializing GameServer build
+2020-09-02 01:37:48.998 +02:00 [INF] ============================================
+2020-09-02 01:37:48.999 +02:00 [INF] Initializing Database
+2020-09-02 01:37:49.100 +02:00 [INF] Initializing...
+2020-09-02 01:37:49.442 +02:00 [INF] Initializing...
+2020-09-02 01:37:49.444 +02:00 [INF] Starting Server
+2020-09-02 01:37:49.445 +02:00 [INF] ____________________________________________
+2020-09-02 01:37:49.447 +02:00 [INF] ____________________________________________
+2020-09-02 01:37:49.449 +02:00 [INF] ============================================
+2020-09-02 01:37:49.450 +02:00 [INF] Starting Serverinstances and ResourceCache..
+2020-09-02 01:37:50.326 +02:00 [INF] Caching: Channels
+2020-09-02 01:37:50.328 +02:00 [INF] Caching...
+2020-09-02 01:37:50.357 +02:00 [INF] Caching: Clubs
+2020-09-02 01:37:50.358 +02:00 [INF] Caching...
+2020-09-02 01:37:50.434 +02:00 [INF] Starting - tcp=127.0.0.1:28004 udp=null udp-port=null
+2020-09-02 01:37:50.635 +02:00 [INF] Starting - tcp=127.0.0.1:28005 udp=127.0.0.1 udp-port=null
+2020-09-02 01:37:50.638 +02:00 [INF] Starting - tcp=127.0.0.1:28003 udp=null udp-port=null
+2020-09-02 01:37:50.641 +02:00 [INF] Caching: Effects
+2020-09-02 01:37:50.643 +02:00 [INF] Caching...
+2020-09-02 01:37:50.697 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item_effect.x7
+2020-09-02 01:37:50.738 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\language\xml\item_effect_string_table.x7
+2020-09-02 01:37:50.767 +02:00 [INF] Caching: Items
+2020-09-02 01:37:50.769 +02:00 [INF] Caching...
+2020-09-02 01:37:50.803 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item.x7
+2020-09-02 01:37:50.870 +02:00 [ERR] System.IO.FileNotFoundException: Could not find file 'D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item.x7'.
+File name: 'D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item.x7'
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize)
+   at NeoNetsphere.Resource.ResourceLoader.Deserialize[T](String fileName) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 203
+   at NeoNetsphere.Resource.ResourceLoader.LoadItems_3()+MoveNext() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 292
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey](IEnumerable`1 source, Func`2 keySelector, IEqualityComparer`1 comparer)
+   at NeoNetsphere.Resource.ResourceCache.GetItems() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 144
+   at NeoNetsphere.Resource.ResourceCache.PreCache() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 39
+   at NeoNetsphere.Network.GameServer.OnStarted() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Network\GameServer.cs:line 710
+   at ProudNetSrc.ProudServer.Listen(IPEndPoint tcpListener, IPAddress udpAddress, Int32[] udpListenerPorts) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\ProudNetSrc\ProudServer.cs:line 160
+   at NeoNetsphere.Program.Main() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Program.cs:line 201
+2020-09-02 01:40:01.732 +02:00 [INF] ============================================
+2020-09-02 01:40:01.770 +02:00 [INF] Initializing GameServer build
+2020-09-02 01:40:01.772 +02:00 [INF] ============================================
+2020-09-02 01:40:01.776 +02:00 [INF] Initializing Database
+2020-09-02 01:40:01.887 +02:00 [INF] Initializing...
+2020-09-02 01:40:02.234 +02:00 [INF] Initializing...
+2020-09-02 01:40:02.236 +02:00 [INF] Starting Server
+2020-09-02 01:40:02.237 +02:00 [INF] ____________________________________________
+2020-09-02 01:40:02.238 +02:00 [INF] ____________________________________________
+2020-09-02 01:40:02.238 +02:00 [INF] ============================================
+2020-09-02 01:40:02.239 +02:00 [INF] Starting Serverinstances and ResourceCache..
+2020-09-02 01:40:03.081 +02:00 [INF] Caching: Channels
+2020-09-02 01:40:03.082 +02:00 [INF] Caching...
+2020-09-02 01:40:03.100 +02:00 [INF] Caching: Clubs
+2020-09-02 01:40:03.100 +02:00 [INF] Caching...
+2020-09-02 01:40:03.163 +02:00 [INF] Starting - tcp=127.0.0.1:28004 udp=null udp-port=null
+2020-09-02 01:40:03.361 +02:00 [INF] Starting - tcp=127.0.0.1:28005 udp=127.0.0.1 udp-port=null
+2020-09-02 01:40:03.364 +02:00 [INF] Starting - tcp=127.0.0.1:28003 udp=null udp-port=null
+2020-09-02 01:40:03.367 +02:00 [INF] Caching: Effects
+2020-09-02 01:40:03.369 +02:00 [INF] Caching...
+2020-09-02 01:40:03.423 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item_effect.x7
+2020-09-02 01:40:03.462 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\language\xml\item_effect_string_table.x7
+2020-09-02 01:40:03.494 +02:00 [INF] Caching: Items
+2020-09-02 01:40:03.497 +02:00 [INF] Caching...
+2020-09-02 01:40:03.533 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item.x7
+2020-09-02 01:40:03.605 +02:00 [ERR] System.InvalidOperationException: There is an error in XML document (2, 2). ---> System.InvalidOperationException: <default_item xmlns=''> was not expected.
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderItemInfoDto_2.Read9_itemlist()
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   at NeoNetsphere.Resource.ResourceLoader.Deserialize[T](String fileName) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 203
+   at NeoNetsphere.Resource.ResourceLoader.LoadItems_3()+MoveNext() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 292
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey](IEnumerable`1 source, Func`2 keySelector, IEqualityComparer`1 comparer)
+   at NeoNetsphere.Resource.ResourceCache.GetItems() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 144
+   at NeoNetsphere.Resource.ResourceCache.PreCache() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 39
+   at NeoNetsphere.Network.GameServer.OnStarted() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Network\GameServer.cs:line 710
+   at ProudNetSrc.ProudServer.Listen(IPEndPoint tcpListener, IPAddress udpAddress, Int32[] udpListenerPorts) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\ProudNetSrc\ProudServer.cs:line 160
+   at NeoNetsphere.Program.Main() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Program.cs:line 201
+2020-09-02 01:41:03.554 +02:00 [INF] ============================================
+2020-09-02 01:41:03.586 +02:00 [INF] Initializing GameServer build
+2020-09-02 01:41:03.588 +02:00 [INF] ============================================
+2020-09-02 01:41:03.590 +02:00 [INF] Initializing Database
+2020-09-02 01:41:03.700 +02:00 [INF] Initializing...
+2020-09-02 01:41:04.057 +02:00 [INF] Initializing...
+2020-09-02 01:41:04.059 +02:00 [INF] Starting Server
+2020-09-02 01:41:04.060 +02:00 [INF] ____________________________________________
+2020-09-02 01:41:04.061 +02:00 [INF] ____________________________________________
+2020-09-02 01:41:04.063 +02:00 [INF] ============================================
+2020-09-02 01:41:04.065 +02:00 [INF] Starting Serverinstances and ResourceCache..
+2020-09-02 01:41:04.947 +02:00 [INF] Caching: Channels
+2020-09-02 01:41:04.949 +02:00 [INF] Caching...
+2020-09-02 01:41:04.967 +02:00 [INF] Caching: Clubs
+2020-09-02 01:41:04.968 +02:00 [INF] Caching...
+2020-09-02 01:41:05.041 +02:00 [INF] Starting - tcp=127.0.0.1:28004 udp=null udp-port=null
+2020-09-02 01:41:05.232 +02:00 [INF] Starting - tcp=127.0.0.1:28005 udp=127.0.0.1 udp-port=null
+2020-09-02 01:41:05.236 +02:00 [INF] Starting - tcp=127.0.0.1:28003 udp=null udp-port=null
+2020-09-02 01:41:05.240 +02:00 [INF] Caching: Effects
+2020-09-02 01:41:05.242 +02:00 [INF] Caching...
+2020-09-02 01:41:05.305 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item_effect.x7
+2020-09-02 01:41:05.346 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\language\xml\item_effect_string_table.x7
+2020-09-02 01:41:05.373 +02:00 [INF] Caching: Items
+2020-09-02 01:41:05.375 +02:00 [INF] Caching...
+2020-09-02 01:41:05.402 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item.x7
+2020-09-02 01:41:05.473 +02:00 [ERR] System.InvalidOperationException: There is an error in XML document (2, 2). ---> System.InvalidOperationException: <item xmlns=''> was not expected.
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderItemInfoDto_2.Read9_itemlist()
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   at NeoNetsphere.Resource.ResourceLoader.Deserialize[T](String fileName) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 203
+   at NeoNetsphere.Resource.ResourceLoader.LoadItems_3()+MoveNext() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 292
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey](IEnumerable`1 source, Func`2 keySelector, IEqualityComparer`1 comparer)
+   at NeoNetsphere.Resource.ResourceCache.GetItems() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 144
+   at NeoNetsphere.Resource.ResourceCache.PreCache() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 39
+   at NeoNetsphere.Network.GameServer.OnStarted() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Network\GameServer.cs:line 710
+   at ProudNetSrc.ProudServer.Listen(IPEndPoint tcpListener, IPAddress udpAddress, Int32[] udpListenerPorts) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\ProudNetSrc\ProudServer.cs:line 160
+   at NeoNetsphere.Program.Main() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Program.cs:line 201
+2020-09-02 01:43:46.427 +02:00 [INF] ============================================
+2020-09-02 01:43:46.461 +02:00 [INF] Initializing GameServer build
+2020-09-02 01:43:46.462 +02:00 [INF] ============================================
+2020-09-02 01:43:46.463 +02:00 [INF] Initializing Database
+2020-09-02 01:43:46.569 +02:00 [INF] Initializing...
+2020-09-02 01:43:46.920 +02:00 [INF] Initializing...
+2020-09-02 01:43:46.922 +02:00 [INF] Starting Server
+2020-09-02 01:43:46.922 +02:00 [INF] ____________________________________________
+2020-09-02 01:43:46.923 +02:00 [INF] ____________________________________________
+2020-09-02 01:43:46.924 +02:00 [INF] ============================================
+2020-09-02 01:43:46.925 +02:00 [INF] Starting Serverinstances and ResourceCache..
+2020-09-02 01:43:47.835 +02:00 [INF] Caching: Channels
+2020-09-02 01:43:47.837 +02:00 [INF] Caching...
+2020-09-02 01:43:47.861 +02:00 [INF] Caching: Clubs
+2020-09-02 01:43:47.863 +02:00 [INF] Caching...
+2020-09-02 01:43:47.930 +02:00 [INF] Starting - tcp=127.0.0.1:28004 udp=null udp-port=null
+2020-09-02 01:43:48.121 +02:00 [INF] Starting - tcp=127.0.0.1:28005 udp=127.0.0.1 udp-port=null
+2020-09-02 01:43:48.124 +02:00 [INF] Starting - tcp=127.0.0.1:28003 udp=null udp-port=null
+2020-09-02 01:43:48.128 +02:00 [INF] Caching: Effects
+2020-09-02 01:43:48.130 +02:00 [INF] Caching...
+2020-09-02 01:43:48.192 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item_effect.x7
+2020-09-02 01:43:48.250 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\language\xml\item_effect_string_table.x7
+2020-09-02 01:43:48.302 +02:00 [INF] Caching: Items
+2020-09-02 01:43:48.307 +02:00 [INF] Caching...
+2020-09-02 01:43:48.359 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item.x7
+2020-09-02 01:43:48.430 +02:00 [ERR] System.IO.FileNotFoundException: Could not find file 'D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item.x7'.
+File name: 'D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item.x7'
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize)
+   at NeoNetsphere.Resource.ResourceLoader.Deserialize[T](String fileName) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 203
+   at NeoNetsphere.Resource.ResourceLoader.LoadItems_3()+MoveNext() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 292
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey](IEnumerable`1 source, Func`2 keySelector, IEqualityComparer`1 comparer)
+   at NeoNetsphere.Resource.ResourceCache.GetItems() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 144
+   at NeoNetsphere.Resource.ResourceCache.PreCache() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 39
+   at NeoNetsphere.Network.GameServer.OnStarted() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Network\GameServer.cs:line 710
+   at ProudNetSrc.ProudServer.Listen(IPEndPoint tcpListener, IPAddress udpAddress, Int32[] udpListenerPorts) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\ProudNetSrc\ProudServer.cs:line 160
+   at NeoNetsphere.Program.Main() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Program.cs:line 201
+2020-09-02 01:45:48.081 +02:00 [INF] ============================================
+2020-09-02 01:45:48.119 +02:00 [INF] Initializing GameServer build
+2020-09-02 01:45:48.120 +02:00 [INF] ============================================
+2020-09-02 01:45:48.121 +02:00 [INF] Initializing Database
+2020-09-02 01:45:48.269 +02:00 [INF] Initializing...
+2020-09-02 01:45:48.658 +02:00 [INF] Initializing...
+2020-09-02 01:45:48.659 +02:00 [INF] Starting Server
+2020-09-02 01:45:48.661 +02:00 [INF] ____________________________________________
+2020-09-02 01:45:48.662 +02:00 [INF] ____________________________________________
+2020-09-02 01:45:48.663 +02:00 [INF] ============================================
+2020-09-02 01:45:48.664 +02:00 [INF] Starting Serverinstances and ResourceCache..
+2020-09-02 01:45:49.528 +02:00 [INF] Caching: Channels
+2020-09-02 01:45:49.529 +02:00 [INF] Caching...
+2020-09-02 01:45:49.549 +02:00 [INF] Caching: Clubs
+2020-09-02 01:45:49.550 +02:00 [INF] Caching...
+2020-09-02 01:45:49.618 +02:00 [INF] Starting - tcp=127.0.0.1:28004 udp=null udp-port=null
+2020-09-02 01:45:49.807 +02:00 [INF] Starting - tcp=127.0.0.1:28005 udp=127.0.0.1 udp-port=null
+2020-09-02 01:45:49.812 +02:00 [INF] Starting - tcp=127.0.0.1:28003 udp=null udp-port=null
+2020-09-02 01:45:49.815 +02:00 [INF] Caching: Effects
+2020-09-02 01:45:49.817 +02:00 [INF] Caching...
+2020-09-02 01:45:49.877 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item_effect.x7
+2020-09-02 01:45:49.922 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\language\xml\item_effect_string_table.x7
+2020-09-02 01:45:49.943 +02:00 [INF] Caching: Items
+2020-09-02 01:45:49.945 +02:00 [INF] Caching...
+2020-09-02 01:45:49.980 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item.x7
+2020-09-02 01:45:50.067 +02:00 [ERR] System.InvalidOperationException: There is an error in XML document (2, 2). ---> System.InvalidOperationException: <iteminfo xmlns=''> was not expected.
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderItemInfoDto_2.Read9_itemlist()
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   at NeoNetsphere.Resource.ResourceLoader.Deserialize[T](String fileName) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 203
+   at NeoNetsphere.Resource.ResourceLoader.LoadItems_3()+MoveNext() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 292
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey](IEnumerable`1 source, Func`2 keySelector, IEqualityComparer`1 comparer)
+   at NeoNetsphere.Resource.ResourceCache.GetItems() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 144
+   at NeoNetsphere.Resource.ResourceCache.PreCache() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 39
+   at NeoNetsphere.Network.GameServer.OnStarted() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Network\GameServer.cs:line 710
+   at ProudNetSrc.ProudServer.Listen(IPEndPoint tcpListener, IPAddress udpAddress, Int32[] udpListenerPorts) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\ProudNetSrc\ProudServer.cs:line 160
+   at NeoNetsphere.Program.Main() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Program.cs:line 201
+2020-09-02 21:28:39.555 +02:00 [INF] ============================================
+2020-09-02 21:28:39.579 +02:00 [INF] Initializing GameServer build
+2020-09-02 21:28:39.580 +02:00 [INF] ============================================
+2020-09-02 21:28:39.581 +02:00 [INF] Initializing Database
+2020-09-02 21:28:39.742 +02:00 [INF] Initializing...
+2020-09-02 21:28:40.067 +02:00 [INF] Initializing...
+2020-09-02 21:28:40.069 +02:00 [INF] Starting Server
+2020-09-02 21:28:40.071 +02:00 [INF] ____________________________________________
+2020-09-02 21:28:40.073 +02:00 [INF] ____________________________________________
+2020-09-02 21:28:40.074 +02:00 [INF] ============================================
+2020-09-02 21:28:40.075 +02:00 [INF] Starting Serverinstances and ResourceCache..
+2020-09-02 21:28:41.042 +02:00 [INF] Caching: Channels
+2020-09-02 21:28:41.044 +02:00 [INF] Caching...
+2020-09-02 21:28:41.059 +02:00 [INF] Caching: Clubs
+2020-09-02 21:28:41.060 +02:00 [INF] Caching...
+2020-09-02 21:28:41.111 +02:00 [INF] Starting - tcp=127.0.0.1:28004 udp=null udp-port=null
+2020-09-02 21:28:41.262 +02:00 [INF] Starting - tcp=127.0.0.1:28005 udp=127.0.0.1 udp-port=null
+2020-09-02 21:28:41.265 +02:00 [INF] Starting - tcp=127.0.0.1:28003 udp=null udp-port=null
+2020-09-02 21:28:41.267 +02:00 [INF] Caching: Effects
+2020-09-02 21:28:41.269 +02:00 [INF] Caching...
+2020-09-02 21:28:41.313 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item_effect.x7
+2020-09-02 21:28:41.350 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\language\xml\item_effect_string_table.x7
+2020-09-02 21:28:41.375 +02:00 [INF] Caching: Items
+2020-09-02 21:28:41.377 +02:00 [INF] Caching...
+2020-09-02 21:28:41.402 +02:00 [ERR] D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item.x7
+2020-09-02 21:28:41.469 +02:00 [ERR] System.IO.FileNotFoundException: Could not find file 'D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item.x7'.
+File name: 'D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\bin\OldIDs_Debug\netcoreapp2.0\data\xml\item.x7'
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize)
+   at NeoNetsphere.Resource.ResourceLoader.Deserialize[T](String fileName) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 203
+   at NeoNetsphere.Resource.ResourceLoader.LoadItems_3()+MoveNext() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceLoader.cs:line 292
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey](IEnumerable`1 source, Func`2 keySelector, IEqualityComparer`1 comparer)
+   at NeoNetsphere.Resource.ResourceCache.GetItems() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 144
+   at NeoNetsphere.Resource.ResourceCache.PreCache() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Resource\ResourceCache.cs:line 39
+   at NeoNetsphere.Network.GameServer.OnStarted() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Network\GameServer.cs:line 710
+   at ProudNetSrc.ProudServer.Listen(IPEndPoint tcpListener, IPAddress udpAddress, Int32[] udpListenerPorts) in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\ProudNetSrc\ProudServer.cs:line 160
+   at NeoNetsphere.Program.Main() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\GameServer\Program.cs:line 201

@@ -1,0 +1,4 @@
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\Backup\src\AuthServer\obj\OldIDs_Debug\netcoreapp2.0\AuthServer.csprojAssemblyReference.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\Backup\src\AuthServer\obj\OldIDs_Debug\netcoreapp2.0\AuthServer.AssemblyInfoInputs.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\Backup\src\AuthServer\obj\OldIDs_Debug\netcoreapp2.0\AuthServer.AssemblyInfo.cs
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\Backup\src\AuthServer\obj\OldIDs_Debug\netcoreapp2.0\AuthServer.csproj.CoreCompileInputs.cache

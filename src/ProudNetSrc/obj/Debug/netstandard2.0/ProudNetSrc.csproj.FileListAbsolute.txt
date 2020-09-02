@@ -1,0 +1,34 @@
+C:\Users\rober\Desktop\SourceCode\src\ProudNetSrc\bin\Debug\netstandard2.0\ProudNetSrc.deps.json
+C:\Users\rober\Desktop\SourceCode\src\ProudNetSrc\bin\Debug\netstandard2.0\ProudNetSrc.dll
+C:\Users\rober\Desktop\SourceCode\src\ProudNetSrc\bin\Debug\netstandard2.0\ProudNetSrc.pdb
+C:\Users\rober\Desktop\SourceCode\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\SourceCode\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.AssemblyInfoInputs.cache
+C:\Users\rober\Desktop\SourceCode\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.AssemblyInfo.cs
+C:\Users\rober\Desktop\SourceCode\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.dll
+C:\Users\rober\Desktop\SourceCode\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.pdb
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\ProudNetSrc\bin\Debug\netstandard2.0\ProudNetSrc.deps.json
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\ProudNetSrc\bin\Debug\netstandard2.0\ProudNetSrc.dll
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\ProudNetSrc\bin\Debug\netstandard2.0\ProudNetSrc.pdb
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.csproj.CoreCompileInputs.cache
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.AssemblyInfoInputs.cache
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.AssemblyInfo.cs
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.dll
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.pdb
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.csprojAssemblyReference.cache
+C:\Users\Kora\Desktop\last try\src\ProudNetSrc\bin\Debug\netstandard2.0\ProudNetSrc.deps.json
+C:\Users\Kora\Desktop\last try\src\ProudNetSrc\bin\Debug\netstandard2.0\ProudNetSrc.dll
+C:\Users\Kora\Desktop\last try\src\ProudNetSrc\bin\Debug\netstandard2.0\ProudNetSrc.pdb
+C:\Users\Kora\Desktop\last try\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.csprojAssemblyReference.cache
+C:\Users\Kora\Desktop\last try\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.AssemblyInfoInputs.cache
+C:\Users\Kora\Desktop\last try\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.AssemblyInfo.cs
+C:\Users\Kora\Desktop\last try\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.dll
+C:\Users\Kora\Desktop\last try\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.pdb
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\ProudNetSrc\bin\Debug\netstandard2.0\ProudNetSrc.deps.json
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\ProudNetSrc\bin\Debug\netstandard2.0\ProudNetSrc.dll
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\ProudNetSrc\bin\Debug\netstandard2.0\ProudNetSrc.pdb
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.csprojAssemblyReference.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.AssemblyInfoInputs.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.AssemblyInfo.cs
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.csproj.CoreCompileInputs.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.dll
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\ProudNetSrc\obj\Debug\netstandard2.0\ProudNetSrc.pdb

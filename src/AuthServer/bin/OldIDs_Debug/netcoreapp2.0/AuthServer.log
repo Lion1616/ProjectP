@@ -1,0 +1,93 @@
+2020-09-01 22:39:44.056 +02:00 [INF] Initializing...
+2020-09-01 22:39:47.401 +02:00 [ERR] UnhandledException
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts. ---> System.AggregateException: One or more errors occurred. (Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte 127.0.0.1:3306) ---> System.Net.Internals.SocketExceptionFactory+ExtendedSocketException: Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte 127.0.0.1:3306
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.DoMultipleAddressConnectCallback(Object result, MultipleAddressConnectAsyncResult context)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Net.Sockets.Socket.DoMultipleAddressConnectCallback(Object result, MultipleAddressConnectAsyncResult context)
+   at System.Net.Sockets.Socket.MultipleAddressConnectCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__28_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at MySql.Data.Common.StreamCreator.GetTcpStream(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+---> (Inner Exception #0) System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10061): Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte 127.0.0.1:3306
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.DoMultipleAddressConnectCallback(Object result, MultipleAddressConnectAsyncResult context)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Net.Sockets.Socket.DoMultipleAddressConnectCallback(Object result, MultipleAddressConnectAsyncResult context)
+   at System.Net.Sockets.Socket.MultipleAddressConnectCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.EndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.TcpClient.<>c.<ConnectAsync>b__28_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)<---
+
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at NeoNetsphere.AuthDatabase.Open() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer\Program.cs:line 270
+   at NeoNetsphere.AuthDatabase.Initialize() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer\Program.cs:line 220
+   at NeoNetsphere.Program.Main() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer\Program.cs:line 101
+2020-09-01 22:52:57.220 +02:00 [INF] Initializing...
+2020-09-01 22:52:57.686 +02:00 [INF] Created random api_key: key-396279334
+2020-09-01 22:52:57.743 +02:00 [ERR] Database '..\..\..\..\db\auth.db' not found
+2020-09-01 22:53:28.701 +02:00 [INF] Initializing...
+2020-09-01 22:53:29.085 +02:00 [ERR] Database '..\..\..\..\db\auth.db' not found
+2020-09-01 22:54:10.125 +02:00 [INF] Initializing...
+2020-09-01 22:54:10.524 +02:00 [ERR] Database '..\..\..\..\db\auth.db' not found
+2020-09-01 22:54:51.487 +02:00 [INF] Initializing...
+2020-09-01 22:54:51.868 +02:00 [ERR] Database '..\..\..\..\..\db\auth.db' not found
+2020-09-01 22:55:04.477 +02:00 [INF] Initializing...
+2020-09-01 22:55:04.837 +02:00 [INF] Starting Server
+2020-09-01 22:55:04.856 +02:00 [ERR] UnhandledException
+System.Exception: XBN folder is missing!
+   at NeoNetsphere.Program.Main() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer\Program.cs:line 108
+2020-09-01 22:59:09.440 +02:00 [INF] Initializing...
+2020-09-01 22:59:09.789 +02:00 [INF] Starting Server
+2020-09-01 22:59:09.804 +02:00 [ERR] UnhandledException
+System.Exception: XBN folder is missing!
+   at NeoNetsphere.Program.Main() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer\Program.cs:line 108
+2020-09-01 22:59:39.925 +02:00 [INF] Initializing...
+2020-09-01 22:59:40.314 +02:00 [INF] Starting Server
+2020-09-01 22:59:40.329 +02:00 [ERR] UnhandledException
+System.Exception: XBN folder is missing!
+   at NeoNetsphere.Program.Main() in D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\src\AuthServer\Program.cs:line 108
+2020-09-01 23:00:33.081 +02:00 [INF] Initializing...
+2020-09-01 23:00:33.461 +02:00 [INF] Starting Server
+2020-09-01 23:00:33.765 +02:00 [INF] Starting - tcp=127.0.0.1:28002 udp=null udp-port=null
+2020-09-01 23:00:34.176 +02:00 [INF] Ready for connections!
+2020-09-01 23:00:34.178 +02:00 [WRN] !!! NOOB MODE IS ENABLED! EVERY LOGIN SUCCEEDS AND OVERRIDES ACCOUNT LOGIN DETAILS !!!
+2020-09-01 23:01:35.604 +02:00 [INF] Initializing...
+2020-09-01 23:01:35.974 +02:00 [INF] Starting Server
+2020-09-01 23:01:36.220 +02:00 [INF] Starting - tcp=127.0.0.1:28002 udp=null udp-port=null
+2020-09-01 23:01:36.497 +02:00 [INF] Ready for connections!
+2020-09-01 23:01:36.499 +02:00 [WRN] !!! NOOB MODE IS ENABLED! EVERY LOGIN SUCCEEDS AND OVERRIDES ACCOUNT LOGIN DETAILS !!!
+2020-09-01 23:07:40.466 +02:00 [INF] Initializing...
+2020-09-01 23:07:40.852 +02:00 [INF] Starting Server
+2020-09-01 23:07:41.019 +02:00 [INF] Starting - tcp=127.0.0.1:28002 udp=null udp-port=null
+2020-09-01 23:07:41.285 +02:00 [INF] Ready for connections!
+2020-09-01 23:07:41.287 +02:00 [WRN] !!! NOOB MODE IS ENABLED! EVERY LOGIN SUCCEEDS AND OVERRIDES ACCOUNT LOGIN DETAILS !!!
+2020-09-01 23:11:17.098 +02:00 [INF] Initializing...
+2020-09-01 23:11:17.515 +02:00 [INF] Starting Server
+2020-09-01 23:11:17.708 +02:00 [INF] Starting - tcp=127.0.0.1:28002 udp=null udp-port=null
+2020-09-01 23:11:17.985 +02:00 [INF] Ready for connections!
+2020-09-01 23:11:17.986 +02:00 [WRN] !!! NOOB MODE IS ENABLED! EVERY LOGIN SUCCEEDS AND OVERRIDES ACCOUNT LOGIN DETAILS !!!
+2020-09-01 23:17:05.625 +02:00 [INF] Initializing...
+2020-09-01 23:17:05.963 +02:00 [INF] Starting Server
+2020-09-01 23:17:06.157 +02:00 [INF] Starting - tcp=127.0.0.1:28002 udp=null udp-port=null
+2020-09-01 23:17:06.539 +02:00 [INF] Ready for connections!
+2020-09-01 23:17:06.542 +02:00 [WRN] !!! NOOB MODE IS ENABLED! EVERY LOGIN SUCCEEDS AND OVERRIDES ACCOUNT LOGIN DETAILS !!!
+2020-09-01 23:24:30.618 +02:00 [DBG] New incoming client(1001) on [::ffff:127.0.0.1]:60048
+2020-09-01 23:24:31.394 +02:00 [DBG] Client(1001) disconnected
+2020-09-01 23:24:31.398 +02:00 [VRB] Closing
+2020-09-01 23:24:31.402 +02:00 [DBG] Removing session 1001

@@ -1,0 +1,4 @@
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\Backup\src\GameServer\obj\OldIDs_Debug\netcoreapp2.0\GameServer.csprojAssemblyReference.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\Backup\src\GameServer\obj\OldIDs_Debug\netcoreapp2.0\GameServer.AssemblyInfoInputs.cache
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\Backup\src\GameServer\obj\OldIDs_Debug\netcoreapp2.0\GameServer.AssemblyInfo.cs
+D:\Server pack\Remnants Release Pack\S4 Only tools\S4League-Emu-1332-master\Backup\src\GameServer\obj\OldIDs_Debug\netcoreapp2.0\GameServer.csproj.CoreCompileInputs.cache

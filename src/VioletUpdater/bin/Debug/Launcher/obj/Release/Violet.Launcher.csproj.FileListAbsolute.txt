@@ -1,0 +1,70 @@
+D:\Projects\violet 1332+ userinfo\Launcher\obj\Release\MainWindow.g.cs
+D:\Projects\violet 1332+ userinfo\Launcher\obj\Release\App.g.cs
+D:\Projects\violet 1332+ userinfo\Launcher\obj\Release\MainWindow.baml
+D:\Projects\violet 1332+ userinfo\Launcher\obj\Release\Launcher.Properties.Resources.resources
+D:\Projects\violet 1332+ userinfo\Launcher\obj\Release\Violet.Launcher.csproj.GenerateResource.cache
+D:\Projects\violet 1332+ userinfo\Launcher\obj\Release\Violet.Launcher.csproj.CoreCompileInputs.cache
+D:\Projects\violet 1332+ userinfo\Launcher\bin\Release\Violet.exe.config
+D:\Projects\violet 1332+ userinfo\Launcher\bin\Release\Violet.exe
+D:\Projects\violet 1332+ userinfo\Launcher\bin\Release\Violet.pdb
+D:\Projects\violet 1332+ userinfo\Launcher\obj\Release\Violet_MarkupCompile.cache
+D:\Projects\violet 1332+ userinfo\Launcher\obj\Release\Violet_MarkupCompile.lref
+D:\Projects\violet 1332+ userinfo\Launcher\obj\Release\Violet.g.resources
+D:\Projects\violet 1332+ userinfo\Launcher\obj\Release\Violet.exe
+D:\Projects\violet 1332+ userinfo\Launcher\obj\Release\Violet.pdb
+D:\Projects\Backup\violet 1332+ userinfo\Launcher\bin\Release\Violet.exe.config
+D:\Projects\Backup\violet 1332+ userinfo\Launcher\bin\Release\Violet.exe
+D:\Projects\Backup\violet 1332+ userinfo\Launcher\bin\Release\Violet.pdb
+D:\Projects\Backup\violet 1332+ userinfo\Launcher\obj\Release\MainWindow.g.cs
+D:\Projects\Backup\violet 1332+ userinfo\Launcher\obj\Release\App.g.cs
+D:\Projects\Backup\violet 1332+ userinfo\Launcher\obj\Release\Violet_MarkupCompile.cache
+D:\Projects\Backup\violet 1332+ userinfo\Launcher\obj\Release\Violet_MarkupCompile.lref
+D:\Projects\Backup\violet 1332+ userinfo\Launcher\obj\Release\MainWindow.baml
+D:\Projects\Backup\violet 1332+ userinfo\Launcher\obj\Release\Violet.g.resources
+D:\Projects\Backup\violet 1332+ userinfo\Launcher\obj\Release\Launcher.Properties.Resources.resources
+D:\Projects\Backup\violet 1332+ userinfo\Launcher\obj\Release\Violet.Launcher.csproj.GenerateResource.cache
+D:\Projects\Backup\violet 1332+ userinfo\Launcher\obj\Release\Violet.Launcher.csproj.CoreCompileInputs.cache
+D:\Projects\Backup\violet 1332+ userinfo\Launcher\obj\Release\Violet.exe
+D:\Projects\Backup\violet 1332+ userinfo\Launcher\obj\Release\Violet.pdb
+C:\Users\Kora\Desktop\last try\Launcher\bin\Release\Violet.exe.config
+C:\Users\Kora\Desktop\last try\Launcher\bin\Release\Violet.exe
+C:\Users\Kora\Desktop\last try\Launcher\bin\Release\Violet.pdb
+C:\Users\Kora\Desktop\last try\Launcher\obj\Release\Violet.Launcher.csprojAssemblyReference.cache
+C:\Users\Kora\Desktop\last try\Launcher\obj\Release\MainWindow.g.cs
+C:\Users\Kora\Desktop\last try\Launcher\obj\Release\App.g.cs
+C:\Users\Kora\Desktop\last try\Launcher\obj\Release\Violet_MarkupCompile.cache
+C:\Users\Kora\Desktop\last try\Launcher\obj\Release\Violet_MarkupCompile.lref
+C:\Users\Kora\Desktop\last try\Launcher\obj\Release\MainWindow.baml
+C:\Users\Kora\Desktop\last try\Launcher\obj\Release\Violet.g.resources
+C:\Users\Kora\Desktop\last try\Launcher\obj\Release\Launcher.Properties.Resources.resources
+C:\Users\Kora\Desktop\last try\Launcher\obj\Release\Violet.Launcher.csproj.GenerateResource.cache
+C:\Users\Kora\Desktop\last try\Launcher\obj\Release\Violet.exe
+C:\Users\Kora\Desktop\last try\Launcher\obj\Release\Violet.pdb
+C:\Users\Kora\Desktop\s4emu\Launcher\bin\Release\Violet.exe.config
+C:\Users\Kora\Desktop\s4emu\Launcher\bin\Release\Violet.exe
+C:\Users\Kora\Desktop\s4emu\Launcher\bin\Release\Violet.pdb
+C:\Users\Kora\Desktop\s4emu\Launcher\obj\Release\Violet.Launcher.csprojAssemblyReference.cache
+C:\Users\Kora\Desktop\s4emu\Launcher\obj\Release\MainWindow.g.cs
+C:\Users\Kora\Desktop\s4emu\Launcher\obj\Release\App.g.cs
+C:\Users\Kora\Desktop\s4emu\Launcher\obj\Release\Violet_MarkupCompile.cache
+C:\Users\Kora\Desktop\s4emu\Launcher\obj\Release\Violet_MarkupCompile.lref
+C:\Users\Kora\Desktop\s4emu\Launcher\obj\Release\MainWindow.baml
+C:\Users\Kora\Desktop\s4emu\Launcher\obj\Release\Violet.g.resources
+C:\Users\Kora\Desktop\s4emu\Launcher\obj\Release\Launcher.Properties.Resources.resources
+C:\Users\Kora\Desktop\s4emu\Launcher\obj\Release\Violet.Launcher.csproj.GenerateResource.cache
+C:\Users\Kora\Desktop\s4emu\Launcher\obj\Release\Violet.exe
+C:\Users\Kora\Desktop\s4emu\Launcher\obj\Release\Violet.pdb
+C:\Users\Kora\Desktop\s4emu\src\Launcher\bin\Release\Violet.exe.config
+C:\Users\Kora\Desktop\s4emu\src\Launcher\bin\Release\Violet.exe
+C:\Users\Kora\Desktop\s4emu\src\Launcher\bin\Release\Violet.pdb
+C:\Users\Kora\Desktop\s4emu\src\Launcher\obj\Release\Violet.Launcher.csprojAssemblyReference.cache
+C:\Users\Kora\Desktop\s4emu\src\Launcher\obj\Release\MainWindow.g.cs
+C:\Users\Kora\Desktop\s4emu\src\Launcher\obj\Release\App.g.cs
+C:\Users\Kora\Desktop\s4emu\src\Launcher\obj\Release\Violet_MarkupCompile.cache
+C:\Users\Kora\Desktop\s4emu\src\Launcher\obj\Release\Violet_MarkupCompile.lref
+C:\Users\Kora\Desktop\s4emu\src\Launcher\obj\Release\MainWindow.baml
+C:\Users\Kora\Desktop\s4emu\src\Launcher\obj\Release\Violet.g.resources
+C:\Users\Kora\Desktop\s4emu\src\Launcher\obj\Release\Launcher.Properties.Resources.resources
+C:\Users\Kora\Desktop\s4emu\src\Launcher\obj\Release\Violet.Launcher.csproj.GenerateResource.cache
+C:\Users\Kora\Desktop\s4emu\src\Launcher\obj\Release\Violet.exe
+C:\Users\Kora\Desktop\s4emu\src\Launcher\obj\Release\Violet.pdb

@@ -1,0 +1,12 @@
+C:\Users\rober\Desktop\SourceCode\src\AuthServer.ServiceModel\bin\NewIDs_Release\netstandard2.0\AuthServer.ServiceModel.deps.json
+C:\Users\rober\Desktop\SourceCode\src\AuthServer.ServiceModel\bin\NewIDs_Release\netstandard2.0\AuthServer.ServiceModel.dll
+C:\Users\rober\Desktop\SourceCode\src\AuthServer.ServiceModel\bin\NewIDs_Release\netstandard2.0\AuthServer.ServiceModel.pdb
+C:\Users\rober\Desktop\SourceCode\src\AuthServer.ServiceModel\bin\NewIDs_Release\netstandard2.0\ProudNetSrc.dll
+C:\Users\rober\Desktop\SourceCode\src\AuthServer.ServiceModel\bin\NewIDs_Release\netstandard2.0\ProudNetSrc.pdb
+C:\Users\rober\Desktop\SourceCode\src\AuthServer.ServiceModel\obj\NewIDs_Release\netstandard2.0\AuthServer.ServiceModel.csprojAssemblyReference.cache
+C:\Users\rober\Desktop\SourceCode\src\AuthServer.ServiceModel\obj\NewIDs_Release\netstandard2.0\AuthServer.ServiceModel.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\SourceCode\src\AuthServer.ServiceModel\obj\NewIDs_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfoInputs.cache
+C:\Users\rober\Desktop\SourceCode\src\AuthServer.ServiceModel\obj\NewIDs_Release\netstandard2.0\AuthServer.ServiceModel.AssemblyInfo.cs
+C:\Users\rober\Desktop\SourceCode\src\AuthServer.ServiceModel\obj\NewIDs_Release\netstandard2.0\AuthServer.ServiceModel.csproj.CopyComplete
+C:\Users\rober\Desktop\SourceCode\src\AuthServer.ServiceModel\obj\NewIDs_Release\netstandard2.0\AuthServer.ServiceModel.dll
+C:\Users\rober\Desktop\SourceCode\src\AuthServer.ServiceModel\obj\NewIDs_Release\netstandard2.0\AuthServer.ServiceModel.pdb

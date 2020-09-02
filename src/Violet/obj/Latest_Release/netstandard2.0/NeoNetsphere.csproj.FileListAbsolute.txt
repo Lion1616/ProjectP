@@ -1,0 +1,53 @@
+D:\S4\SourceCode\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.deps.json
+D:\S4\SourceCode\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.dll
+D:\S4\SourceCode\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.pdb
+D:\S4\SourceCode\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.csprojAssemblyReference.cache
+D:\S4\SourceCode\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.csproj.CoreCompileInputs.cache
+D:\S4\SourceCode\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.AssemblyInfoInputs.cache
+D:\S4\SourceCode\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.AssemblyInfo.cs
+D:\S4\SourceCode\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.dll
+D:\S4\SourceCode\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.pdb
+C:\Users\rober\Desktop\SourceCode\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.deps.json
+C:\Users\rober\Desktop\SourceCode\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.dll
+C:\Users\rober\Desktop\SourceCode\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.pdb
+C:\Users\rober\Desktop\SourceCode\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\SourceCode\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.AssemblyInfoInputs.cache
+C:\Users\rober\Desktop\SourceCode\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.AssemblyInfo.cs
+C:\Users\rober\Desktop\SourceCode\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.dll
+C:\Users\rober\Desktop\SourceCode\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.pdb
+C:\Users\rober\Desktop\SourceCode\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.csprojAssemblyReference.cache
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.deps.json
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.dll
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.pdb
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.csproj.CoreCompileInputs.cache
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.AssemblyInfoInputs.cache
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.AssemblyInfo.cs
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.dll
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.pdb
+D:\Projects\Netspherepirates\Neonetspherepirates Old Dotnetty 1332-4\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.csprojAssemblyReference.cache
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.deps.json
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.dll
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.pdb
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.csproj.CoreCompileInputs.cache
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.AssemblyInfoInputs.cache
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.AssemblyInfo.cs
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.dll
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.pdb
+D:\Projects\S4Projects\Neonetspherepirates Old Dotnetty 1332-4\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.csprojAssemblyReference.cache
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.deps.json
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.dll
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.pdb
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.csproj.CoreCompileInputs.cache
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.AssemblyInfoInputs.cache
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.AssemblyInfo.cs
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.dll
+D:\Projects\S4Projects\S4 Emu 1332 + Patcher\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.pdb
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.deps.json
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.dll
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere\bin\Latest_Release\netstandard2.0\NeoNetsphere.pdb
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.csprojAssemblyReference.cache
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.csproj.CoreCompileInputs.cache
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.AssemblyInfoInputs.cache
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.AssemblyInfo.cs
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.dll
+D:\Projects\violet 1332+ userinfo\src\NeoNetsphere\obj\Latest_Release\netstandard2.0\NeoNetsphere.pdb
